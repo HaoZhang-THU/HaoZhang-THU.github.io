@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+#[content](https://github.com/)
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -17,9 +19,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am the Associate Director of the [ETAIC (Embodied Technology for Autonomy, Intelligence, and Control) Research Lab](https://etaic.github.io/) at the University of Texas at Arlington, working with [Prof. Eric Tseng](https://www.nae.edu/248787/Dr-Hongtei-E-Tseng), a member of the [National Academy of Engineering](https://www.nae.edu/). I am currently conducting postdoctoral research in the [Safe AI Lab](https://safeai-lab.github.io/) at Carnegie Mellon University, working with [Prof. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). I received my Ph.D. from School of Vehicle and Mobility at Tsinghua University, co-advised by [Prof. Zhi Wang](https://www.svm.tsinghua.edu.cn/essay/74/1854.html) and [Prof. Shengbo Eben Li](https://www.svm.tsinghua.edu.cn/essay/80/1812.html).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am the Associate Director of the ETAIC (Embodied Technology for Autonomy, Intelligence, and Control) Research Lab at the University of Texas at Arlington, working with Prof. Eric Tseng, a member of the National Academy of Engineering. I am currently conducting postdoctoral research at the Safe AI Lab of Carnegie Mellon University, under the supervision of Prof. Ding Zhao. I received my Ph.D. from School of Vehicle and Mobility at Tsinghua University, co-advised by Prof. Zhi Wang and Prof. Shengbo Eben Li.
+
+I received the Ph.D. degree from the School of Vehicle and Mobility, Tsinghua University, China, in 2024, where I was awarded the "Shuimu Scholar" talent program and honored with both the Outstanding Doctoral Dissertation Award and the Outstanding Graduate title. I currently hold a joint postdoctoral research position at Carnegie Mellon University and the University of Texas at Arlington. I previously worked as a visiting scholar at University College London in 2023 and as a research fellow at Tsinghua University in 2024. He is the author of more than 30 journal/conference papers, and the co-inventor of more than 20 patents. He is currently working with Prof. Hongtei Eric Tseng (NAE member) and Prof. Ding Zhao, on advancing the development of AI agents. His research focuses on reinforcement learning theory, the integration of large language models with closed loop control capabilities, and human-robot collaboration using game theory. His work explores the development of AI agents for applications in robotic systems, vehicle control systems, and distributed energy systems.
+
+
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
 
 
 # 🔥 News
