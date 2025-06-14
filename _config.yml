@@ -27,7 +27,8 @@ author:
   bio              : "Research Fellow"
 #  location         : "Pittsburgh, PA, U.S."
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=qC9ScSkAAAAJ"
+  education        : Tsinghua University
+  googlescholar    : #"https://scholar.google.com/citations?user=SCHOLAR_ID&user=qC9ScSkAAAAJ"
   email            : "Lorem@ipsum.com"
   researchgate     : "https://www.researchgate.net/profile/Hao-Zhang-288?ev=hdr_xprf"
   uri              :
@@ -38,7 +39,7 @@ author:
   facebook         :
   foursquare       :
   github           : # e.g., "github username"
-  google_plus      :
+  google_plus      : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=qC9ScSkAAAAJ"
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
