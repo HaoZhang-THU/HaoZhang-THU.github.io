@@ -21,14 +21,16 @@ redirect_from:
 
 I am the Associate Director of the [ETAIC (Embodied Technology for Autonomy, Intelligence, and Control) Research Lab](https://etaic.github.io/) at the University of Texas at Arlington, working with [Prof. Eric Tseng](https://www.nae.edu/248787/Dr-Hongtei-E-Tseng), a member of the [National Academy of Engineering](https://www.nae.edu/). I am currently conducting postdoctoral research in the [Safe AI Lab](https://safeai-lab.github.io/) at Carnegie Mellon University, working with [Prof. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). I received my Ph.D. from School of Vehicle and Mobility at Tsinghua University, co-advised by [Prof. Zhi Wang](https://www.svm.tsinghua.edu.cn/essay/74/1854.html) and [Prof. Shengbo Eben Li](https://www.svm.tsinghua.edu.cn/essay/80/1812.html).
 
-I was the recipient of the Outstanding Ph.D. Graduate, the Outstanding Doctoral Dissertation Award, and the “Shuimu Scholar” talent program from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2024. My doctoral research directly contributed to the successful industry deployment of reinforcement learning methods in developing advanced driver-assistance systems and energy management systems, significantly enhancing the operational efficiency of connected and automated vehicles. Notably, the control systems I developed have been implemented in leading automotive companies such as [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), and [SAIC Motor](https://www.saicmotor.com/english/index.shtml). 
+I was the recipient of the Outstanding Ph.D. Graduate, the Outstanding Doctoral Dissertation Award, and the “Shuimu Scholar” talent program at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2024. My doctoral research directly contributed to the successful industry deployment of reinforcement learning methods in developing advanced driver-assistance systems and energy management systems, significantly enhancing the operational efficiency of connected and automated vehicles. Notably, the control systems I developed have been implemented in leading automotive companies such as [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), and [SAIC Motor](https://www.saicmotor.com/english/index.shtml). 
 
 I have authored over 30 peer-reviewed journal and conference papers and am a co-inventor on more than 20 patents. My current research focuses on multi-agent reinforcement learning theory, the integration of large language models with closed-loop control, and human–robot collaboration using game theory. I aim to advance AI agents for real-world deployment in autonomous systems (including robotics and vehicles) and distributed energy systems.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉 I joined the Safe AI Lab as a Postdoctoral Researcher in the U.S.
+- *2025.05*: Our paper [Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles](https://www.techrxiv.org/users/692350/articles/1233556-bi-level-transfer-learning-for-lifelong-intelligent-energy-management-of-electric-vehicles) was accepted for publication in IEEE Transactions on Intelligent Transportation Systems.
+- *2025.03*: &nbsp;🎉 I joined the ETAIC Research Lab as Associate Director in the U.S.
+- *2025.01*: Our paper [Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling](https://ieeexplore.ieee.org/document/10852019) was accepted for publication in IEEE Transactions on Vehicular Technology.
 
 # 📝 Publications 
 
