@@ -60,8 +60,8 @@ I have authored over 30 peer-reviewed journal and conference papers and am a co-
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2024* “Shuimu Tsinghua Scholar” Talents Program, Tsinghua University
 - *2024* Plenary Talk at 2024 China SAE Annual Conference on Advanced Powertrains
+- *2024* “Shuimu Tsinghua Scholar” Talents Program, Tsinghua University
 - *2024* Outstanding Doctoral Dissertation Award, Tsinghua University
 - *2024* Outstanding Ph.D. Graduate (top 4%), Tsinghua University
 - *2023* Comprehensive Excellence Scholarship, Tsinghua University
