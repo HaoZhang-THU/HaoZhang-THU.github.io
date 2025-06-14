@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#[content](https://github.com/)
+#[]()
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -21,12 +21,7 @@ redirect_from:
 
 I am the Associate Director of the [ETAIC (Embodied Technology for Autonomy, Intelligence, and Control) Research Lab](https://etaic.github.io/) at the University of Texas at Arlington, working with [Prof. Eric Tseng](https://www.nae.edu/248787/Dr-Hongtei-E-Tseng), a member of the [National Academy of Engineering](https://www.nae.edu/). I am currently conducting postdoctoral research in the [Safe AI Lab](https://safeai-lab.github.io/) at Carnegie Mellon University, working with [Prof. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). I received my Ph.D. from School of Vehicle and Mobility at Tsinghua University, co-advised by [Prof. Zhi Wang](https://www.svm.tsinghua.edu.cn/essay/74/1854.html) and [Prof. Shengbo Eben Li](https://www.svm.tsinghua.edu.cn/essay/80/1812.html).
 
-I am the Associate Director of the ETAIC (Embodied Technology for Autonomy, Intelligence, and Control) Research Lab at the University of Texas at Arlington, working with Prof. Eric Tseng, a member of the National Academy of Engineering. I am currently conducting postdoctoral research at the Safe AI Lab of Carnegie Mellon University, under the supervision of Prof. Ding Zhao. I received my Ph.D. from School of Vehicle and Mobility at Tsinghua University, co-advised by Prof. Zhi Wang and Prof. Shengbo Eben Li.
-
-I received the Ph.D. degree from the School of Vehicle and Mobility, Tsinghua University, China, in 2024, where I was awarded the "Shuimu Scholar" talent program and honored with both the Outstanding Doctoral Dissertation Award and the Outstanding Graduate title. I currently hold a joint postdoctoral research position at Carnegie Mellon University and the University of Texas at Arlington. I previously worked as a visiting scholar at University College London in 2023 and as a research fellow at Tsinghua University in 2024. He is the author of more than 30 journal/conference papers, and the co-inventor of more than 20 patents. He is currently working with Prof. Hongtei Eric Tseng (NAE member) and Prof. Ding Zhao, on advancing the development of AI agents. His research focuses on reinforcement learning theory, the integration of large language models with closed loop control capabilities, and human-robot collaboration using game theory. His work explores the development of AI agents for applications in robotic systems, vehicle control systems, and distributed energy systems.
-
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
+I received several prestigious honors from [Tsinghua University](https://www.tsinghua.edu.cn/en/), including the Outstanding Ph.D. Graduate, the Outstanding Doctoral Dissertation Award, and selection into the “Shuimu Scholar” talent program. I have authored over 30 peer-reviewed journal and conference papers and am a co-inventor on more than 20 patents. My research focuses on reinforcement learning theory, the integration of large language models with closed-loop control, and human–robot collaboration using game theory. I aim to advance AI agents for real-world deployment in autonomous systems (including robotics and vehicles) and distributed energy systems. During my Ph.D. studies at Tsinghua University, I gained extensive engineering experience in developing advanced driver-assistance systems and energy management systems for connected and automated vehicles (CAVs). My doctoral research directly contributed to the successful industry deployment of these technologies, significantly improving the operational efficiency of CAVs. Notably, the control systems I developed have been implemented in leading automotive companies such as [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), and [SAIC Motor](https://www.saicmotor.com/english/index.shtml).
 
 
 # 🔥 News
