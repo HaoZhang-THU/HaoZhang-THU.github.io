@@ -8,7 +8,7 @@
 
 # Site Settings
 title                    : "Hao Zhang"
-description              : "Hao Zhang's Webpage. "
+description              : #"Hao Zhang's Webpage. "
 repository               : "haozhang-thu.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -24,12 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Zhang"
   avatar           : "images/hao_photo.jpg"
-  bio              : "Research Fellow"
+  bio              : "Research Fellow, Ph.D."
 #  location         : "Pittsburgh, PA, U.S."
   pubmed           : 
 #  education        : Tsinghua University
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=qC9ScSkAAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "hao_thu@foxmail.com"
   researchgate     : "https://www.researchgate.net/profile/Hao-Zhang-288?ev=hdr_xprf"
   uri              :
   bitbucket        :
