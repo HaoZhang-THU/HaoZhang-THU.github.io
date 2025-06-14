@@ -26,11 +26,10 @@ author:
   avatar           : "images/hao_photo.jpg"
   bio              : "Research Fellow"
 #  location         : "Pittsburgh, PA, U.S."
-  employer         : "Safe AI Lab, PA, U.S.<br>ETAIC Lab, TX, U.S."
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=qC9ScSkAAAAJ"
   email            : "Lorem@ipsum.com"
-  researchgate     : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=qC9ScSkAAAAJ"
+  researchgate     : "https://www.researchgate.net/profile/Hao-Zhang-288?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -48,6 +47,8 @@ author:
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0001-5395-4017"
   pinterest        :
+  employer         : "Safe AI Lab, PA, U.S."
+  employer         : "ETAIC Lab, TX, U.S."
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
