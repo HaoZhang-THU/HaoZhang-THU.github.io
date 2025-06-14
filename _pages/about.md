@@ -25,6 +25,11 @@ I was the recipient of the Outstanding Ph.D. Graduate, the Outstanding Doctoral 
 I have authored over 30 peer-reviewed journal and conference papers and am a co-inventor on more than 20 patents. My current research focuses on multi-agent reinforcement learning theory, the integration of large language models with closed-loop control, and human–robot collaboration using game theory. I aim to advance AI agents for real-world deployment in autonomous systems (including robotics and vehicles) and distributed energy systems.
 
 
+# 💻 Research Interests
+- Embidied AI theory: Multi-agent reinforcement learning, LLM with closed-loop capability, game theory
+- Micro-mobility Device: Trustworthy AI methods for motion control of assistive and mobile robots
+- Automotive/Energy: Generalized AI foundation model for ADAS, EMS and V2G
+
 # 🔥 News
 - *2025.06*:&nbsp;🎉 I joined the Safe AI Lab as a Postdoctoral Researcher in the U.S.
 - *2025.05*: Our paper [Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles](https://www.techrxiv.org/users/692350/articles/1233556-bi-level-transfer-learning-for-lifelong-intelligent-energy-management-of-electric-vehicles) was accepted for publication in IEEE Transactions on Intelligent Transportation Systems.
@@ -55,8 +60,26 @@ I have authored over 30 peer-reviewed journal and conference papers and am a co-
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* “Shuimu Tsinghua Scholar” Talents Program, Tsinghua University
+- *2024* Plenary Talk at 2024 China SAE Annual Conference on Advanced Powertrains
+- *2024* Outstanding Doctoral Dissertation Award, Tsinghua University
+- *2024* Outstanding Ph.D. Graduate (top 4%), Tsinghua University
+- *2023* Comprehensive Excellence Scholarship, Tsinghua University
+- *2022* Best Paper Award in the 2022 CSICE Conference on TEIP in Shanghai, China
+- *2022* Comprehensive Excellence Scholarship, Tsinghua University
+- *2021* Excellent Student Leader, Tsinghua University
+- *2021* Comprehensive Excellence Scholarship, Tsinghua University
+- *2020* Comprehensive Excellence Scholarship, Tsinghua University
+- *2018* National Scholarship, Ministry of Education of China
+- *2018* Best Paper Award in the 2018 IEEE ACES Conference in Denver, U.S.
+- *2017* National Scholarship, Ministry of Education of China
+- *2016* National Scholarship, Ministry of Education of China
+
+
+
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
