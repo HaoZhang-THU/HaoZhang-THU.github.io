@@ -118,6 +118,7 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 **Hao Zhang**, Boli Chen, Nuo Lei, Bingbing Li, Rulong Li, Zhi Wang*
 
+[**Collaborator: Dongfeng Motor**](https://www.dongfeng-global.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This research proposes a model-free multistate deep reinforcement learning (DRL) algorithm for integrated thermal and energy management (ITEM) of multimode connected PHEVs, leveraging AI control and traffic preview to enhance EMS performance under cold climate conditions.
 </div>
 </div>
