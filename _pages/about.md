@@ -43,7 +43,7 @@ I have authored over 30 peer-reviewed journal and conference papers and am a co-
 - *2024.06*: Our paper [Integrated Thermal and Energy Management of Connected Hybrid Electric Vehicles Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10233107) was published in IEEE Transactions on Transportation Electrification.
 
 
-# 📝 Publications 
+# 📝 Featured Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/IEEE_TITS_2025_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,7 +63,7 @@ I have authored over 30 peer-reviewed journal and conference papers and am a co-
 # Selected Papers
 - **Zhang H**, Lei N, Chen B, et al. Bi-level transfer learning for lifelong intelligent energy management of electric vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, Early Access.
 - Lei N, **Zhang H**, Hu J, et al. Sim-to-real design and development of reinforcement learning-based energy management strategies for fuel cell electric vehicles. Applied Energy, 2025,393:126030.
-- Lei N, **Zhang H** (Corresponding Author), Wang H, et al. Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling. IEEE Trans. on Vehicular Technology, 2025, Early Access.
+- Lei N, **Zhang H***(Corresponding Author), Wang H, et al. Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling. IEEE Trans. on Vehicular Technology, 2025, Early Access.
 - **Zhang H**, Lei N, Chen B, et al. Modeling and control system optimization for electrified vehicles: A data-driven approach. Energy, 2024,311:133196.
 - **Zhang H**, Chen B, Lei N, et al. Coupled velocity and energy management optimization of connected hybrid electric vehicles for maximum collective efficiency. Applied Energy, 2024,360:122792.
 - Li B, Zhuang W, **Zhang H**, et al. Traffic-aware ecological cruising control for connected electric vehicle. IEEE Trans. on Transportation Electrification. 2024,10:5225-5240.
@@ -76,7 +76,7 @@ I have authored over 30 peer-reviewed journal and conference papers and am a co-
 - Li B, Zhuang W, **Zhang H**, et al. A comparative study of energy-oriented driving strategy for connected electric vehicles on freeways with varying slopes. Energy, 2023,289:129916.
 - Lei N, **Zhang H**, Wang H, et al. An improved co-optimization of component sizing and energy management for hybrid powertrains with high-fidelity model. IEEE Trans. on Vehicular Technology, 2023,72:15585-15596.
 - **Zhang H**, Liu S, Lei N, et al. Learning-based supervisory control of dual mode engine-based hybrid electric vehicle with reliance on multivariate trip information. Energy Conversion and Management, 2022,257:115450.
-- More publications can be found on my [Researchgate homepage](https://www.researchgate.net/profile/Hao-Zhang-288).
+- More publications can be found on my [Google Scholar homepage](https://scholar.google.com/citations?user=SCHOLAR_ID&user=qC9ScSkAAAAJ).
 
 
 # 🎖 Honors and Awards
@@ -96,18 +96,35 @@ I have authored over 30 peer-reviewed journal and conference papers and am a co-
 - *2016* National Scholarship, Ministry of Education of China
 
 
+# 💻 Work Experience
+- *2025 - now*, Postdoc Researcher, Safe AI Lab, Carnegie Mellon University, U.S.
+- *2025 - now*, Research Associate, ETAIC Research Lab, University of Texas at Arlington, U.S.
+- *2024 - 2024*, Postdoc Researcher, Advanced Powertrain Lab, Tsinghua University, China
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- Ph.D. in Automotive Engineering, Tsinghua University, China (2024)
+- Visiting student in Prof. Boli Chen's lab, University College London, U.K. (2023)
+- B.Eng. in Electrical Engineering and Automation, China University of Mining and Technology, China (2019)
+- Visiting student in Prof. A. A. Arkadan (IEEE Fellow)'s lab, Colorado School of Mines, U.S. (2017)
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.08*, Zhang, H., APC 2024: Joint Annual Conference on Advanced Powertrains - China SAE, "Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control," China SAE, Zhenjiang, China
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 📚 Service
+# Reviewer
+- Reviewer, Journal, Renewable and Sustainable Energy Reviews. (2025 - Present).
+- Reviewer, Journal, Engineering Applications of Artificial Intelligence. (2025 - Present).
+- Reviewer, Journal, IEEE Transactions on Intelligent Transportation Systems. (2024 - Present).
+- Reviewer, Journal, IEEE Transactions on Intelligent Vehicles. (2024 - Present).
+- Reviewer, Journal, IEEE Transactions on Transportation Electrification. (2024 - Present).
+- Reviewer, Journal, Applied Energy. (2023 - Present).
+- Reviewer, Journal, Energy. (2023 - Present).
+- Reviewer, Journal, Energy Conversion and Management. (2023 - Present).
+- Reviewer, Journal, IEEE Transactions on Vehicular Technology. (2023 - Present).
+- Reviewer, Conference, IEEE Intelligent Transportation Systems Conference (ITSC). (2024 - Present).
+# Teaching Assistant
+- Guest Lecturer, Fundamentals of Automotive Powertrains，Tsinghua University, Fall 2024
+- Teaching Assistant, Frontiers in Dynamic Systems and Control，Tsinghua University, Fall 2021
