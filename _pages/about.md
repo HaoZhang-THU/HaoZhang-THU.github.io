@@ -26,9 +26,9 @@ I have authored over 30 peer-reviewed journal and conference papers and am a co-
 
 
 # 💻 Research Interests
-- Embidied AI theory: Multi-agent reinforcement learning, LLM with closed-loop capability, game theory
+- Embidied AI theory: Multi-agent reinforcement learning, LLM with closed-loop capability, and game theory
 - Micro-mobility Device: Trustworthy AI methods for motion control of assistive and mobile robots
-- Automotive/Energy: Generalized AI foundation model for ADAS, EMS and V2G
+- Automotive/Energy: Generalized AI foundation model for ADAS, EMS, and V2G
 
 # 🔥 News
 - *2025.06*: Our paper [Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles](https://www.techrxiv.org/users/692350/articles/1233556-bi-level-transfer-learning-for-lifelong-intelligent-energy-management-of-electric-vehicles) was published in IEEE Transactions on Intelligent Transportation Systems.
