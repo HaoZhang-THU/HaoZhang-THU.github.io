@@ -52,7 +52,7 @@ I have authored over 30 peer-reviewed journal and conference papers and am a co-
 
 **Hao Zhang**, Nuo Lei, Wang Peng, Bingbing Li, Shujun Lv, Boli Chen*, Zhi Wang*
 
-[**Collaborator: Dongfeng Motor**](https://www.byd.com/us) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Collaborator: BYD Auto**](https://www.byd.com/us) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper proposes a bi-level transfer approach with MAML to realize cross-platform transferable and online-adaptive EMS for REEVs. It contributed to the successful industry deployment of RL methods, implemented in leading automotive company - BYD Auto, significantly enhancing the REEV efficiency. 
 </div>
 </div>
@@ -64,8 +64,7 @@ I have authored over 30 peer-reviewed journal and conference papers and am a co-
 
 **Hao Zhang**, Nuo Lei, Shengbo Eben Li, Junzhi Zhang, Zhi Wang*
 
-[**Collaborator: BYD Auto**](https://www.byd.com/us) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper proposes a bi-level transfer approach with MAML to realize cross-platform transferable and online-adaptive EMS for REEVs. It contributed to the successful industry deployment of RL methods, implemented in leading automotive company - BYD Auto, significantly enhancing the REEV efficiency. 
+- Given the intricate coupling of mechanical, electrical, and thermal dynamics with the driving cycle, automotive energy control becomes a high-dimensional and complex problem. This study proposes a multi-horizon reinforcement learning (MHRL)-based energy controller featuring a novel state representation and coordinated training of sub-networks across multiple time scales, and improves fuel economy in real-world driving, which improves fuel economy in real-world driving.
 </div>
 </div>
 
