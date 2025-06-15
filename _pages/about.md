@@ -31,13 +31,13 @@ I have authored over 30 peer-reviewed journal and conference papers and am a co-
 - Automotive/Energy: Generalized AI foundation model for ADAS, EMS and V2G
 
 # 🔥 News
-- *2025.06*:&nbsp;🎉 I joined the Safe AI Lab as a Postdoctoral Researcher in the U.S.
-- *2025.05*: Our paper [Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles](https://www.techrxiv.org/users/692350/articles/1233556-bi-level-transfer-learning-for-lifelong-intelligent-energy-management-of-electric-vehicles) was accepted for publication in IEEE Transactions on Intelligent Transportation Systems.
-- *2025.03*:&nbsp;🎉 I joined the ETAIC Research Lab as Associate Director in the U.S.
+- *2025.06*: Our paper [Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles](https://www.techrxiv.org/users/692350/articles/1233556-bi-level-transfer-learning-for-lifelong-intelligent-energy-management-of-electric-vehicles) was published in IEEE Transactions on Intelligent Transportation Systems.
+- *2025.06*:&nbsp;🎉 I joined the Safe AI Lab as a Postdoctoral Researcher at CMU in the U.S.
 - *2025.01*: Our paper [Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling](https://ieeexplore.ieee.org/document/10852019) was published in IEEE Transactions on Vehicular Technology.
 - *2025.01*: Our paper [Ecological Electric Vehicle Platooning: An Adaptive Tube-Based Distributed Model Predictive Control Approach](https://ieeexplore.ieee.org/document/10530162) was published in IEEE Transactions on Transportation Electrification.
 - *2024.11*: Our paper [Modeling and control system optimization for electrified vehicles: A data-driven approach](https://www.sciencedirect.com/science/article/pii/S0360544224029712?via%3Dihub) was published in Energy.
-- *2024.08*:&nbsp;🎉 I delivered a plenary talk at 2024 China SAE Annual Conference on Advanced Powertrains (APC), titled “Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control”, held in Zhenjiang, China.
+- *2024.11*:&nbsp;🎉 I am an incoming Research Associate in ETAIC Lab led by Prof. Eric Tseng (NAE Member) at UTA in the U.S.
+- *2024.08*: I delivered a plenary talk at 2024 China SAE Annual Conference on Advanced Powertrains (APC), titled “Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control”, held in Zhenjiang, China.
 - *2024.06*:&nbsp;🎉 I was selected for the “Shuimu Scholar” talent program at Tsinghua University.
 - *2024.06*:&nbsp;🎉 I received the Outstanding Ph.D. Graduate and the Excellent Doctoral Dissertation Award from Tsinghua University.
 - *2024.06*: Our paper [Integrated Thermal and Energy Management of Connected Hybrid Electric Vehicles Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10233107) was published in IEEE Transactions on Transportation Electrification.
