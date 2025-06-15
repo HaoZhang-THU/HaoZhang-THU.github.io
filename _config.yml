@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Zhang"
   avatar           : "images/hao_photo.jpg"
-  bio              : "Ph.D., Research Fellow"
+  bio              : "Ph.D. <br>Research Fellow"
 #  location         : "Pittsburgh, PA, U.S."
   pubmed           : 
 #  education        : Tsinghua University
