@@ -3,20 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Research"
+  - title: "Research Interests"
     url: "/#-Research Interests"
     
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
+  - title: "Featured Publications"
     url: "/#-Featured Publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Work Experence"
-    url: "/#-Work Experence"
+  - title: "Work Experience"
+    url: "/#-Work Experience"
     
   - title: "Education"
     url: "/#-education"
@@ -24,5 +24,5 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "Services"
+  - title: "Service"
     url: "/#-Service"
