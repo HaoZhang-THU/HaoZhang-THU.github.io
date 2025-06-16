@@ -184,16 +184,17 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 # 📚 Service
 # Reviewer
-- Reviewer, Journal, Renewable and Sustainable Energy Reviews. (2025 - Present).
-- Reviewer, Journal, Engineering Applications of Artificial Intelligence. (2025 - Present).
-- Reviewer, Journal, IEEE Transactions on Intelligent Transportation Systems. (2024 - Present).
-- Reviewer, Journal, IEEE Transactions on Intelligent Vehicles. (2024 - Present).
-- Reviewer, Journal, IEEE Transactions on Transportation Electrification. (2024 - Present).
-- Reviewer, Journal, Applied Energy. (2023 - Present).
-- Reviewer, Journal, Energy. (2023 - Present).
-- Reviewer, Journal, Energy Conversion and Management. (2023 - Present).
-- Reviewer, Journal, IEEE Transactions on Vehicular Technology. (2023 - Present).
-- Reviewer, Conference, IEEE Intelligent Transportation Systems Conference (ITSC). (2024 - Present).
+- Reviewer, Journal, Renewable and Sustainable Energy Reviews. (2025 - Present)
+- Reviewer, Journal, Engineering Applications of Artificial Intelligence. (2025 - Present)
+- Reviewer, Journal, IEEE Transactions on Intelligent Transportation Systems. (2024 - Present)
+- Reviewer, Journal, IEEE Transactions on Intelligent Vehicles. (2024 - Present)
+- Reviewer, Journal, IEEE Transactions on Transportation Electrification. (2024 - Present)
+- Reviewer, Journal, Applied Energy. (2023 - Present)
+- Reviewer, Journal, Energy. (2023 - Present)
+- Reviewer, Journal, Energy Conversion and Management. (2023 - Present)
+- Reviewer, Journal, IEEE Transactions on Vehicular Technology. (2023 - Present)
+- Reviewer, Conference, IEEE Intelligent Transportation Systems Conference (ITSC). (2024 - Present)
+
 # Teaching Assistant
 - Guest Lecturer, Fundamentals of Automotive Powertrains，Tsinghua University, Fall 2024
 - Teaching Assistant, Frontiers in Dynamic Systems and Control，Tsinghua University, Fall 2021
