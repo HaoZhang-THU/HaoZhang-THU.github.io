@@ -57,14 +57,14 @@ I have authored over 30 peer-reviewed journal and conference papers and am a co-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/IEEE_TITS_2025_500x300_multiscale.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/IEEE_TITS_2025_multi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles](https://www.techrxiv.org/users/692350/articles/1184096-multi-scale-reinforcement-learning-of-dynamic-energy-controller-for-connected-electrified-vehicles?commit=cd309bc80017f735b83292e39179ef3815d2cbe2)
 
 **Hao Zhang**, Nuo Lei, Shengbo Eben Li, Junzhi Zhang, Zhi Wang*
 
-- Given the intricate coupling of mechanical, electrical, and thermal dynamics with the driving cycle, automotive energy control becomes a high-dimensional and complex problem. This study proposes a multi-horizon reinforcement learning (MHRL)-based energy controller featuring a novel state representation and coordinated training of sub-networks across multiple time scales, and improves fuel economy in real-world driving, which improves fuel economy in real-world driving.
+- Given the intricate coupling of mechanical, electrical, thermal dynamics and driving cycles, automotive energy control becomes high-dimensional and complex. This study proposes a multi-horizon reinforcement learning (MHRL) featuring a novel state representation and coordinated training of sub-networks across multiple time scales, which greatly improves fuel economy in real-world driving.
 </div>
 </div>
 
