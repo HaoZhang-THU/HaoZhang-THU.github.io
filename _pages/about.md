@@ -53,7 +53,7 @@ I have authored over 30 peer-reviewed journal and conference papers and am a co-
 
 **Hao Zhang**, Nuo Lei, Shengbo Eben Li, Junzhi Zhang, Zhi Wang
 
-- Given the intricate coupling of mechanical, electrical, thermal dynamics and driving cycles, automotive energy control becomes high-dimensional and complex. This study proposes a multi-horizon reinforcement learning (MHRL) featuring a novel state representation and coordinated training of sub-networks across multiple time scales, which greatly improves fuel economy in real-world driving.
+- This study proposes a multi-horizon reinforcement learning (MHRL) featuring a novel state representation and coordinated training of sub-networks across multiple time scales, which greatly improves fuel economy in real-world driving.
 </div>
 </div>
 
