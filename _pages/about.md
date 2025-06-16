@@ -166,9 +166,10 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 
 # 💻 Work Experience
-- *2025 - now*, Postdoc Researcher, Safe AI Lab, Carnegie Mellon University, U.S.
-- *2025 - now*, Research Associate, ETAIC Research Lab, University of Texas at Arlington, U.S.
-- *2024 - 2024*, Postdoc Researcher, Advanced Powertrain Lab, Tsinghua University, China
+- *2025 - now*, Associate Director, ETAIC Research Lab, University of Texas at Arlington, U.S.
+- *2025 - now*, Postdoc Researcher, Department of Mechanical Engineering, Carnegie Mellon University, U.S.
+- *2025 - now*, Research Associate, Department of Electrical Engineering, University of Texas at Arlington, U.S.
+- *2024 - 2024*, Postdoc Researcher, School of Vehicle and Mobility, Tsinghua University, China
 
 
 # 📖 Education
@@ -179,22 +180,22 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 
 # 💬 Invited Talks
-- *2024.08*, Zhang, H., APC 2024: Joint Annual Conference on Advanced Powertrains - China SAE, "Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control," China SAE, Zhenjiang, China
+- *2024.08*, Plenary Talk, APC 2024: Joint Annual Conference on Advanced Powertrains - China SAE, "Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control," China SAE, Zhenjiang, China
 
 
 # 📚 Service
 # Reviewer
-- Reviewer, Journal, Renewable and Sustainable Energy Reviews. (2025 - Present)
-- Reviewer, Journal, Engineering Applications of Artificial Intelligence. (2025 - Present)
-- Reviewer, Journal, IEEE Transactions on Intelligent Transportation Systems. (2024 - Present)
-- Reviewer, Journal, IEEE Transactions on Intelligent Vehicles. (2024 - Present)
-- Reviewer, Journal, IEEE Transactions on Transportation Electrification. (2024 - Present)
-- Reviewer, Journal, Applied Energy. (2023 - Present)
-- Reviewer, Journal, Energy. (2023 - Present)
-- Reviewer, Journal, Energy Conversion and Management. (2023 - Present)
-- Reviewer, Journal, IEEE Transactions on Vehicular Technology. (2023 - Present)
-- Reviewer, Conference, IEEE Intelligent Transportation Systems Conference (ITSC). (2024 - Present)
+- Reviewer, Journal, IEEE Transactions on Intelligent Transportation Systems
+- Reviewer, Journal, IEEE Transactions on Intelligent Vehicles
+- Reviewer, Journal, IEEE Transactions on Transportation Electrification
+- Reviewer, Journal, IEEE Transactions on Vehicular Technology
+- Reviewer, Journal, Renewable and Sustainable Energy Reviews
+- Reviewer, Journal, Applied Energy
+- Reviewer, Journal, Energy
+- Reviewer, Journal, Energy Conversion and Management
+- Reviewer, Journal, Engineering Applications of Artificial Intelligence
+- Reviewer, Conference, IEEE Intelligent Transportation Systems Conference (ITSC)
 
 # Teaching Assistant
-- Guest Lecturer, Fundamentals of Automotive Powertrains，Tsinghua University, Fall 2024
+- Guest Lecturer, Fundamentals of Automotive Powertrains，Tsinghua University, Fall 2023
 - Teaching Assistant, Frontiers in Dynamic Systems and Control，Tsinghua University, Fall 2021
