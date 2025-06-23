@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am the Associate Director of the [ETAIC (Embodied Technology for Autonomy, Intelligence, and Control) Research Lab](https://etaic.github.io/) at the University of Texas at Arlington, working with [Prof. Eric Tseng](https://www.nae.edu/248787/Dr-Hongtei-E-Tseng), a member of the [National Academy of Engineering](https://www.nae.edu/). I am currently conducting postdoctoral research in the [Safe AI Lab](https://safeai-lab.github.io/) at Carnegie Mellon University, working with [Prof. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). I received my Ph.D. from School of Vehicle and Mobility at Tsinghua University, co-advised by [Prof. Zhi Wang](https://www.svm.tsinghua.edu.cn/essay/74/1854.html) and [Prof. Shengbo Eben Li](https://www.svm.tsinghua.edu.cn/essay/80/1812.html).
+I am currently conducting postdoctoral research in the [Safe AI Lab](https://safeai-lab.github.io/) at Carnegie Mellon University, working with [Prof. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). I am also the Associate Director of the [ETAIC (Embodied Technology for Autonomy, Intelligence, and Control) Research Lab](https://etaic.github.io/) at the University of Texas at Arlington, working with [Prof. Eric Tseng](https://www.nae.edu/248787/Dr-Hongtei-E-Tseng), a member of the [National Academy of Engineering](https://www.nae.edu/). I received my Ph.D. from School of Vehicle and Mobility at Tsinghua University, co-advised by [Prof. Zhi Wang](https://www.svm.tsinghua.edu.cn/essay/74/1854.html) and [Prof. Shengbo Eben Li](https://www.svm.tsinghua.edu.cn/essay/80/1812.html).
 
 I was the recipient of the Outstanding Ph.D. Graduate, the Outstanding Doctoral Dissertation Award, and the “Shuimu Scholar” talent program at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2024. My doctoral research directly contributed to the successful industry deployment of reinforcement learning methods in developing advanced driver-assistance systems and energy management systems, significantly enhancing the operational efficiency of connected and automated vehicles. Notably, the control systems I developed have been implemented in leading automotive companies such as [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), [SAIC Motor](https://www.saicmotor.com/english/index.shtml), and start-up automotive companies such as [Hybot](http://www.hybot.com.cn/). 
 
@@ -28,7 +28,7 @@ I have authored over 30 peer-reviewed journal and conference papers and am a co-
 # 💻 Research Interests
 - Embidied AI theory: Multi-agent reinforcement learning, LLM with closed-loop capability, and game theory
 - Micro-mobility Device: Trustworthy AI methods for motion control of assistive and mobile robots
-- Automotive/Energy: Generalized AI foundation model for ADAS, EMS, and V2G
+- Automotive/Energy: Scalable AI foundation for ADAS, EMS, and related systems
 
 # 🔥 News
 - *2025.06*: Our paper [Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles](https://www.techrxiv.org/users/692350/articles/1233556-bi-level-transfer-learning-for-lifelong-intelligent-energy-management-of-electric-vehicles) was published in IEEE Transactions on Intelligent Transportation Systems.
@@ -173,19 +173,6 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 - *2017* National Scholarship, Ministry of Education of China
 - *2016* National Scholarship, Ministry of Education of China
 
-
-# 💻 Work Experience
-- *2025 - now*, Associate Director, ETAIC Research Lab, University of Texas at Arlington, U.S.
-- *2025 - now*, Postdoc Researcher, Department of Mechanical Engineering, Carnegie Mellon University, U.S.
-- *2025 - now*, Research Associate, Department of Electrical Engineering, University of Texas at Arlington, U.S.
-- *2024 - 2024*, Postdoc Researcher, School of Vehicle and Mobility, Tsinghua University, China
-
-
-# 📖 Education
-- Ph.D. in Automotive Engineering, Tsinghua University, China (2024)
-- Visiting student in Prof. Boli Chen's lab, University College London, U.K. (2023)
-- B.Eng. in Electrical Engineering and Automation, China University of Mining and Technology, China (2019)
-- Visiting student in Prof. A. A. Arkadan (IEEE Fellow)'s lab, Colorado School of Mines, U.S. (2017)
 
 
 # 💬 Invited Talks
