@@ -192,6 +192,10 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 - Reviewer, Journal, Engineering Applications of Artificial Intelligence
 - Reviewer, Conference, IEEE Intelligent Transportation Systems Conference (ITSC)
 
-# Teaching Assistant
+# Teaching
 - Guest Lecturer, Fundamentals of Automotive Powertrains，Tsinghua University, Fall 2023
 - Teaching Assistant, Frontiers in Dynamic Systems and Control，Tsinghua University, Fall 2021
+
+# Mentorship
+- Since 2024, independently mentored postgraduate and undergraduate students from THU, ZJU, UCL, etc. Several undergraduate mentees have published papers in top-tier journals such as Applied Energy, Energy, etc.
+- Since 2020, assisted in the supervision of 3 Ph.D. students, 5 master's students; mentored over a dozen undergraduate students, their work received multiple honors including Tsinghua University and Beijing Outstanding Undergraduate Thesis Awards.
