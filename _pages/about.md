@@ -135,11 +135,12 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 # Preprints
 - **Zhang H**, Lei N, Li E S, et al. Multi-scale reinforcement learning of dynamic energy controller for connected electrified vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, to be published.
-- **Zhang H**, Yang G, Lei N, et al. Scenario-Aware Electric Vehicle Energy Control with Enhanced Vehicle-to-Grid Capability: A Multi-Task Reinforcement Learning Approach. Energy, 2025, to be published.
+- **Zhang H**, Dong J, Lei N, et al. Optimal Vehicle Dynamics and Powertrain Control of Carbon-Free Autonomous Vehicles: Large Language Model Assisted Heterogeneous-Agent Learning. Energy, 2025, under review.
 - Li B, Wang K, **Zhang H**, et al. A Globally Tuned Load-Leveling Strategy for Energy Management of Hybrid Electric Vehicles. Energy, 2025, under review.
 
 # Selected Papers
 - **Zhang H**, Lei N, Chen B, et al. Bi-level transfer learning for lifelong intelligent energy management of electric vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, Early Access.
+- **Zhang H**, Yang G, Lei N, et al. Scenario-Aware Electric Vehicle Energy Control with Enhanced Vehicle-to-Grid Capability: A Multi-Task Reinforcement Learning Approach. Energy, 2025,138189.
 - **Zhang H**, Xu J, Lei N, et al. Surrogate-enhanced multi-objective optimization of on-board hydrogen production device for carbon-free heavy-duty vehicles. Energy, 2025,333:137369.
 - Lei N, **Zhang H**, Hu J, et al. Sim-to-real design and development of reinforcement learning-based energy management strategies for fuel cell electric vehicles. Applied Energy, 2025,393:126030.
 - Lei N, **Zhang H*** (Corresponding Author), Wang H, et al. Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling. IEEE Trans. on Vehicular Technology, 2025, Early Access.
