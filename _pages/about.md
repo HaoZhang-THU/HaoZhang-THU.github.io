@@ -22,7 +22,7 @@ I am the Associate Director of the [ETAIC (Embodied Technology for Autonomy, Int
 
 I was the recipient of the Outstanding Ph.D. Graduate, the Outstanding Doctoral Dissertation Award, and the “Shuimu Scholar” talent program at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2024. My doctoral research directly contributed to the successful industry deployment of reinforcement learning methods in developing advanced driver-assistance systems and energy management systems, significantly enhancing the safety and efficiency of connected and automated vehicles. Notably, the control systems I developed have been implemented in leading automotive companies such as [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), [SAIC Motor](https://www.saicmotor.com/english/index.shtml), and start-up automotive companies such as [Hybot](http://www.hybot.com.cn/). 
 
-I have authored over 40 peer-reviewed SCI journal and conference papers and am a co-inventor on more than 20 patents. My current research focuses on multi-agent reinforcement learning theory, the integration of large language models with closed-loop control, and human–robot collaboration using game theory. I aim to advance AI agents for real-world deployment in autonomous systems (including robotics and vehicles) and distributed energy systems.
+I have authored over 40 peer-reviewed SCI journal and conference papers and am a co-inventor on more than 20 patents. I serve as Guest Editor for several journals and as Associate Editor on the International Program Committee of several conferences such as the IEEE Intelligent Vehicles Symposium (IEEE IV). My current research focuses on multi-agent reinforcement learning theory, the integration of large language models with closed-loop control, and human–robot collaboration using game theory. I aim to advance AI agents for real-world deployment in autonomous systems (including robotics and vehicles) and distributed energy systems.
 
 
 # 💻 Research Interests
@@ -31,7 +31,10 @@ I have authored over 40 peer-reviewed SCI journal and conference papers and am a
 - Automotive/Energy: Scalable AI foundation for ADAS, EMS, and related systems
 
 # 🔥 News
-- *2025.06*: Our paper [Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles](https://www.techrxiv.org/users/692350/articles/1233556-bi-level-transfer-learning-for-lifelong-intelligent-energy-management-of-electric-vehicles) was published in IEEE Transactions on Intelligent Transportation Systems.
+- *2025.10*: Our paper [Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles](https://ieeexplore.ieee.org/document/11215998) was published in IEEE Transactions on Intelligent Transportation Systems.
+- *2025.10*: I serve as an Associate Editor for the upcoming IEEE Intelligent Vehicles Symposium (IV 2026). I warmly welcome you to submit your papers to this exciting venue.
+- *2025.08*: Our paper [Optimal vehicle dynamics and powertrain control of carbon-free autonomous vehicles: Large language model assisted heterogeneous-agent learning](https://www.sciencedirect.com/science/article/pii/S0360544225044287?via%3Dihub) was published in Energy.
+- *2025.06*: Our paper [Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles](https://ieeexplore.ieee.org/document/11034670) was published in IEEE Transactions on Intelligent Transportation Systems.
 - *2025.06*:&nbsp;🎉 I joined the Safe AI Lab as a Postdoctoral Researcher at CMU in the U.S.
 - *2025.01*: Our paper [Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling](https://ieeexplore.ieee.org/document/10852019) was published in IEEE Transactions on Vehicular Technology.
 - *2025.01*: Our paper [Ecological Electric Vehicle Platooning: An Adaptive Tube-Based Distributed Model Predictive Control Approach](https://ieeexplore.ieee.org/document/10530162) was published in IEEE Transactions on Transportation Electrification.
@@ -134,13 +137,15 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 
 # Preprints
-- **Zhang H**, Lei N, Li E S, et al. Multi-scale reinforcement learning of dynamic energy controller for connected electrified vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, to be published.
-- **Zhang H**, Dong J, Lei N, et al. Optimal Vehicle Dynamics and Powertrain Control of Carbon-Free Autonomous Vehicles: Large Language Model Assisted Heterogeneous-Agent Learning. Energy, 2025, under review.
-- Li B, Wang K, **Zhang H**, et al. A Globally Tuned Load-Leveling Strategy for Energy Management of Hybrid Electric Vehicles. Energy, 2025, under review.
+- Xinyi Zhao, Nuo Lei, et al., **Zhang H*** (Corresponding Author). Adversarial experience replay in embodied multi-agent learning for energy-aware coordination of wheel-legged electric vehicles. Engineering Applications of Artificial Intelligence, 2025, under review.
+- Mubai Ding, Yisen Li, et al., **Zhang H*** (Corresponding Author). Learning-augmented optimization and control of long-haul mobility propulsion systems. iScience (Cell Press), 2025, under review.
 
 # Selected Papers
-- **Zhang H**, Lei N, Chen B, et al. Bi-level transfer learning for lifelong intelligent energy management of electric vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, Early Access.
-- **Zhang H**, Yang G, Lei N, et al. Scenario-Aware Electric Vehicle Energy Control with Enhanced Vehicle-to-Grid Capability: A Multi-Task Reinforcement Learning Approach. Energy, 2025,138189.
+- **Zhang H**, Lei N, Li E S, et al. Multi-scale reinforcement learning of dynamic energy controller for connected electrified vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, Early Acess.
+- **Zhang H**, Dong J, Lei N, et al. Optimal vehicle dynamics and powertrain control of carbon-free autonomous vehicles: Large Language Model Assisted Heterogeneous-Agent Learning. Energy, 2025,338:138786
+- Li B, Wang K, **Zhang H**, et al. A Globally Tuned Load-Leveling Strategy for Energy Management of Hybrid Electric Vehicles. Energy, 2025,336:138346
+- **Zhang H**, Lei N, Chen B, et al. Bi-level transfer learning for lifelong intelligent energy management of electric vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025,26:16174-16187.
+- **Zhang H**, Yang G, Lei N, et al. Scenario-aware electric vehicle energy control with enhanced vehicle-to-grid capability: A multi-task reinforcement learning approach. Energy, 2025,138189.
 - **Zhang H**, Xu J, Lei N, et al. Surrogate-enhanced multi-objective optimization of on-board hydrogen production device for carbon-free heavy-duty vehicles. Energy, 2025,333:137369.
 - Lei N, **Zhang H**, Hu J, et al. Sim-to-real design and development of reinforcement learning-based energy management strategies for fuel cell electric vehicles. Applied Energy, 2025,393:126030.
 - Lei N, **Zhang H*** (Corresponding Author), Wang H, et al. Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling. IEEE Trans. on Vehicular Technology, 2025, Early Access.
@@ -157,6 +162,9 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 - Lei N, **Zhang H**, Wang H, et al. An improved co-optimization of component sizing and energy management for hybrid powertrains with high-fidelity model. IEEE Trans. on Vehicular Technology, 2023,72:15585-15596.
 - **Zhang H**, Liu S, Lei N, et al. Learning-based supervisory control of dual mode engine-based hybrid electric vehicle with reliance on multivariate trip information. Energy Conversion and Management, 2022,257:115450.
 - More publications can be found on my [Google Scholar homepage](https://scholar.google.com/citations?user=SCHOLAR_ID&user=qC9ScSkAAAAJ).
+
+# Book Chapters
+- Bin Shuai, **Hao Zhang** (Co-first Author), Min Hua, et al. Physics-Aware Machine Learning for Integrated Energy Systems Management. ELSEVIER.
 
 
 # 🎖 Honors and Awards
@@ -187,17 +195,23 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 - Reviewer, Journal, IEEE Transactions on Intelligent Vehicles
 - Reviewer, Journal, IEEE Transactions on Transportation Electrification
 - Reviewer, Journal, IEEE Transactions on Vehicular Technology
+- Reviewer, Journal, IEEE Open Journal of Vehicular Technology
 - Reviewer, Journal, Renewable and Sustainable Energy Reviews
 - Reviewer, Journal, Applied Energy
 - Reviewer, Journal, Energy
+- Reviewer, Journal, Sustainable Energy, Grids and Networks
 - Reviewer, Journal, Energy Conversion and Management
+- Reviewer, Journal, Journal of Cleaner Production
 - Reviewer, Journal, Engineering Applications of Artificial Intelligence
+- Reviewer, Conference, IEEE Intelligent Vehicles Symposium (IV)
 - Reviewer, Conference, IEEE Intelligent Transportation Systems Conference (ITSC)
+- Editor, Associate Editor, IEEE Intelligent Vehicles Symposium (IEEE IV), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Ann Arbor, MI
+- Editor, Journal Editor, Electronics, Special Issue: Eco-Safe Intelligent Mobility Development and Application
 
 # Teaching
 - Guest Lecturer, Fundamentals of Automotive Powertrains，Tsinghua University, Fall 2023
 - Teaching Assistant, Frontiers in Dynamic Systems and Control，Tsinghua University, Fall 2021
 
 # Mentorship
-- Since 2024, independently mentored postgraduate and undergraduate students from THU, ZJU, UCL, etc. Several undergraduate mentees have published papers in top-tier journals such as Applied Energy, Energy, etc.
+- Since 2024, independently mentored postgraduate and undergraduate students from THU, UC Berkeley, UCL, NYU, Brown, HKU, ZJU, etc. Several undergraduate/master mentees have published papers in top-tier journals such as Engineering Applications of Artificial Intelligence, Applied Energy, Energy, etc.
 - Since 2020, assisted in the supervision of 3 Ph.D. students, 5 master's students; mentored over a dozen undergraduate students, their work received multiple honors including Tsinghua University and Beijing Outstanding Undergraduate Thesis Awards.
