@@ -55,7 +55,7 @@ I have authored over 40 peer-reviewed SCI journal and conference papers and am a
 [Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles](https://www.techrxiv.org/users/692350/articles/1184096-multi-scale-reinforcement-learning-of-dynamic-energy-controller-for-connected-electrified-vehicles?commit=cd309bc80017f735b83292e39179ef3815d2cbe2)
 
 **Hao Zhang**, Nuo Lei, Shengbo Eben Li, Junzhi Zhang, Zhi Wang
-<br>*Preprint*
+<br>*In IEEE Transactions on Intelligent Transportation Systems*
 
 - We proposed a multi-horizon reinforcement learning (MHRL) featuring a novel state representation and coordinated training of sub-networks across multiple time scales, which greatly improves fuel economy in real-world driving.
 </div>
