@@ -142,7 +142,9 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 # Selected Papers
 - **Zhang H**, Lei N, Li E S, et al. Multi-scale reinforcement learning of dynamic energy controller for connected electrified vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, Early Acess.
+- Yang G, **Zhang H**, Qiu L. Graph-based multi-agent reinforcement learning with an enriched environment for joint ride-sharing and charging optimization. Applied Energy, 2025,405:127220.
 - **Zhang H**, Dong J, Lei N, et al. Optimal vehicle dynamics and powertrain control of carbon-free autonomous vehicles: Large Language Model Assisted Heterogeneous-Agent Learning. Energy, 2025,338:138786
+- Sun Y, **Zhang H***, Lei N, et al. Exergy analysis-based topology optimization of ammonia-hydrogen propulsion system for carbon-free heavy vehicles. International Journal of Hydrogen Energy, 2025,203:153041.
 - Li B, Wang K, **Zhang H**, et al. A Globally Tuned Load-Leveling Strategy for Energy Management of Hybrid Electric Vehicles. Energy, 2025,336:138346
 - **Zhang H**, Lei N, Chen B, et al. Bi-level transfer learning for lifelong intelligent energy management of electric vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025,26:16174-16187.
 - **Zhang H**, Yang G, Lei N, et al. Scenario-aware electric vehicle energy control with enhanced vehicle-to-grid capability: A multi-task reinforcement learning approach. Energy, 2025,138189.
