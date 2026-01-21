@@ -213,9 +213,9 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 - Guest Editor, Electronics, Special Issue: Eco-Safe Intelligent Mobility Development and Application
 
 # Teaching
-•	Guest Lecturer, 80150183, Fundamentals of Automotive Powertrains, Tsinghua University, Fall 2023
-•	Teaching Assistant, 40150420, Student Research Training (SRT), Tsinghua University, Fall 2022
-•	Teaching Assistant, 80150042, Frontiers in Vehicle System Dynamics and Control, Tsinghua University, Fall 2021
+- Guest Lecturer, 80150183, Fundamentals of Automotive Powertrains, Tsinghua University, Fall 2023
+- Teaching Assistant, 40150420, Student Research Training (SRT), Tsinghua University, Fall 2022
+- Teaching Assistant, 80150042, Frontiers in Vehicle System Dynamics and Control, Tsinghua University, Fall 2021
 
 
 # Mentorship
