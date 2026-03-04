@@ -26,11 +26,12 @@ I have authored over 40 peer-reviewed SCI journal and conference papers and am a
 
 
 # 💻 Research Interests
+
 - Embodied AI theory: Multi-agent reinforcement learning, LLM with closed-loop capability, and game theory
 - Micro-mobility Device: Trustworthy AI methods for motion control of assistive and mobile robots
 - Automotive/Energy: Scalable AI foundation for ADAS, EMS, and related systems
 
-<div style="width: 100%; margin-bottom: 30px;">
+<div style="width: 100%; margin-bottom: 30px; margin-top: 20px;">
   <div style="display: flex; justify-content: space-between; gap: 2%;">
     
     <div style="width: 23.5%; display: flex; flex-direction: column; align-items: center;">
@@ -63,6 +64,7 @@ I have authored over 40 peer-reviewed SCI journal and conference papers and am a
 
   </div>
 </div>
+
 
 # 🔥 News
 - *2026.01*: I serve as an Associate Editor for the upcoming IEEE International Conference on Intelligent Transportation Systems (ITSC 2026). I warmly welcome you to submit your papers to this exciting venue.
