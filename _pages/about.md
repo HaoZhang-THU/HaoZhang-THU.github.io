@@ -49,6 +49,31 @@ I have authored over 40 peer-reviewed SCI journal and conference papers and am a
 
 # 📝 Featured Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/HALYPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](https://www.techrxiv.org/users/692350/articles/1184096-multi-scale-reinforcement-learning-of-dynamic-energy-controller-for-connected-electrified-vehicles?commit=cd309bc80017f735b83292e39179ef3815d2cbe2)
+
+**Hao Zhang**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng
+<br>*Under review*
+
+- We propose heterogeneous-agent Lyapunov policy optimization (HALyPO), which establishes formal stability directly in the policy-parameter space by enforcing a per-step Lyapunov decrease condition on a parameter-space disagreement metric.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSHARL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning](https://www.techrxiv.org/users/692350/articles/1184096-multi-scale-reinforcement-learning-of-dynamic-energy-controller-for-connected-electrified-vehicles?commit=cd309bc80017f735b83292e39179ef3815d2cbe2)
+
+**Hao Zhang**, Ding Zhao, H. Eric Tseng
+<br>*Under review*
+
+- In multi-agent human-robot collaboration, where long-horizon coordination decisions and physical execution must co-evolve under contact, feasibility, and safety constraints. We address this limitation with cognition-to-control (C2C), a three-layer hierarchy that makes the deliberation-to-control pathway explicit.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/IEEE_TITS_2025_multi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,10 +88,10 @@ I have authored over 40 peer-reviewed SCI journal and conference papers and am a
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IEEE_TITS_2025_multi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSWBC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interaction-Aware Whole-Body Control for Compliant Object Transport](https://www.techrxiv.org/users/692350/articles/1184096-multi-scale-reinforcement-learning-of-dynamic-energy-controller-for-connected-electrified-vehicles?commit=cd309bc80017f735b83292e39179ef3815d2cbe2)
+[IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](https://www.techrxiv.org/users/692350/articles/1184096-multi-scale-reinforcement-learning-of-dynamic-energy-controller-for-connected-electrified-vehicles?commit=cd309bc80017f735b83292e39179ef3815d2cbe2)
 
 **Hao Zhang**, Yves Tseng, Ding Zhao, H. Eric Tseng
 <br>*Under review*
