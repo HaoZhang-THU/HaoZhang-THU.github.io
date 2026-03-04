@@ -176,6 +176,10 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 
 # Preprints
+- **Zhang H***, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. arXiv, 2026, under review.
+- **Zhang H***, Ding Zhao, H. Eric Tseng. C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning. arXiv, 2026, under review.
+- **Zhang H***, Yves Tseng, Ding Zhao, H. Eric Tseng. IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport. arXiv, 2026, under review.
+- **Zhang H***, H. Eric Tseng. Intention-Aware Adversarial MARL for AV Stress Testing. arXiv, 2025, under review.
 - Mubai Ding, Yisen Li, et al., **Zhang H*** (Corresponding Author). Learning-augmented optimization and control of long-haul mobility propulsion systems. iScience (Cell Press), 2025, under review.
 - Xinyi Zhao, Nuo Lei, et al., **Zhang H*** (Corresponding Author). Adversarial experience replay in embodied multi-agent learning for efficient coordination of wheel-legged mobile robots. Engineering Applications of Artificial Intelligence, 2025, under review.
 
