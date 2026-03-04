@@ -30,6 +30,40 @@ I have authored over 40 peer-reviewed SCI journal and conference papers and am a
 - Micro-mobility Device: Trustworthy AI methods for motion control of assistive and mobile robots
 - Automotive/Energy: Scalable AI foundation for ADAS, EMS, and related systems
 
+<div style="width: 100%; margin-bottom: 30px;">
+  <div style="display: flex; justify-content: space-between; gap: 2%;">
+    
+    <div style="width: 23.5%; display: flex; flex-direction: column; align-items: center;">
+      <img src="images/demo1.gif" alt="Demo 1" style="width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align: center; color: #666; font-size: 0.85em; margin-top: 8px; line-height: 1.2;">
+        Multi-Agent Safe Decision Making
+      </div>
+    </div>
+
+    <div style="width: 23.5%; display: flex; flex-direction: column; align-items: center;">
+      <img src="images/demo2.gif" alt="Demo 2" style="width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align: center; color: #666; font-size: 0.85em; margin-top: 8px; line-height: 1.2;">
+        Trustworthy AI Partner
+      </div>
+    </div>
+
+    <div style="width: 23.5%; display: flex; flex-direction: column; align-items: center;">
+      <img src="images/demo3.gif" alt="Demo 3" style="width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align: center; color: #666; font-size: 0.85em; margin-top: 8px; line-height: 1.2;">
+        Contact-Rich Locomotion Control
+      </div>
+    </div>
+
+    <div style="width: 23.5%; display: flex; flex-direction: column; align-items: center;">
+      <img src="images/demo4.gif" alt="Demo 4" style="width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align: center; color: #666; font-size: 0.85em; margin-top: 8px; line-height: 1.2;">
+        Intelligent Vehicle and Digital Twin
+      </div>
+    </div>
+
+  </div>
+</div>
+
 # 🔥 News
 - *2026.01*: I serve as an Associate Editor for the upcoming IEEE International Conference on Intelligent Transportation Systems (ITSC 2026). I warmly welcome you to submit your papers to this exciting venue.
 - *2025.10*: Our paper [Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles](https://ieeexplore.ieee.org/document/11215998) was published in IEEE Transactions on Intelligent Transportation Systems.
