@@ -88,7 +88,7 @@ I have authored over 40 peer-reviewed SCI journal and conference papers and am a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/HALYPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](https://www.techrxiv.org/users/692350/articles/1184096-multi-scale-reinforcement-learning-of-dynamic-energy-controller-for-connected-electrified-vehicles?commit=cd309bc80017f735b83292e39179ef3815d2cbe2)
+[Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](http://arxiv.org/abs/2603.03741)
 
 **Hao Zhang**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng
 <br>*Under review*
@@ -101,7 +101,7 @@ I have authored over 40 peer-reviewed SCI journal and conference papers and am a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSHARL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning](https://www.techrxiv.org/users/692350/articles/1184096-multi-scale-reinforcement-learning-of-dynamic-energy-controller-for-connected-electrified-vehicles?commit=cd309bc80017f735b83292e39179ef3815d2cbe2)
+[C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning](http://arxiv.org/abs/2603.03768)
 
 **Hao Zhang**, Ding Zhao, H. Eric Tseng
 <br>*Under review*
@@ -127,7 +127,7 @@ I have authored over 40 peer-reviewed SCI journal and conference papers and am a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSWBC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](https://www.techrxiv.org/users/692350/articles/1184096-multi-scale-reinforcement-learning-of-dynamic-energy-controller-for-connected-electrified-vehicles?commit=cd309bc80017f735b83292e39179ef3815d2cbe2)
+[IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751)
 
 **Hao Zhang**, Yves Tseng, Ding Zhao, H. Eric Tseng
 <br>*Under review*
@@ -212,10 +212,10 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 
 # Preprints
-- **Zhang H***, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. arXiv, 2026, under review.
-- **Zhang H***, Ding Zhao, H. Eric Tseng. C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning. arXiv, 2026, under review.
-- **Zhang H***, Yves Tseng, Ding Zhao, H. Eric Tseng. IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport. arXiv, 2026, under review.
-- **Zhang H***, H. Eric Tseng. Intention-Aware Adversarial MARL for AV Stress Testing. arXiv, 2025, under review.
+- **Zhang H**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. arXiv, 2026, under review.
+- **Zhang H**, Ding Zhao, H. Eric Tseng. C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning. arXiv, 2026, under review.
+- **Zhang H**, Yves Tseng, Ding Zhao, H. Eric Tseng. IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport. arXiv, 2026, under review.
+- **Zhang H**, H. Eric Tseng. Intention-Aware Adversarial MARL for AV Stress Testing. arXiv, 2025, under review.
 - Mubai Ding, Yisen Li, et al., **Zhang H*** (Corresponding Author). Learning-augmented optimization and control of long-haul mobility propulsion systems. iScience (Cell Press), 2025, under review.
 - Xinyi Zhao, Nuo Lei, et al., **Zhang H*** (Corresponding Author). Adversarial experience replay in embodied multi-agent learning for efficient coordination of wheel-legged mobile robots. Engineering Applications of Artificial Intelligence, 2025, under review.
 
