@@ -51,7 +51,7 @@ I have authored over 50 peer-reviewed SCI journal and conference papers and am a
     <div style="width: 23.5%; display: flex; flex-direction: column; align-items: center;">
       <img src="images/demo3.GIF" alt="Demo 3" style="width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <div style="text-align: center; color: #666; font-size: 0.85em; margin-top: 8px; line-height: 1.2;">
-        Contact-Rich Locomotion Control
+        Contact-Rich Whole body Control
       </div>
     </div>
 
