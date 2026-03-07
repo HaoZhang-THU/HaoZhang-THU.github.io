@@ -27,7 +27,7 @@ I have authored over 50 peer-reviewed SCI journal and conference papers and am a
 
 # 💻 Research Interests
 
-- Embodied AI theory: Multi-agent reinforcement learning, LLMs with closed-loop capability, and game theory
+- Embodied AI theory: Learning-based control, Multi-agent reinforcement learning, and game theory
 - Robotics: Trustworthy AI methods for decision-making and control of assistive and mobile robots
 - Intelligent vehicles: Human-centric AI for ADAS and EMS to improve safety, drivability, efficiency, and comfort
 
