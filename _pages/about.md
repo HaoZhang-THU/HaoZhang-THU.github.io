@@ -90,6 +90,7 @@ I have authored over 50 peer-reviewed SCI journal and conference papers and am a
 
 [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](http://arxiv.org/abs/2603.03741)
 
+[**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 **Hao Zhang**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng
 <br>*Under review*
 
@@ -106,6 +107,7 @@ I have authored over 50 peer-reviewed SCI journal and conference papers and am a
 **Hao Zhang**, Ding Zhao, H. Eric Tseng
 <br>*Under review*
 
+[**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In multi-agent human-robot collaboration, where long-horizon coordination decisions and physical execution must co-evolve under contact, feasibility, and safety constraints. We address this limitation with cognition-to-control (C2C), a three-layer hierarchy that makes the deliberation-to-control pathway explicit.
 </div>
 </div>
@@ -132,6 +134,7 @@ I have authored over 50 peer-reviewed SCI journal and conference papers and am a
 **Hao Zhang**, Yves Tseng, Ding Zhao, H. Eric Tseng
 <br>*Under review*
 
+[**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We proposed a bio-inspired, interaction-oriented whole-body control (IO-WBC) that functions as an artificial cerebellum - an adaptive motor agent that translates upstream (skill-level) commands into stable, physically consistent whole-body behavior under contact.
 </div>
 </div>
