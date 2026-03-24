@@ -288,6 +288,8 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 - Reviewer, Journal, Energy Conversion and Management
 - Reviewer, Journal, Journal of Cleaner Production
 - Reviewer, Journal, Engineering Applications of Artificial Intelligence
+- Reviewer, Conference, International Conference on Machine Learning (ICML)
+- Reviewer, Conference, Annual Conference on Neural Information Processing Systems (NeurIPS)
 - Reviewer, Conference, IEEE Intelligent Vehicles Symposium (IV)
 - Reviewer, Conference, IEEE Intelligent Transportation Systems Conference (ITSC)
 - Associate Editor, IEEE Intelligent Vehicles Symposium (IEEE IV), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Ann Arbor, USA
