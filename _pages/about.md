@@ -276,6 +276,9 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 # 📚 Service
 # Reviewer
+- Associate Editor, IEEE Intelligent Vehicles Symposium (IEEE IV), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Ann Arbor, USA
+- Associate Editor, The IEEE International Conference on Intelligent Transportation Systems (ITSC), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Naples, Italy
+- Guest Editor, Electronics, Special Issue: Eco-Safe Intelligent Mobility Development and Application
 - Reviewer, Journal, IEEE Transactions on Intelligent Transportation Systems
 - Reviewer, Journal, IEEE Transactions on Intelligent Vehicles
 - Reviewer, Journal, IEEE Transactions on Transportation Electrification
@@ -287,14 +290,13 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 - Reviewer, Journal, Sustainable Energy, Grids and Networks
 - Reviewer, Journal, Energy Conversion and Management
 - Reviewer, Journal, Journal of Cleaner Production
+- Reviewer, Journal, Journal of Energy Storage
 - Reviewer, Journal, Engineering Applications of Artificial Intelligence
 - Reviewer, Conference, International Conference on Machine Learning (ICML)
 - Reviewer, Conference, Annual Conference on Neural Information Processing Systems (NeurIPS)
 - Reviewer, Conference, IEEE Intelligent Vehicles Symposium (IV)
 - Reviewer, Conference, IEEE Intelligent Transportation Systems Conference (ITSC)
-- Associate Editor, IEEE Intelligent Vehicles Symposium (IEEE IV), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Ann Arbor, USA
-- Associate Editor, The IEEE International Conference on Intelligent Transportation Systems (ITSC), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Naples, Italy
-- Guest Editor, Electronics, Special Issue: Eco-Safe Intelligent Mobility Development and Application
+
 
 # Teaching
 - Guest Lecturer, 80150183, Fundamentals of Automotive Powertrains, Tsinghua University, Fall 2023
