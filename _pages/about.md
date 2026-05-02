@@ -73,11 +73,11 @@ I have authored over 50 peer-reviewed SCI journal and conference papers and am a
 - *2025.10*: I serve as an Associate Editor for the upcoming IEEE Intelligent Vehicles Symposium (IV 2026). I warmly welcome you to submit your papers to this exciting venue.
 - *2025.08*: Our paper [Optimal vehicle dynamics and powertrain control of carbon-free autonomous vehicles: Large language model assisted heterogeneous-agent learning](https://www.sciencedirect.com/science/article/pii/S0360544225044287?via%3Dihub) was published in Energy.
 - *2025.06*: Our paper [Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles](https://ieeexplore.ieee.org/document/11034670) was published in IEEE Transactions on Intelligent Transportation Systems.
-- *2025.06*:&nbsp;🎉 I joined the Safe AI Lab as a Postdoctoral Researcher at CMU in the U.S.
+- *2025.06*:&nbsp;🎉 I joined the Safe AI Lab as a **Research Associate** at CMU in the U.S.
 - *2025.01*: Our paper [Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling](https://ieeexplore.ieee.org/document/10852019) was published in IEEE Transactions on Vehicular Technology.
 - *2025.01*: Our paper [Ecological Electric Vehicle Platooning: An Adaptive Tube-Based Distributed Model Predictive Control Approach](https://ieeexplore.ieee.org/document/10530162) was published in IEEE Transactions on Transportation Electrification.
 - *2024.11*: Our paper [Modeling and control system optimization for electrified vehicles: A data-driven approach](https://www.sciencedirect.com/science/article/pii/S0360544224029712?via%3Dihub) was published in Energy.
-- *2024.11*:&nbsp;🎉 I am an incoming Research Associate in ETAIC Lab led by Prof. Eric Tseng (NAE Member) at UTA in the U.S.
+- *2024.11*:&nbsp;🎉 I am an incoming **Associate Director** of ETAIC Lab led by Prof. Eric Tseng (NAE Member) at UTA in the U.S.
 - *2024.08*: I delivered a plenary talk at 2024 China SAE Annual Conference on Advanced Powertrains (APC), titled “Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control”, held in Zhenjiang, China.
 - *2024.06*:&nbsp;🎉 I was selected for the “Shuimu Scholar” talent program as a Research Fellow at Tsinghua University.
 - *2024.06*:&nbsp;🎉 I received the Outstanding Ph.D. Graduate and the Excellent Doctoral Dissertation Award from Tsinghua University.
