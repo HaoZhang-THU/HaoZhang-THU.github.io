@@ -48,8 +48,8 @@ author:
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0001-5395-4017"
   pinterest        :
-  employer         : "[Safe AI Lab](https://safeai-lab.github.io/#team), PA, U.S."
-  location         : "[ETAIC](https://etaic.github.io/) Lab, TX, U.S."
+  employer         : "Safe AI Lab, PA, U.S."
+  location         : "ETAIC Lab, TX, U.S."
 
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
