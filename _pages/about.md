@@ -306,5 +306,5 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 
 # Mentorship
-- Since 2024, independently mentored postgraduate and undergraduate students from THU, UC Berkeley, UCL, NYU, Brown, HKU, ZJU, etc. Several undergraduate/master mentees have published papers in top-tier journals such as Engineering Applications of Artificial Intelligence, Applied Energy, Energy, etc.
-- Since 2020, assisted in the supervision of 3 Ph.D. students, 5 master's students; mentored over a dozen undergraduate students, their work received multiple honors including Tsinghua University and Beijing Outstanding Undergraduate Thesis Awards.
+- Since 2024, independently mentored postgraduate and undergraduate students/research assistants from Tsinghua, UC Berkeley, UPenn, UCL, NYU, Brown, HKU, Fudan, ZJU, etc. Several undergraduate/master mentees have published papers in top-tier conferences and journals such as Engineering Applications of Artificial Intelligence, etc.
+- Since 2020, assisted in the supervision of 5 Ph.D. students, 13 master's students; mentored over a dozen undergraduate students, their work received multiple honors including Tsinghua University and Beijing Outstanding Undergraduate Thesis Awards.
