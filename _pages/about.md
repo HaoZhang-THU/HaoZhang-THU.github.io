@@ -223,7 +223,7 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 - Xinyi Zhao, Nuo Lei, et al., **Zhang H*** (Corresponding Author). Adversarial experience replay in embodied multi-agent learning for efficient coordination of wheel-legged mobile robots. Engineering Applications of Artificial Intelligence, 2025, under review.
 
 # Selected Papers
-- **Zhang H**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. International Conference on Machine Learning (ICML) 2026. (Spotlight Paper, top 2%)
+- **Zhang H**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. International Conference on Machine Learning (ICML) 2026. (**Spotlight Paper**, top 2%)
 - **Zhang H**, Lei N, Li E S, et al. Multi-scale reinforcement learning of dynamic energy controller for connected electrified vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, Early Acess.
 - Yang G, **Zhang H**, Qiu L. Graph-based multi-agent reinforcement learning with an enriched environment for joint ride-sharing and charging optimization. Applied Energy, 2025,405:127220.
 - Mubai Ding, Yisen Li, et al., **Zhang H*** (Corresponding Author). Learning-augmented optimization and control of long-haul mobility propulsion systems. iScience, 2026,29(5):115579.
