@@ -22,12 +22,12 @@ I am a Research Associate in the [Safe AI Lab](https://safeai-lab.github.io/#tea
 
 I was the recipient of the Outstanding Doctoral Dissertation Award, the Outstanding Ph.D. Graduate, and the “Shuimu Scholar” talent program at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2024. My doctoral research directly contributed to the successful industry deployment of reinforcement learning methods in developing advanced driver-assistance systems and energy management systems, significantly improving safety, drivability, energy efficiency, and driving comfort, thereby enhancing the overall driving experience of connected and automated vehicles. Notably, the control systems I developed have been implemented in leading automotive companies such as [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), [SAIC Motor](https://www.saicmotor.com/english/index.shtml), and start-up automotive companies such as [Hybot](http://www.hybot.com.cn/). 
 
-I have authored over 50 peer-reviewed SCI journal and conference papers and am a co-inventor on more than 20 patents. I serve as Guest Editor for several journals and as Associate Editor on the International Program Committee of several conferences including IEEE ITSC, IEEE IV, etc. My current research focuses on multi-agent reinforcement learning theory, the integration of large language models with closed-loop control, and human–robot collaboration using game theory. I aim to advance human-centric trustworthy AI agents for real-world deployment in autonomous systems.
+I have authored over 50 peer-reviewed SCI journal and conference papers and am a co-inventor on more than 20 patents. I serve as Guest Editor for several journals and as Associate Editor on the International Program Committee of several conferences including IEEE ITSC, IEEE IV, etc. My current research focuses on multi-agent reinforcement learning theory, the integration of vison-language-models with closed-loop control, and human–robot collaboration using game theory. I aim to advance human-centric trustworthy AI agents for real-world deployment in autonomous systems.
 
 
 # 💻 Research Interests
 
-- Embodied AI theory: Learning-based control, Multi-agent reinforcement learning, and game theory
+- Embodied AI theory: Multi-agent reinforcement learning, Optimal control, VLM with closed-loop control, and game theory
 - Robotics: Trustworthy AI methods for decision-making and control of assistive and mobile robots
 - Intelligent vehicles: Human-centric AI for ADAS and EMS to improve safety, drivability, efficiency, and comfort
 
