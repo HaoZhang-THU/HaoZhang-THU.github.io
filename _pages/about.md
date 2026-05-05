@@ -307,5 +307,5 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 
 # Mentorship
-- Since 2024 (during Postdoc), have **independently provided mentorship** to postgraduate and undergraduate students (research assistants) from Tsinghua University, UC Berkeley, UPenn, UCL, NYU, Brown, HKU, Fudan University, and Zhejiang University. I served as corresponding/last author for all resulting publications, with more than half of the mentees publishing papers in top-tier conferences and journals. I am actively recruiting research assistants and students interested in embodied AI.
+- Since 2024 (during Postdoc), have **independently provided mentorship** to postgraduate and undergraduate students (research assistants) from Tsinghua University, UC Berkeley, UPenn, UCL, NYU, Brown, HKU, Fudan University, and Zhejiang University. More than half of the mentees have published papers in top-tier conferences and journals, with me serving as the corresponding/last author on multiple projects. I am actively recruiting research assistants and students interested in embodied AI.
 - Since 2020, assisted in the supervision of 5 Ph.D. students, 13 master's students; mentored over a dozen undergraduate students, their work received multiple honors including Tsinghua University and Beijing Outstanding Undergraduate Thesis Awards.
