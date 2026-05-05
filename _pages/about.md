@@ -300,11 +300,12 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 
 # Teaching
-- Guest Lecturer, 80150183, Fundamentals of Automotive Powertrains, Tsinghua University, Fall 2023
+- Guest Lecturer (Designed and delivered 6 lectures), EE5329, Topics in Systems Engineering (Reinforcement Learning and Control), UT Arlington, Spring 2026
+- Guest Lecturer (Project-based instruction), 80150183, Fundamentals of Automotive Powertrains, Tsinghua University, Fall 2023
 - Teaching Assistant, 40150420, Student Research Training (SRT), Tsinghua University, Fall 2022
 - Teaching Assistant, 80150042, Frontiers in Vehicle System Dynamics and Control, Tsinghua University, Fall 2021
 
 
 # Mentorship
-- Since 2024, independently mentored postgraduate and undergraduate students/research assistants from Tsinghua, UC Berkeley, UPenn, UCL, NYU, Brown, HKU, Fudan, ZJU, etc. Several undergraduate/master mentees have published papers in top-tier conferences and journals such as Engineering Applications of Artificial Intelligence, etc.
+- Since 2024 (during Postdoc), have **independently provided mentorship** to postgraduate and undergraduate students (research assistants) from Tsinghua University, UC Berkeley, UPenn, UCL, NYU, Brown, HKU, Fudan University, and Zhejiang University. I served as corresponding/last author for all resulting publications, with more than half of the mentees publishing papers in top-tier conferences and journals.
 - Since 2020, assisted in the supervision of 5 Ph.D. students, 13 master's students; mentored over a dozen undergraduate students, their work received multiple honors including Tsinghua University and Beijing Outstanding Undergraduate Thesis Awards.
