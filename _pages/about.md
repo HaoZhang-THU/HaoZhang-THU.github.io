@@ -67,7 +67,7 @@ I have authored over 50 peer-reviewed SCI journal and conference papers and am a
 
 
 # 🔥 News
-- *2026.04*:&nbsp;🎉 Our paper [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](http://arxiv.org/abs/2603.03741) was accepted as a **Spotlight Paper (top 2.2%)** at ICML 2026.
+- *2026.04*:&nbsp;🎉 Our paper [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](http://arxiv.org/abs/2603.03741) was accepted as an **Oral Paper (top 0.7%)** at ICML 2026.
 - *2026.01*: I serve as an Associate Editor for the upcoming IEEE International Conference on Intelligent Transportation Systems (ITSC 2026). I warmly welcome you to submit your papers to this exciting venue.
 - *2025.10*: Our paper [Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles](https://ieeexplore.ieee.org/document/11215998) was published in IEEE Transactions on Intelligent Transportation Systems.
 - *2025.10*: I serve as an Associate Editor for the upcoming IEEE Intelligent Vehicles Symposium (IV 2026). I warmly welcome you to submit your papers to this exciting venue.
@@ -86,14 +86,14 @@ I have authored over 50 peer-reviewed SCI journal and conference papers and am a
 
 # 📝 Featured Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML (Spotlight)</div><img src='images/HALYPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML (Oral)</div><img src='images/HALYPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](http://arxiv.org/abs/2603.03741)
 
 
 **Hao Zhang**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng
-<br>*ICML 2026 <span style="color:red;"><strong>Spotlight Paper (top 2.2%)</strong></span>*
+<br>*ICML 2026 <span style="color:red;"><strong>Oral Paper (top 0.7%)</strong></span>*
 
 [**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose heterogeneous-agent Lyapunov policy optimization (HALyPO), which establishes formal stability directly in the policy-parameter space by enforcing a per-step Lyapunov decrease condition on a parameter-space disagreement metric.
@@ -223,7 +223,7 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 - Xinyi Zhao, Nuo Lei, et al., **Zhang H*** (Corresponding Author). Adversarial experience replay in embodied multi-agent learning for efficient coordination of wheel-legged mobile robots. Engineering Applications of Artificial Intelligence, 2025, under review.
 
 # Selected Papers
-- **Zhang H**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. International Conference on Machine Learning (ICML) 2026. (**Spotlight Paper**, top 2%)
+- **Zhang H**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. International Conference on Machine Learning (ICML) 2026. (**Oral Paper**, top 0.7%)
 - **Zhang H**, Lei N, Li E S, et al. Multi-scale reinforcement learning of dynamic energy controller for connected electrified vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, Early Acess.
 - Yang G, **Zhang H**, Qiu L. Graph-based multi-agent reinforcement learning with an enriched environment for joint ride-sharing and charging optimization. Applied Energy, 2025,405:127220.
 - Mubai Ding, Yisen Li, et al., **Zhang H*** (Corresponding Author). Learning-augmented optimization and control of long-haul mobility propulsion systems. iScience, 2026,29(5):115579.
