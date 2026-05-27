@@ -157,7 +157,7 @@ I have authored over 50 peer-reviewed SCI journal and conference papers and am a
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy</div><img src='images/EGY_RL_ECMS_500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy</div><img src='images/EGY_RL_ECMS_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Modeling and control system optimization for electrified vehicles: A data-driven approach](https://www.sciencedirect.com/science/article/pii/S0360544224029712?via%3Dihub)
@@ -168,11 +168,11 @@ I have authored over 50 peer-reviewed SCI journal and conference papers and am a
 [**Industrial Collaborator: Dongfeng Motor**](https://www.dongfeng-global.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper develops a high-fidelity PHEV model integrating physical and data-driven approaches, and proposes a real-vehicle control framework that combines horizon-extended reinforcement learning with ECMS to improve practical energy management.
 </div>
-</div>
+</div> -->
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/IEEE_TVT_TCNN_500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/IEEE_TVT_TCNN_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling](https://ieeexplore.ieee.org/document/10852019)
@@ -183,7 +183,7 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 [**Industrial Collaborator: Hybot**](http://www.hybot.com.cn/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We proposed a theory-constrained neural network (TCNN) that integrates physical principles without sacrificing accuracy. A theory-guided filter ensures sub-module interpretability, and sub-networks are individually trained under theoretical constraints with a CNN-BiLSTM-MHSA architecture enhances overall accuracy. Results demonstrate significant improvements in fitting accuragy for fuel cell modeling.
 </div>
-</div>
+</div> -->
 
 
 
@@ -254,12 +254,13 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 
 # 🎖 Honors and Awards
+- *2026* Oral Presentation at International Conference on Machine Learning
+- *2026* Gold Reviewer for International Conference on Machine Learning
 - *2024* Plenary Talk at 2024 China SAE Annual Conference on Advanced Powertrains
 - *2024* “Shuimu Tsinghua Scholar” Talents Program, Tsinghua University
 - *2024* Outstanding Doctoral Dissertation Award, Tsinghua University
 - *2024* Outstanding Ph.D. Graduate (top 4%), Tsinghua University
 - *2023* Comprehensive Excellence Scholarship, Tsinghua University
-- *2022* Best Paper Award in the 2022 CSICE Conference on TEIP in Shanghai, China
 - *2022* Comprehensive Excellence Scholarship, Tsinghua University
 - *2021* Excellent Student Leader, Tsinghua University
 - *2021* Comprehensive Excellence Scholarship, Tsinghua University
@@ -272,7 +273,8 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 
 # 💬 Invited Talks
-- *2024.08*, Plenary Talk, APC 2024: Joint Annual Conference on Advanced Powertrains - China SAE, "Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control," China SAE, Zhenjiang, China
+- *2026.07*, Oral Presentation, International Conference on Machine Learning (ICML) 2026, "HALO: Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization", Seoul, South Korea
+- *2024.08*, Plenary Talk, APC 2024: Joint Annual Conference on Advanced Powertrains - China SAE, "Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control", China SAE, Zhenjiang, China
 
 
 # 📚 Service
@@ -284,6 +286,7 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 - Reviewer, Journal, IEEE Transactions on Intelligent Vehicles
 - Reviewer, Journal, IEEE Transactions on Transportation Electrification
 - Reviewer, Journal, IEEE Transactions on Vehicular Technology
+- Reviewer, Journal, IEEE Transactions on Visualization and Computer Graphics
 - Reviewer, Journal, IEEE Open Journal of Vehicular Technology
 - Reviewer, Journal, Renewable and Sustainable Energy Reviews
 - Reviewer, Journal, Applied Energy
