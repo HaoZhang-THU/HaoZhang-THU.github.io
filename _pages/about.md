@@ -131,13 +131,13 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS</div><img src='images/IROSWBC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/RSJ IROS</div><img src='images/IROSWBC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751)
 
 **Hao Zhang**, Yves Tseng, Ding Zhao, H. Eric Tseng
-<br>*IEEE/RSJ IROS 2026*
+<br>*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026*
 
 [**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We proposed a bio-inspired, interaction-oriented whole-body control (IO-WBC) that functions as an artificial cerebellum - an adaptive motor agent that translates upstream (skill-level) commands into stable, physically consistent whole-body behavior under contact.
@@ -221,11 +221,11 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 # Preprints
 - **Zhang H**, Ding Zhao, H. Eric Tseng. C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning. arXiv, 2026, under review.
-- **Zhang H**, Yves Tseng, Ding Zhao, H. Eric Tseng. IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport. arXiv, 2026, under review.
 - **Zhang H**, H. Eric Tseng. Intention-Aware Adversarial MARL for AV Stress Testing. arXiv, 2025, under review.
 - Xinyi Zhao, Nuo Lei, et al., **Zhang H*** (Corresponding Author). Adversarial experience replay in embodied multi-agent learning for efficient coordination of wheel-legged mobile robots. Engineering Applications of Artificial Intelligence, 2025, under review.
 
 # Selected Papers
+- **Zhang H**, Yves Tseng, Ding Zhao, H. Eric Tseng. IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
 - **Zhang H**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. International Conference on Machine Learning (ICML) 2026. (**Oral**, top 0.7%)
 - **Zhang H**, Lei N, Li E S, et al. Multi-scale reinforcement learning of dynamic energy controller for connected electrified vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, Early Acess.
 - Yang G, **Zhang H**, Qiu L. Graph-based multi-agent reinforcement learning with an enriched environment for joint ride-sharing and charging optimization. Applied Energy, 2025,405:127220.
