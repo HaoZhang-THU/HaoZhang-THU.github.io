@@ -24,6 +24,8 @@ I was the recipient of the Outstanding Doctoral Dissertation Award, the Outstand
 
 I have authored over 50 peer-reviewed SCI journal and conference papers and am a co-inventor on more than 20 patents. I serve as Guest Editor for several journals and as Associate Editor on the International Program Committee of several conferences including IEEE ITSC, IEEE IV, etc. My current research focuses on multi-agent reinforcement learning theory, the integration of vison-language-models with closed-loop control, and human–robot collaboration using game theory. I aim to advance human-centric trustworthy AI agents for real-world deployment in autonomous systems.
 
+Open to casual collaborations if interests align, and open to bringing in RA/Volunteers to work with me at ETAIC and Safe AI Lab — or feel free to just say hi. haoz4@andrew.cmu.edu
+
 
 # 💻 Research Interests
 
