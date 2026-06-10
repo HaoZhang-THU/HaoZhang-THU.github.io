@@ -67,6 +67,7 @@ I have authored over 50 peer-reviewed SCI journal and conference papers and am a
 
 
 # 🔥 News
+- *2026.06*: Our paper [IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751) was accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026.
 - *2026.04*:&nbsp;🎉 Our paper [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](http://arxiv.org/abs/2603.03741) was accepted and selected for an **Oral Presentation (top 0.7%)** at International Conference on Machine Learning (ICML) 2026.
 - *2026.01*: I serve as an Associate Editor for the upcoming IEEE International Conference on Intelligent Transportation Systems (ITSC 2026). I warmly welcome you to submit your papers to this exciting venue.
 - *2025.10*: Our paper [Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles](https://ieeexplore.ieee.org/document/11215998) was published in IEEE Transactions on Intelligent Transportation Systems.
@@ -128,13 +129,13 @@ I have authored over 50 peer-reviewed SCI journal and conference papers and am a
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSWBC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS</div><img src='images/IROSWBC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751)
 
 **Hao Zhang**, Yves Tseng, Ding Zhao, H. Eric Tseng
-<br>*Under review*
+<br>*IEEE/RSJ IROS 2026*
 
 [**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We proposed a bio-inspired, interaction-oriented whole-body control (IO-WBC) that functions as an artificial cerebellum - an adaptive motor agent that translates upstream (skill-level) commands into stable, physically consistent whole-body behavior under contact.
