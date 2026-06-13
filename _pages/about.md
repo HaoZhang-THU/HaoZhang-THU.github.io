@@ -87,34 +87,37 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 # 📝 Featured Publications
 
 <style>
-  /* 确保整个列表容器和条目撑满页面 */
+  /* 彻底重构的响应式、全宽学术列表样式 */
   .paper-box {
-    display: flex;
-    width: 100%;              /* 撑满全宽，彻底解决文本框过窄问题 */
-    margin-bottom: 32px;      /* 条目间距 */
-    align-items: flex-start;  /* 顶部对齐 */
+    display: flex !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-bottom: 36px;
+    align-items: flex-start;
   }
+  
   .paper-box-image {
-    width: 250px;            /* 固定容器宽度 */
-    min-width: 250px;        /* 防止被压缩 */
-    height: 150px;           /* 固定容器高度 */
-    margin-right: 16px;       /* 图片与文本的固定间距 */
-    text-align: center;
+    width: 260px !important;       /* 物理尺寸进一步放大，确保视觉冲击力 */
+    min-width: 260px !important;   /* 坚决防止被文本挤压 */
+    height: 160px !important;      /* 提升高度，保持黄金比例 */
+    margin-right: 20px !important;  /* 给予图片和文本合理的呼吸间距 */
     position: relative;
   }
+  
   .paper-box-image img {
-    width: 100%;             /* 宽度填满容器 */
-    height: 100%;            /* 高度填满容器 */
-    object-fit: fill;        /* 核心：强制拉伸填充，确保所有图片大小外观绝对整齐 */
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;  /* 居中裁剪填充，比 fill 的拉伸变形高级很多，且绝对整齐 */
     display: block;
-    border-radius: 6px;       /* 精致圆角 */
-    box-shadow: 0 2px 8px rgba(0,0,0,0.06); /* 淡淡的阴影提升质感 */
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* 质感阴影 */
   }
+  
   .badge {
     position: absolute;
-    top: 6px;
-    left: 6px;
-    background-color: rgba(0,0,0,0.65);
+    top: 8px;
+    left: 8px;
+    background-color: rgba(0, 0, 0, 0.7);
     color: white;
     padding: 3px 8px;
     font-size: 11px;
@@ -122,9 +125,19 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
     z-index: 1;
     font-weight: 500;
   }
+  
   .paper-box-text {
-    flex: 1;                  /* 自动扩展，占据右侧所有剩余空间 */
-    word-break: break-word;   /* 防止文本溢出 */
+    flex: 1 !important;
+    min-width: 0 !important;       /* 消除 flex 子元素的默认最小宽度限制 */
+    width: 100% !important;        /* 强制撑满右侧剩余的所有空间 */
+  }
+
+  /* 核心：击穿 Markdown 渲染器自动生成的段落限制，强制解除换行约束 */
+  .paper-box-text p, 
+  .paper-box-text span {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: block !important;
   }
 </style>
 
@@ -132,7 +145,6 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 <div class='paper-box-text' markdown="1">
 
 [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](http://arxiv.org/abs/2603.03741)
-
 
 **Hao Zhang**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng
 <br>*ICML 2026 <span style="color:red;"><strong>Oral Presentation (top 0.7%)</strong></span>*
@@ -196,38 +208,6 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 - We proposed a bi-level transfer approach with MAML to realize cross-platform transferable and online-adaptive EMS for REEVs. It contributed to the successful industry deployment of RL methods, implemented in leading automotive company - BYD Auto, significantly enhancing the REEV efficiency. 
 </div>
 </div>
-
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy</div><img src='images/EGY_RL_ECMS_500x300.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Modeling and control system optimization for electrified vehicles: A data-driven approach](https://www.sciencedirect.com/science/article/pii/S0360544224029712?via%3Dihub)
-
-**Hao Zhang**, Nuo Lei, Boli Chen, Bingbing Li, Rulong Li, Zhi Wang
-<br>*In Energy*
-
-[**Industrial Collaborator: Dongfeng Motor**](https://www.dongfeng-global.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper develops a high-fidelity PHEV model integrating physical and data-driven approaches, and proposes a real-vehicle control framework that combines horizon-extended reinforcement learning with ECMS to improve practical energy management.
-</div>
-</div> -->
-
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/IEEE_TVT_TCNN_500x300.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling](https://ieeexplore.ieee.org/document/10852019)
-
-Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, Jingjing Hu, Zhi Wang
-<br>*In IEEE Transactions on Vehicular Technology*
-
-[**Industrial Collaborator: Hybot**](http://www.hybot.com.cn/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We proposed a theory-constrained neural network (TCNN) that integrates physical principles without sacrificing accuracy. A theory-guided filter ensures sub-module interpretability, and sub-networks are individually trained under theoretical constraints with a CNN-BiLSTM-MHSA architecture enhances overall accuracy. Results demonstrate significant improvements in fitting accuragy for fuel cell modeling.
-</div>
-</div> -->
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aplied Energy</div><img src='images/APEN_CPO_500x300.png' alt="sym"></div></div>
