@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -87,67 +86,82 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 # 📝 Featured Publications
 
 <style>
-  /* 响应式、比例自适应学术列表样式 */
+  /* 针对侧边栏模板彻底重组的强力排版样式 */
   .paper-box {
     display: flex !important;
+    flex-direction: row !important;
     width: 100% !important;
     max-width: 100% !important;
-    margin-bottom: 36px;
-    align-items: flex-start;
+    margin-bottom: 32px !important;
+    align-items: flex-start !important;
+    justify-content: flex-start !important;
     box-sizing: border-box !important;
   }
   
-  /* 用百分比或 flex 比例来控制图片，让出足够空间给文本 */
+  /* 固定图片的绝对宽度和高度，防止在压缩的侧边栏布局中变形 */
   .paper-box-image {
-    flex: 0 0 28% !important;      /* 图片部分固定占据整个容器总宽度的 28% */
-    max-width: 260px !important;    /* 限制最大物理宽度，防止在大屏上过大 */
-    min-width: 180px !important;    /* 限制最小物理宽度，防止在小屏上过小 */
-    aspect-ratio: 1.6 / 1 !important; /* 核心：通过固定宽高比（黄金比例）确保所有图片框绝对整齐 */
-    margin-right: 24px !important;  /* 设定自然的间距 */
+    display: block !important;
+    width: 240px !important;       
+    min-width: 240px !important;   /* 刚性死守宽度，阻断任何文本挤压 */
+    height: 145px !important;      /* 刚性高度，与宽度形成完美论文配图比例 */
+    margin-right: 18px !important; /* 紧凑间距 */
     position: relative !important;
-    overflow: hidden;
-    border-radius: 6px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.06); 
+    overflow: hidden !important;
+    border-radius: 6px !important;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08) !important; 
+    box-sizing: border-box !important;
   }
   
-  /* 图片强力拉伸切齐 */
+  /* 移除内部可能存在的未闭合多余 div 标签的布局干扰 */
+  .paper-box-image div:not(.badge) {
+    width: 100% !important;
+    height: 100% !important;
+    display: block !important;
+  }
+
+  /* 终极强制拉伸与切齐：让不同尺寸的原始图片拥有完全相同的网页显示尺寸 */
   .paper-box-image img {
     width: 100% !important;
     height: 100% !important;
-    object-fit: cover !important;  
+    max-width: 100% !important;
+    max-height: 100% !important;
+    object-fit: fill !important;   /* 彻底拉伸填充整个边框，确保每一张图大小外观绝对整齐 */
     display: block !important;
   }
   
   .badge {
-    position: absolute;
-    top: 6px;
-    left: 6px;
-    background-color: rgba(0, 0, 0, 0.7);
-    color: white;
-    padding: 2px 6px;
-    font-size: 10px;
-    border-radius: 3px;
-    z-index: 2;
-    font-weight: 500;
+    position: absolute !important;
+    top: 6px !important;
+    left: 6px !important;
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    color: white !important;
+    padding: 2px 6px !important;
+    font-size: 10px !important;
+    border-radius: 3px !important;
+    z-index: 5 !important;
+    font-weight: 500 !important;
   }
   
-  /* 彻底释放文本框宽度，让其完美扩展至模板的最右侧 */
+  /* 终极宽度释放：击穿 Jekyll 框架对正文段落右侧留白的限制 */
   .paper-box-text {
-    flex: 1 !important;             /* 强制拿走剩下 72% 的所有空间 */
+    flex: 1 !important;             /* 动态吃掉右侧所有可用宽度 */
     min-width: 0 !important;       
-    width: auto !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
     text-align: left !important;
   }
 
-  /* 击穿 Markdown 渲染器或模板自带的换行与宽度限制 */
+  /* 核心：消除 Markdown 内置渲染器对 p 标签的最大宽度（如 600px）或右边距约束 */
   .paper-box-text p,
   .paper-box-text span,
   .paper-box-text ul,
   .paper-box-text li {
     width: 100% !important;
-    max-width: 100% !important;
-    display: block !important;
+    max-width: 100% !important;    /* 强制解除最大宽度 */
+    display: inline-block !important; /* 改变流动模型，阻止频繁换行 */
     box-sizing: border-box !important;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
   }
 </style>
 
@@ -274,6 +288,8 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   </div>
 </div>
 
+
+
 # Preprints
 - **Zhang H**, Ding Zhao, H. Eric Tseng. C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning. arXiv, 2026, under review.
 - **Zhang H**, H. Eric Tseng. Intention-Aware Adversarial MARL for AV Stress Testing. arXiv, 2025, under review.
@@ -327,7 +343,6 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 - *2018* Best Paper Award in the 2018 IEEE ACES Conference in Denver, U.S.
 - *2017* National Scholarship, Ministry of Education of China
 - *2016* National Scholarship, Ministry of Education of China
-
 
 
 # 💬 Invited Talks
