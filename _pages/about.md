@@ -188,19 +188,6 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aplied Energy</div><img src='images/APEN_CPO_500x300.png' alt="sym" width="92%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Coupled velocity and energy management optimization of connected hybrid electric vehicles for maximum collective efficiency](https://www.sciencedirect.com/science/article/pii/S0306261924001752?via%3Dihub)
-
-**Hao Zhang**, Boli Chen, Nuo Lei, Bingbing Li, Chaoyi Chen, Zhi Wang
-<br>*In Applied Energy*
-
-- This paper proposes an efficient nested parallel optimization (NPO) strategy based on the ‘1+n’ mixed platoon concept, integrating Pontryagin’s minimum principle into a constrained control framework to jointly optimize speed planning and energy control of heterogeneous CAVs. The method reduces the control state-action dimensions while balancing traffic efficiency and fuel economy across intersections.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TTE</div><img src='images/IEEE_TTE_ITEM_500x300.png' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
