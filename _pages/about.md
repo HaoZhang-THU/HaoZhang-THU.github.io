@@ -20,9 +20,9 @@ redirect_from:
 
 I am a Research Associate in the [Safe AI Lab](https://safeai-lab.github.io/#team) at Carnegie Mellon University, working with [Prof. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). I currently serve as the Associate Director of the [ETAIC (Embodied Technology for Autonomy, Intelligence, and Control)](https://etaic.github.io/) Research Lab at the University of Texas at Arlington, working with [Prof. Eric Tseng](https://www.nae.edu/248787/Dr-Hongtei-E-Tseng), a member of the [National Academy of Engineering](https://www.nae.edu/). Prior to this, I worked as a Research Fellow at Tsinghua University and a Visiting Researcher at University College of London. I received my Ph.D. from School of Vehicle and Mobility at Tsinghua University, co-advised by [Prof. Zhi Wang](https://www.svm.tsinghua.edu.cn/essay/74/1854.html) and [Prof. Shengbo Eben Li](https://www.svm.tsinghua.edu.cn/essay/80/2123.html).
 
-I was the recipient of the Outstanding Doctoral Dissertation Award, the Outstanding Ph.D. Graduate, and the “Shuimu Scholar” talent program at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2024. My doctoral research directly contributed to the successful industry deployment of reinforcement learning methods in developing advanced driver-assistance systems and energy management systems, significantly improving safety, drivability, energy efficiency, and driving comfort, thereby enhancing the overall driving experience of connected and automated vehicles. Notably, the control systems I developed have been implemented in leading automotive companies such as [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), [SAIC Motor](https://www.saicmotor.com/english/index.shtml), and start-up automotive companies such as [Hybot](http://www.hybot.com.cn/). 
+I was the recipient of the Outstanding Doctoral Dissertation Award, the Outstanding Ph.D. Graduate, and the “Shuimu Scholar” talent program at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2024. My doctoral research directly contributed to the industry deployment of reinforcement learning in developing advanced driver-assistance systems and energy management systems, significantly improving safety, energy efficiency, and driving comfort, thereby enhancing the overall driving experience of connected and automated vehicles. Notably, the control systems I developed have been implemented in leading automotive companies such as [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), [SAIC Motor](https://www.saicmotor.com/english/index.shtml), and start-up automotive companies such as [Hybot](http://www.hybot.com.cn/). 
 
-I have authored over 50 peer-reviewed SCI journal and conference papers and am a co-inventor on more than 20 patents. I serve as Guest Editor for several journals and as Associate Editor on the International Program Committee of several conferences including IEEE ITSC, IEEE IV, etc. My current research focuses on multi-agent reinforcement learning theory, the integration of vison-language-models with closed-loop control, and human–robot collaboration using game theory. I aim to advance human-centric trustworthy AI agents for real-world deployment in autonomous systems.
+I have authored over 50 peer-reviewed SCI journal and conference papers. I serve as Guest Editor for several journals and as Associate Editor on the International Program Committee of several conferences including IEEE ITSC, IEEE IV, etc. My current research focuses on multi-agent reinforcement learning theory, the integration of vison-language-models with closed-loop control, and human–robot collaboration using game theory. I aim to advance human-centric trustworthy AI agents for real-world deployment in autonomous systems.
 
 Open to casual collaborations if interests align, and open to bringing in RA/Volunteers to work with me at ETAIC and Safe AI Lab — or feel free to just say hi. haoz4@andrew.cmu.edu
 
@@ -74,12 +74,9 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 - *2026.01*: I serve as an Associate Editor for the upcoming IEEE International Conference on Intelligent Transportation Systems (ITSC 2026). I warmly welcome you to submit your papers to this exciting venue.
 - *2025.10*: Our paper [Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles](https://ieeexplore.ieee.org/document/11215998) was published in IEEE Transactions on Intelligent Transportation Systems.
 - *2025.10*: I serve as an Associate Editor for the upcoming IEEE Intelligent Vehicles Symposium (IV 2026). I warmly welcome you to submit your papers to this exciting venue.
-- *2025.08*: Our paper [Optimal vehicle dynamics and powertrain control of carbon-free autonomous vehicles: Large language model assisted heterogeneous-agent learning](https://www.sciencedirect.com/science/article/pii/S0360544225044287?via%3Dihub) was published in Energy.
 - *2025.06*: Our paper [Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles](https://ieeexplore.ieee.org/document/11034670) was published in IEEE Transactions on Intelligent Transportation Systems.
 - *2025.06*:&nbsp;🎉 I joined the Safe AI Lab as a **Research Associate** at CMU in the U.S.
 - *2025.01*: Our paper [Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling](https://ieeexplore.ieee.org/document/10852019) was published in IEEE Transactions on Vehicular Technology.
-- *2025.01*: Our paper [Ecological Electric Vehicle Platooning: An Adaptive Tube-Based Distributed Model Predictive Control Approach](https://ieeexplore.ieee.org/document/10530162) was published in IEEE Transactions on Transportation Electrification.
-- *2024.11*: Our paper [Modeling and control system optimization for electrified vehicles: A data-driven approach](https://www.sciencedirect.com/science/article/pii/S0360544224029712?via%3Dihub) was published in Energy.
 - *2024.11*:&nbsp;🎉 I am an incoming **Associate Director** of ETAIC Lab led by Prof. Eric Tseng (NAE Member) at UTA in the U.S.
 - *2024.08*: I delivered a plenary talk at 2024 China SAE Annual Conference on Advanced Powertrains (APC), titled “Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control”, held in Zhenjiang, China.
 - *2024.06*:&nbsp;🎉 I was selected for the “Shuimu Scholar” talent program as a Research Fellow at Tsinghua University.
@@ -90,40 +87,43 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 # 📝 Featured Publications
 
 <style>
-  /* 添加一些 CSS 来控制图片大小和布局 */
+  /* 大幅放大 60%-70% 后的网页排版 CSS */
   .paper-box {
     display: flex;
-    margin-bottom: 20px;
-    align-items: flex-start; /* 顶部对齐 */
+    margin-bottom: 32px;      /* 增大条目间距，匹配更大的图片视觉体积 */
+    align-items: flex-start;  /* 顶部对齐 */
   }
   .paper-box-image {
-    width: 150px; /* 显式设置图片容器宽度 */
-    min-width: 150px; /* 防止被压缩 */
-    margin-right: 20px;
-    text-align: center; /* 徽章居中 */
-    position: relative; /* 徽章定位 */
+    width: 250px;            /* 显著增大容器宽度（原 150px，放大约 66%） */
+    min-width: 250px;        /* 防止被压缩 */
+    margin-right: 8px;       /* 进一步缩紧文字和图片的间距（原 20px） */
+    text-align: center;       /* 徽章居中 */
+    position: relative;       /* 徽章定位 */
   }
   .paper-box-image img {
-    max-width: 100%; /* 图片宽度不超过容器 */
-    max-height: 120px; /* 设置最大高度，防止过高 */
-    height: auto; /* 保持比例 */
+    max-width: 100%;          /* 图片宽度不超过容器 */
+    max-height: 200px;        /* 显著增大最大高度限制（原 120px，放大约 66%） */
+    height: auto;             /* 保持比例 */
     display: block;
-    margin: 0 auto; /* 居中显示 */
+    margin: 0 auto;           /* 居中显示 */
+    border-radius: 6px;       /* 稍大一点的圆角，更契合大图的精致感 */
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05); /* 淡淡的阴影让大图更有质感，可自行删除 */
   }
   .badge {
-    /* 您的徽章样式，这里简单设置一下，您可以根据需要调整 */
     position: absolute;
-    top: 5px;
-    left: 5px;
-    background-color: rgba(0,0,0,0.5);
+    top: 6px;
+    left: 6px;
+    background-color: rgba(0,0,0,0.65); /* 加深透明度 */
     color: white;
-    padding: 2px 5px;
-    font-size: 10px;
-    border-radius: 3px;
+    padding: 3px 8px;         /* 稍微加大 Badge 内边距以适应大图 */
+    font-size: 11px;          /* 略微提升字号 */
+    border-radius: 4px;
     z-index: 1;
+    font-weight: 500;
   }
   .paper-box-text {
-    flex: 1; /* 占据剩余空间 */
+    flex: 1;                  /* 占据剩余空间 */
+    padding-left: 8px;        /* 精细微调文字起点，保持呼吸感 */
   }
 </style>
 
@@ -195,37 +195,6 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 - We proposed a bi-level transfer approach with MAML to realize cross-platform transferable and online-adaptive EMS for REEVs. It contributed to the successful industry deployment of RL methods, implemented in leading automotive company - BYD Auto, significantly enhancing the REEV efficiency. 
 </div>
 </div>
-
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy</div><img src='images/EGY_RL_ECMS_500x300.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Modeling and control system optimization for electrified vehicles: A data-driven approach](https://www.sciencedirect.com/science/article/pii/S0360544224029712?via%3Dihub)
-
-**Hao Zhang**, Nuo Lei, Boli Chen, Bingbing Li, Rulong Li, Zhi Wang
-<br>*In Energy*
-
-[**Industrial Collaborator: Dongfeng Motor**](https://www.dongfeng-global.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper develops a high-fidelity PHEV model integrating physical and data-driven approaches, and proposes a real-vehicle control framework that combines horizon-extended reinforcement learning with ECMS to improve practical energy management.
-</div>
-</div> -->
-
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/IEEE_TVT_TCNN_500x300.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling](https://ieeexplore.ieee.org/document/10852019)
-
-Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, Jingjing Hu, Zhi Wang
-<br>*In IEEE Transactions on Vehicular Technology*
-
-[**Industrial Collaborator: Hybot**](http://www.hybot.com.cn/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We proposed a theory-constrained neural network (TCNN) that integrates physical principles without sacrificing accuracy. A theory-guided filter ensures sub-module interpretability, and sub-networks are individually trained under theoretical constraints with a CNN-BiLSTM-MHSA architecture enhances overall accuracy. Results demonstrate significant improvements in fitting accuragy for fuel cell modeling.
-</div>
-</div> -->
-
 
 
 
