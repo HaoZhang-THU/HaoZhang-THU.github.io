@@ -18,11 +18,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Associate in the [Safe AI Lab](https://safeai-lab.github.io/#team) at Carnegie Mellon University, working with [Prof. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). I currently serve as the Associate Director of the [ETAIC (Embodied Technology for Autonomy, Intelligence, and Control)](https://etaic.github.io/) Research Lab at the University of Texas at Arlington, working with [Prof. Eric Tseng](https://www.nae.edu/248787/Dr-Hongtei-E-Tseng), a member of the [National Academy of Engineering](https://www.nae.edu/). Prior to this, I worked as a Research Fellow at Tsinghua University and a Visiting Researcher at University College of London. I received my Ph.D. from School of Vehicle and Mobility at Tsinghua University, co-advised by [Prof. Zhi Wang](https://www.svm.tsinghua.edu.cn/essay/74/1854.html) and [Prof. Shengbo Eben Li](https://www.svm.tsinghua.edu.cn/essay/80/2123.html).
+I am a Research Associate in the [Safe AI Lab](https://safeai-lab.github.io/#team) at Carnegie Mellon University, working with [Prof. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). I serve as the Associate Director of the [ETAIC (Embodied Technology for Autonomy, Intelligence, and Control)](https://etaic.github.io/) Lab at the University of Texas at Arlington, working with [Prof. Eric Tseng](https://www.nae.edu/248787/Dr-Hongtei-E-Tseng), a member of the [National Academy of Engineering](https://www.nae.edu/). Prior to this, I worked as a Research Fellow at Tsinghua University and a Visiting Researcher at University College of London. I received my Ph.D. from School of Vehicle and Mobility at Tsinghua University, co-advised by [Prof. Zhi Wang](https://www.svm.tsinghua.edu.cn/essay/74/1854.html) and [Prof. Shengbo Eben Li](https://www.svm.tsinghua.edu.cn/essay/80/2123.html).
 
-I was the recipient of the Outstanding Doctoral Dissertation Award, the Outstanding Ph.D. Graduate, and the “Shuimu Scholar” talent program at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2024. My doctoral research directly contributed to the successful industry deployment of reinforcement learning methods in developing advanced driver-assistance systems and energy management systems, significantly improving safety, drivability, energy efficiency, and driving comfort, thereby enhancing the overall driving experience of connected and automated vehicles. Notably, the control systems I developed have been implemented in leading automotive companies such as [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), [SAIC Motor](https://www.saicmotor.com/english/index.shtml), and start-up automotive companies such as [Hybot](http://www.hybot.com.cn/). 
+I was the recipient of the Outstanding Doctoral Dissertation Award, the Outstanding Ph.D. Graduate, and the “Shuimu Scholar” talent program at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2024. My doctoral research directly contributed to the industry deployment of reinforcement learning in developing advanced driver-assistance systems and energy management systems, significantly improving safety, energy efficiency, and driving comfort, thereby enhancing the overall driving experience of connected and automated vehicles. Notably, the control systems I developed have been implemented in leading automotive companies such as [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), [SAIC Motor](https://www.saicmotor.com/english/index.shtml), and start-up automotive companies such as [Hybot](http://www.hybot.com.cn/). 
 
-I have authored over 50 peer-reviewed SCI journal and conference papers and am a co-inventor on more than 20 patents. I serve as Guest Editor for several journals and as Associate Editor on the International Program Committee of several conferences including IEEE ITSC, IEEE IV, etc. My current research focuses on multi-agent reinforcement learning theory, the integration of vison-language-models with closed-loop control, and human–robot collaboration using game theory. I aim to advance human-centric trustworthy AI agents for real-world deployment in autonomous systems.
+I have authored over 50 peer-reviewed SCI journal and conference papers. I serve as Guest Editor for several journals and as Associate Editor on the International Program Committee of several conferences including IEEE ITSC, IEEE IV, etc. My current research focuses on multi-agent reinforcement learning theory, the integration of vison-language-models with closed-loop control, and human–robot collaboration using game theory. I aim to advance human-centric trustworthy AI agents for real-world deployment in autonomous systems.
 
 Open to casual collaborations if interests align, and open to bringing in RA/Volunteers to work with me at ETAIC and Safe AI Lab — or feel free to just say hi. haoz4@andrew.cmu.edu
 
@@ -74,12 +74,9 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 - *2026.01*: I serve as an Associate Editor for the upcoming IEEE International Conference on Intelligent Transportation Systems (ITSC 2026). I warmly welcome you to submit your papers to this exciting venue.
 - *2025.10*: Our paper [Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles](https://ieeexplore.ieee.org/document/11215998) was published in IEEE Transactions on Intelligent Transportation Systems.
 - *2025.10*: I serve as an Associate Editor for the upcoming IEEE Intelligent Vehicles Symposium (IV 2026). I warmly welcome you to submit your papers to this exciting venue.
-- *2025.08*: Our paper [Optimal vehicle dynamics and powertrain control of carbon-free autonomous vehicles: Large language model assisted heterogeneous-agent learning](https://www.sciencedirect.com/science/article/pii/S0360544225044287?via%3Dihub) was published in Energy.
 - *2025.06*: Our paper [Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles](https://ieeexplore.ieee.org/document/11034670) was published in IEEE Transactions on Intelligent Transportation Systems.
 - *2025.06*:&nbsp;🎉 I joined the Safe AI Lab as a **Research Associate** at CMU in the U.S.
 - *2025.01*: Our paper [Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling](https://ieeexplore.ieee.org/document/10852019) was published in IEEE Transactions on Vehicular Technology.
-- *2025.01*: Our paper [Ecological Electric Vehicle Platooning: An Adaptive Tube-Based Distributed Model Predictive Control Approach](https://ieeexplore.ieee.org/document/10530162) was published in IEEE Transactions on Transportation Electrification.
-- *2024.11*: Our paper [Modeling and control system optimization for electrified vehicles: A data-driven approach](https://www.sciencedirect.com/science/article/pii/S0360544224029712?via%3Dihub) was published in Energy.
 - *2024.11*:&nbsp;🎉 I am an incoming **Associate Director** of ETAIC Lab led by Prof. Eric Tseng (NAE Member) at UTA in the U.S.
 - *2024.08*: I delivered a plenary talk at 2024 China SAE Annual Conference on Advanced Powertrains (APC), titled “Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control”, held in Zhenjiang, China.
 - *2024.06*:&nbsp;🎉 I was selected for the “Shuimu Scholar” talent program as a Research Fellow at Tsinghua University.
@@ -89,7 +86,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 # 📝 Featured Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML (Oral)</div><img src='images/HALYPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML (Oral)</div><img src='images/HALYPO.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](http://arxiv.org/abs/2603.03741)
@@ -104,7 +101,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSHARL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSHARL.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning](http://arxiv.org/abs/2603.03768)
