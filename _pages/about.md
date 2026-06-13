@@ -87,62 +87,76 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 # 📝 Featured Publications
 
 <style>
-  /* 彻底重构的响应式、全宽学术列表样式 */
+  /* 响应式、比例自适应学术列表样式 */
   .paper-box {
     display: flex !important;
     width: 100% !important;
     max-width: 100% !important;
     margin-bottom: 36px;
     align-items: flex-start;
+    box-sizing: border-box !important;
   }
   
+  /* 用百分比或 flex 比例来控制图片，让出足够空间给文本 */
   .paper-box-image {
-    width: 260px !important;       /* 物理尺寸进一步放大，确保视觉冲击力 */
-    min-width: 260px !important;   /* 坚决防止被文本挤压 */
-    height: 160px !important;      /* 提升高度，保持黄金比例 */
-    margin-right: 20px !important;  /* 给予图片和文本合理的呼吸间距 */
-    position: relative;
+    flex: 0 0 28% !important;      /* 图片部分固定占据整个容器总宽度的 28% */
+    max-width: 260px !important;    /* 限制最大物理宽度，防止在大屏上过大 */
+    min-width: 180px !important;    /* 限制最小物理宽度，防止在小屏上过小 */
+    aspect-ratio: 1.6 / 1 !important; /* 核心：通过固定宽高比（黄金比例）确保所有图片框绝对整齐 */
+    margin-right: 24px !important;  /* 设定自然的间距 */
+    position: relative !important;
+    overflow: hidden;
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06); 
   }
   
+  /* 图片强力拉伸切齐 */
   .paper-box-image img {
     width: 100% !important;
     height: 100% !important;
-    object-fit: cover !important;  /* 居中裁剪填充，比 fill 的拉伸变形高级很多，且绝对整齐 */
-    display: block;
-    border-radius: 6px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* 质感阴影 */
+    object-fit: cover !important;  
+    display: block !important;
   }
   
   .badge {
     position: absolute;
-    top: 8px;
-    left: 8px;
+    top: 6px;
+    left: 6px;
     background-color: rgba(0, 0, 0, 0.7);
     color: white;
-    padding: 3px 8px;
-    font-size: 11px;
-    border-radius: 4px;
-    z-index: 1;
+    padding: 2px 6px;
+    font-size: 10px;
+    border-radius: 3px;
+    z-index: 2;
     font-weight: 500;
   }
   
+  /* 彻底释放文本框宽度，让其完美扩展至模板的最右侧 */
   .paper-box-text {
-    flex: 1 !important;
-    min-width: 0 !important;       /* 消除 flex 子元素的默认最小宽度限制 */
-    width: 100% !important;        /* 强制撑满右侧剩余的所有空间 */
+    flex: 1 !important;             /* 强制拿走剩下 72% 的所有空间 */
+    min-width: 0 !important;       
+    width: auto !important;
+    text-align: left !important;
   }
 
-  /* 核心：击穿 Markdown 渲染器自动生成的段落限制，强制解除换行约束 */
-  .paper-box-text p, 
-  .paper-box-text span {
+  /* 击穿 Markdown 渲染器或模板自带的换行与宽度限制 */
+  .paper-box-text p,
+  .paper-box-text span,
+  .paper-box-text ul,
+  .paper-box-text li {
     width: 100% !important;
     max-width: 100% !important;
     display: block !important;
+    box-sizing: border-box !important;
   }
 </style>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML (Oral)</div><img src='images/HALYPO.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">ICML (Oral)</div>
+    <img src='images/HALYPO.png' alt="sym">
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](http://arxiv.org/abs/2603.03741)
 
@@ -151,12 +165,16 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 [**Project Webpage**](https://haozhang-thu.github.io/HALO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose heterogeneous-agent Lyapunov policy optimization (HALyPO), which establishes formal stability directly in the policy-parameter space by enforcing a per-step Lyapunov decrease condition on a parameter-space disagreement metric.
-</div>
+  </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSHARL.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">Preprint</div>
+    <img src='images/IROSHARL.png' alt="sym">
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning](http://arxiv.org/abs/2603.03768)
 
@@ -165,12 +183,16 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 [**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In multi-agent human-robot collaboration, where long-horizon coordination decisions and physical execution must co-evolve under contact, feasibility, and safety constraints. We address this limitation with cognition-to-control (C2C), a three-layer hierarchy that makes the deliberation-to-control pathway explicit.
-</div>
+  </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/IEEE_TITS_2025_multi.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TITS</div>
+    <img src='images/IEEE_TITS_2025_multi.png' alt="sym">
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles](https://www.techrxiv.org/users/692350/articles/1184096-multi-scale-reinforcement-learning-of-dynamic-energy-controller-for-connected-electrified-vehicles?commit=cd309bc80017f735b83292e39179ef3815d2cbe2)
 
@@ -178,12 +200,16 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 <br>*In IEEE Transactions on Intelligent Transportation Systems*
 
 - We proposed a multi-horizon reinforcement learning (MHRL) featuring a novel state representation and coordinated training of sub-networks across multiple time scales, which greatly improves fuel economy in real-world driving.
-</div>
+  </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/RSJ IROS</div><img src='images/IROSWBC.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE/RSJ IROS</div>
+    <img src='images/IROSWBC.png' alt="sym">
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751)
 
@@ -192,12 +218,16 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 [**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We proposed a bio-inspired, interaction-oriented whole-body control (IO-WBC) that functions as an artificial cerebellum - an adaptive motor agent that translates upstream (skill-level) commands into stable, physically consistent whole-body behavior under contact.
-</div>
+  </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/IEEE_TITS_2025_500x300.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TITS</div>
+    <img src='images/IEEE_TITS_2025_500x300.png' alt="sym">
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles](https://ieeexplore.ieee.org/document/11034670)
 
@@ -206,12 +236,16 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 [**Industrial Collaborator: BYD Auto**](https://www.byd.com/us) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We proposed a bi-level transfer approach with MAML to realize cross-platform transferable and online-adaptive EMS for REEVs. It contributed to the successful industry deployment of RL methods, implemented in leading automotive company - BYD Auto, significantly enhancing the REEV efficiency. 
-</div>
+  </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aplied Energy</div><img src='images/APEN_CPO_500x300.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">Aplied Energy</div>
+    <img src='images/APEN_CPO_500x300.png' alt="sym">
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [Coupled velocity and energy management optimization of connected hybrid electric vehicles for maximum collective efficiency](https://www.sciencedirect.com/science/article/pii/S0306261924001752?via%3Dihub)
 
@@ -219,12 +253,16 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 <br>*In Applied Energy*
 
 - This paper proposes an efficient nested parallel optimization (NPO) strategy based on the ‘1+n’ mixed platoon concept, integrating Pontryagin’s minimum principle into a constrained control framework to jointly optimize speed planning and energy control of heterogeneous CAVs. The method reduces the control state-action dimensions while balancing traffic efficiency and fuel economy across intersections.
-</div>
+  </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TTE</div><img src='images/IEEE_TTE_ITEM_500x300.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TTE</div>
+    <img src='images/IEEE_TTE_ITEM_500x300.png' alt="sym">
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [Integrated Thermal and Energy Management of Connected Hybrid Electric Vehicles Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10233107)
 
@@ -233,9 +271,8 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 [**Industrial Collaborator: Dongfeng Motor**](https://www.dongfeng-global.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This research proposes a model-free multistate deep reinforcement learning (DRL) algorithm for integrated thermal and energy management (ITEM) of multimode connected PHEVs, leveraging AI control and traffic preview to enhance EMS performance under cold climate conditions.
+  </div>
 </div>
-</div>
-
 
 # Preprints
 - **Zhang H**, Ding Zhao, H. Eric Tseng. C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning. arXiv, 2026, under review.
