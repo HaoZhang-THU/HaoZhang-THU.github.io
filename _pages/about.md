@@ -86,46 +86,31 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 # 📝 Featured Publications
 
 <style>
-  /* 针对侧边栏模板彻底重组的强力排版样式 */
+  /* 优雅且对 Markdown 安全的完美全宽样式 */
   .paper-box {
     display: flex !important;
-    flex-direction: row !important;
     width: 100% !important;
-    max-width: 100% !important;
-    margin-bottom: 32px !important;
+    margin-bottom: 30px !important;
     align-items: flex-start !important;
-    justify-content: flex-start !important;
-    box-sizing: border-box !important;
   }
   
-  /* 固定图片的绝对宽度和高度，防止在压缩的侧边栏布局中变形 */
+  /* 严格限制图片容器的绝对尺寸（大图尺寸，且规整统一） */
   .paper-box-image {
-    display: block !important;
     width: 240px !important;       
     min-width: 240px !important;   /* 刚性死守宽度，阻断任何文本挤压 */
-    height: 145px !important;      /* 刚性高度，与宽度形成完美论文配图比例 */
-    margin-right: 18px !important; /* 紧凑间距 */
+    height: 145px !important;      /* 刚性高度 */
+    margin-right: 18px !important; /* 精致的图片与文字间距 */
     position: relative !important;
     overflow: hidden !important;
     border-radius: 6px !important;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.08) !important; 
-    box-sizing: border-box !important;
-  }
-  
-  /* 移除内部可能存在的未闭合多余 div 标签的布局干扰 */
-  .paper-box-image div:not(.badge) {
-    width: 100% !important;
-    height: 100% !important;
-    display: block !important;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.06) !important; 
   }
 
-  /* 终极强制拉伸与切齐：让不同尺寸的原始图片拥有完全相同的网页显示尺寸 */
+  /* 终极强制填充：确保所有图片无论原图比例如何，外观尺寸绝对一模一样 */
   .paper-box-image img {
     width: 100% !important;
     height: 100% !important;
-    max-width: 100% !important;
-    max-height: 100% !important;
-    object-fit: fill !important;   /* 彻底拉伸填充整个边框，确保每一张图大小外观绝对整齐 */
+    object-fit: fill !important;   /* 强行平铺填满容器，确保绝对整齐 */
     display: block !important;
   }
   
@@ -142,26 +127,18 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
     font-weight: 500 !important;
   }
   
-  /* 终极宽度释放：击穿 Jekyll 框架对正文段落右侧留白的限制 */
+  /* 彻底释放文本框宽度：让它无拘无束地向右延伸 */
   .paper-box-text {
     flex: 1 !important;             /* 动态吃掉右侧所有可用宽度 */
     min-width: 0 !important;       
     width: 100% !important;
-    box-sizing: border-box !important;
-    text-align: left !important;
   }
 
-  /* 核心：消除 Markdown 内置渲染器对 p 标签的最大宽度（如 600px）或右边距约束 */
-  .paper-box-text p,
-  .paper-box-text span,
-  .paper-box-text ul,
-  .paper-box-text li {
-    width: 100% !important;
-    max-width: 100% !important;    /* 强制解除最大宽度 */
-    display: inline-block !important; /* 改变流动模型，阻止频繁换行 */
-    box-sizing: border-box !important;
-    margin-right: 0 !important;
-    padding-right: 0 !important;
+  /* 只清理外边距，绝对不干扰 Markdown 的内置段落渲染 */
+  .paper-box-text p {
+    margin: 0 0 6px 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important;     /* 确保解除任何可能的窄屏限制 */
   }
 </style>
 
