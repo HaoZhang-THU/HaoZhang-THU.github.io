@@ -87,43 +87,44 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 # 📝 Featured Publications
 
 <style>
-  /* 大幅放大 60%-70% 后的网页排版 CSS */
+  /* 确保整个列表容器和条目撑满页面 */
   .paper-box {
     display: flex;
-    margin-bottom: 32px;      /* 增大条目间距，匹配更大的图片视觉体积 */
+    width: 100%;              /* 撑满全宽，彻底解决文本框过窄问题 */
+    margin-bottom: 32px;      /* 条目间距 */
     align-items: flex-start;  /* 顶部对齐 */
   }
   .paper-box-image {
-    width: 250px;            /* 显著增大容器宽度（原 150px，放大约 66%） */
+    width: 250px;            /* 固定容器宽度 */
     min-width: 250px;        /* 防止被压缩 */
-    margin-right: 8px;       /* 进一步缩紧文字和图片的间距（原 20px） */
-    text-align: center;       /* 徽章居中 */
-    position: relative;       /* 徽章定位 */
+    height: 150px;           /* 固定容器高度 */
+    margin-right: 16px;       /* 图片与文本的固定间距 */
+    text-align: center;
+    position: relative;
   }
   .paper-box-image img {
-    max-width: 100%;          /* 图片宽度不超过容器 */
-    max-height: 200px;        /* 显著增大最大高度限制（原 120px，放大约 66%） */
-    height: auto;             /* 保持比例 */
+    width: 100%;             /* 宽度填满容器 */
+    height: 100%;            /* 高度填满容器 */
+    object-fit: fill;        /* 核心：强制拉伸填充，确保所有图片大小外观绝对整齐 */
     display: block;
-    margin: 0 auto;           /* 居中显示 */
-    border-radius: 6px;       /* 稍大一点的圆角，更契合大图的精致感 */
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05); /* 淡淡的阴影让大图更有质感，可自行删除 */
+    border-radius: 6px;       /* 精致圆角 */
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06); /* 淡淡的阴影提升质感 */
   }
   .badge {
     position: absolute;
     top: 6px;
     left: 6px;
-    background-color: rgba(0,0,0,0.65); /* 加深透明度 */
+    background-color: rgba(0,0,0,0.65);
     color: white;
-    padding: 3px 8px;         /* 稍微加大 Badge 内边距以适应大图 */
-    font-size: 11px;          /* 略微提升字号 */
+    padding: 3px 8px;
+    font-size: 11px;
     border-radius: 4px;
     z-index: 1;
     font-weight: 500;
   }
   .paper-box-text {
-    flex: 1;                  /* 占据剩余空间 */
-    padding-left: 8px;        /* 精细微调文字起点，保持呼吸感 */
+    flex: 1;                  /* 自动扩展，占据右侧所有剩余空间 */
+    word-break: break-word;   /* 防止文本溢出 */
   }
 </style>
 
@@ -198,6 +199,37 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 
 
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy</div><img src='images/EGY_RL_ECMS_500x300.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Modeling and control system optimization for electrified vehicles: A data-driven approach](https://www.sciencedirect.com/science/article/pii/S0360544224029712?via%3Dihub)
+
+**Hao Zhang**, Nuo Lei, Boli Chen, Bingbing Li, Rulong Li, Zhi Wang
+<br>*In Energy*
+
+[**Industrial Collaborator: Dongfeng Motor**](https://www.dongfeng-global.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This paper develops a high-fidelity PHEV model integrating physical and data-driven approaches, and proposes a real-vehicle control framework that combines horizon-extended reinforcement learning with ECMS to improve practical energy management.
+</div>
+</div> -->
+
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/IEEE_TVT_TCNN_500x300.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling](https://ieeexplore.ieee.org/document/10852019)
+
+Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, Jingjing Hu, Zhi Wang
+<br>*In IEEE Transactions on Vehicular Technology*
+
+[**Industrial Collaborator: Hybot**](http://www.hybot.com.cn/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We proposed a theory-constrained neural network (TCNN) that integrates physical principles without sacrificing accuracy. A theory-guided filter ensures sub-module interpretability, and sub-networks are individually trained under theoretical constraints with a CNN-BiLSTM-MHSA architecture enhances overall accuracy. Results demonstrate significant improvements in fitting accuragy for fuel cell modeling.
+</div>
+</div> -->
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aplied Energy</div><img src='images/APEN_CPO_500x300.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -223,7 +255,6 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 - This research proposes a model-free multistate deep reinforcement learning (DRL) algorithm for integrated thermal and energy management (ITEM) of multimode connected PHEVs, leveraging AI control and traffic preview to enhance EMS performance under cold climate conditions.
 </div>
 </div>
-
 
 
 # Preprints
