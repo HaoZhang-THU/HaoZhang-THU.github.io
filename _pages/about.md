@@ -44,16 +44,16 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
     </div>
 
     <div style="width: 23.5%; display: flex; flex-direction: column; align-items: center;">
-      <img src="images/demo2.GIF" alt="Demo 2" style="width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <img src="images/demo3.GIF" alt="Demo 3" style="width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <div style="text-align: center; color: #666; font-size: 0.85em; margin-top: 8px; line-height: 1.2;">
-        Trustworthy AI Partner
+        Contact-Rich Loco-Manipulation
       </div>
     </div>
 
     <div style="width: 23.5%; display: flex; flex-direction: column; align-items: center;">
-      <img src="images/demo3.GIF" alt="Demo 3" style="width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <img src="images/demo2.GIF" alt="Demo 2" style="width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <div style="text-align: center; color: #666; font-size: 0.85em; margin-top: 8px; line-height: 1.2;">
-        Contact-Rich Whole body Control
+        Trustworthy AI Partner
       </div>
     </div>
 
@@ -86,7 +86,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 # 📝 Featured Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML (Oral)</div><img src='images/HALYPO.png' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML (Oral)</div><img src='images/HALYPO.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](http://arxiv.org/abs/2603.03741)
@@ -101,7 +101,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSHARL.png' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSHARL.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning](http://arxiv.org/abs/2603.03768)
@@ -115,7 +115,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/IEEE_TITS_2025_multi.png' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/IEEE_TITS_2025_multi.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles](https://www.techrxiv.org/users/692350/articles/1184096-multi-scale-reinforcement-learning-of-dynamic-energy-controller-for-connected-electrified-vehicles?commit=cd309bc80017f735b83292e39179ef3815d2cbe2)
@@ -128,7 +128,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/RSJ IROS</div><img src='images/IROSWBC.png' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/RSJ IROS</div><img src='images/IROSWBC.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751)
@@ -142,7 +142,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/IEEE_TITS_2025_500x300.png' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/IEEE_TITS_2025_500x300.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles](https://ieeexplore.ieee.org/document/11034670)
@@ -157,7 +157,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy</div><img src='images/EGY_RL_ECMS_500x300.png' alt="sym" width="92%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy</div><img src='images/EGY_RL_ECMS_500x300.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Modeling and control system optimization for electrified vehicles: A data-driven approach](https://www.sciencedirect.com/science/article/pii/S0360544224029712?via%3Dihub)
@@ -172,7 +172,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/IEEE_TVT_TCNN_500x300.png' alt="sym" width="92%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/IEEE_TVT_TCNN_500x300.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling](https://ieeexplore.ieee.org/document/10852019)
