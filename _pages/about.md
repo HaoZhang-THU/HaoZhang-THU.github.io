@@ -96,7 +96,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 <br>*ICML 2026 <span style="color:red;"><strong>Oral Presentation (top 0.7%)</strong></span>*
 
 [**Project Webpage**](https://haozhang-thu.github.io/HALO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose heterogeneous-agent Lyapunov policy optimization (HALyPO), which establishes formal stability directly in the policy-parameter space by enforcing a per-step Lyapunov decrease condition on a parameter-space disagreement metric.
+- We propose heterogeneous-agent Lyapunov policy optimization (HALO), which establishes formal stability directly in the policy-parameter space by enforcing a per-step Lyapunov decrease condition on a parameter-space disagreement metric.
 </div>
 </div>
 
