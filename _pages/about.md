@@ -186,18 +186,6 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 </div> -->
 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TTE</div><img src='images/IEEE_TTE_ITEM_500x300.png' alt="sym" width="92%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Integrated Thermal and Energy Management of Connected Hybrid Electric Vehicles Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10233107)
-
-**Hao Zhang**, Boli Chen, Nuo Lei, Bingbing Li, Rulong Li, Zhi Wang
-<br>*In IEEE Transactions on Transportation Electrification*
-
-[**Industrial Collaborator: Dongfeng Motor**](https://www.dongfeng-global.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This research proposes a model-free multistate deep reinforcement learning (DRL) algorithm for integrated thermal and energy management (ITEM) of multimode connected PHEVs, leveraging AI control and traffic preview to enhance EMS performance under cold climate conditions.
 </div>
 </div>
 
