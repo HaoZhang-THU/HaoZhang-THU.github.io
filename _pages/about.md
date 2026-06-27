@@ -29,9 +29,9 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 # 💻 Research Interests
 
-- Embodied AI theory: Multi-agent reinforcement learning, Optimal control, VLM with closed-loop control, and game theory
-- Robotics: Trustworthy AI methods for decision-making and control of assistive and mobile robots
-- Intelligent vehicles: Human-centric AI for ADAS and EMS to improve safety, drivability, efficiency, and comfort
+- Embodied AI theory: Reinforcement learning, Optimal control, VLM with closed-loop control, and game theory
+- Robotics: Safety-critical decision-making and control of assistive and mobile robots
+- Intelligent vehicles: Human-centric AI for ADAS and EMS to improve safety, efficiency, and comfort
 
 <div style="width: 100%; margin-bottom: 30px; margin-top: 20px;">
   <div style="display: flex; justify-content: space-between; gap: 2%;">
@@ -114,6 +114,19 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/RSJ IROS</div><img src='images/IROSHTD.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Versatile Humanoid Manipulation with Touch Dreaming](https://arxiv.org/abs/2604.13015)
+
+Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Krishna Senthilkumaran, **Hao Zhang**, Bingqing Chen, Chen Qiu, Eric H. Tseng, Jonathan Francis, Ding Zhao 
+<br>*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026*
+
+[**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We develop a VR-based whole-body data collection system and propose Humanoid Transformer with Touch Dreaming (HTD), a multimodal Transformer that jointly models vision, proprioception, and touch, achieving a 90.9% relative improvement in average success rate across five real-world tasks.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/RSJ IROS</div><img src='images/IROSWBC.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
