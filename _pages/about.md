@@ -58,7 +58,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
     </div>
 
     <div style="width: 23.5%; display: flex; flex-direction: column; align-items: center;">
-      <img src="images/demo4.GIF" alt="Demo 4" style="width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <img src="images/demo5.GIF" alt="Demo 4" style="width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <div style="text-align: center; color: #666; font-size: 0.85em; margin-top: 8px; line-height: 1.2;">
         Intelligent Vehicle and Digital Twin
       </div>
