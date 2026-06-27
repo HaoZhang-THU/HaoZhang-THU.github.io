@@ -210,16 +210,15 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 # Selected Papers
 - **Zhang H**, Yves Tseng, Ding Zhao, H. Eric Tseng. IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
 - **Zhang H**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. International Conference on Machine Learning (ICML) 2026. (**Oral**, top 0.7%)
-- **Zhang H**, Lei N, Li E S, et al. Multi-scale reinforcement learning of dynamic energy controller for connected electrified vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, Early Acess.
+- **Zhang H**, Lei N, Li E S, et al. Multi-scale reinforcement learning of dynamic energy controller for connected electrified vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025,26:22607-22619.
+- Niu Y, Fang Z, Chen B, Zhou S, Senthilkumaran R, **Zhang H**, Chen B, Qiu C, Tseng E H, Francis J, Zhao D. Learning Versatile Humanoid Manipulation with Touch Dreaming. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
+- **Zhang H**, Lei N, Chen B, et al. Bi-level transfer learning for lifelong intelligent energy management of electric vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025,26:16174-16187.
 - Yang G, **Zhang H**, Qiu L. Graph-based multi-agent reinforcement learning with an enriched environment for joint ride-sharing and charging optimization. Applied Energy, 2025,405:127220.
 - Mubai Ding, Yisen Li, et al., **Zhang H*** (Corresponding Author). Learning-augmented optimization and control of long-haul mobility propulsion systems. iScience, 2026,29(5):115579.
 - **Zhang H**, Dong J, Lei N, et al. Optimal vehicle dynamics and powertrain control of carbon-free autonomous vehicles: Large Language Model Assisted Heterogeneous-Agent Learning. Energy, 2025,338:138786
-- Sun Y, **Zhang H***, Lei N, et al. Exergy analysis-based topology optimization of ammonia-hydrogen propulsion system for carbon-free heavy vehicles. International Journal of Hydrogen Energy, 2025,203:153041.
-- Li B, Wang K, **Zhang H**, et al. A Globally Tuned Load-Leveling Strategy for Energy Management of Hybrid Electric Vehicles. Energy, 2025,336:138346
-- **Zhang H**, Lei N, Chen B, et al. Bi-level transfer learning for lifelong intelligent energy management of electric vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025,26:16174-16187.
 - **Zhang H**, Yang G, Lei N, et al. Scenario-aware electric vehicle energy control with enhanced vehicle-to-grid capability: A multi-task reinforcement learning approach. Energy, 2025,138189.
 - **Zhang H**, Xu J, Lei N, et al. Surrogate-enhanced multi-objective optimization of on-board hydrogen production device for carbon-free heavy-duty vehicles. Energy, 2025,333:137369.
-- Lei N, **Zhang H**, Hu J, et al. Sim-to-real design and development of reinforcement learning-based energy management strategies for fuel cell electric vehicles. Applied Energy, 2025,393:126030.
+- Lei N, **Zhang H**, Hu J, et al. Sim-to-real design and development of reinforcement learning-based energy management strategies for fuel cell electric vehicles. Applied Energy, 2025,393:126030. (**ESI highly cited paper**)
 - Lei N, **Zhang H*** (Corresponding Author), Wang H, et al. Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling. IEEE Trans. on Vehicular Technology, 2025, Early Access.
 - **Zhang H**, Lei N, Chen B, et al. Modeling and control system optimization for electrified vehicles: A data-driven approach. Energy, 2024,311:133196.
 - **Zhang H**, Chen B, Lei N, et al. Coupled velocity and energy management optimization of connected hybrid electric vehicles for maximum collective efficiency. Applied Energy, 2024,360:122792.
@@ -230,9 +229,7 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 - Sun H, Li B, **Zhang H**, et al. Ecological electric vehicle platooning: an adaptive tube-based distributed model predictive control approach. IEEE Trans. on Transportation Electrification, 2024,11:1048-1060.
 - Lei N, **Zhang H**, Li R, et al. Physics-informed data-driven modeling approach for commuting-oriented hybrid powertrain optimization. Energy Conversion and Management, 2024;299:117814.
 - **Zhang H**, Lei N, Chen B, et al. Data-driven predictive energy consumption minimization strategy for connected plug-in hybrid electric vehicles. Energy, 2023,283:128514.
-- Li B, Zhuang W, **Zhang H**, et al. A comparative study of energy-oriented driving strategy for connected electric vehicles on freeways with varying slopes. Energy, 2023,289:129916.
 - Lei N, **Zhang H**, Wang H, et al. An improved co-optimization of component sizing and energy management for hybrid powertrains with high-fidelity model. IEEE Trans. on Vehicular Technology, 2023,72:15585-15596.
-- **Zhang H**, Liu S, Lei N, et al. Learning-based supervisory control of dual mode engine-based hybrid electric vehicle with reliance on multivariate trip information. Energy Conversion and Management, 2022,257:115450.
 - More publications can be found on my [Google Scholar homepage](https://scholar.google.com/citations?user=SCHOLAR_ID&user=qC9ScSkAAAAJ).
 
 # Book Chapters
