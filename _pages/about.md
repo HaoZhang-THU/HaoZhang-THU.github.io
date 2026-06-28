@@ -70,6 +70,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 # 🔥 News
 - *2026.06*: Our paper [IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751) was accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026.
+- *2026.06*: Our paper [Learning Versatile Humanoid Manipulation with Touch Dreaming](https://arxiv.org/abs/2604.13015) was accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026.
 - *2026.04*:&nbsp;🎉 Our paper [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](http://arxiv.org/abs/2603.03741) was accepted and selected for an **Oral Presentation (top 0.7%)** at International Conference on Machine Learning (ICML) 2026.
 - *2026.01*: I serve as an Associate Editor for the upcoming IEEE International Conference on Intelligent Transportation Systems (ITSC 2026). I warmly welcome you to submit your papers to this exciting venue.
 - *2025.10*: Our paper [Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles](https://ieeexplore.ieee.org/document/11215998) was published in IEEE Transactions on Intelligent Transportation Systems.
