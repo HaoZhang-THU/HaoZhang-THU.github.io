@@ -121,7 +121,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 [Learning Versatile Humanoid Manipulation with Touch Dreaming](https://arxiv.org/abs/2604.13015)
 
-Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Krishna Senthilkumaran, **Hao Zhang**, Bingqing Chen, Chen Qiu, Eric H. Tseng, Jonathan Francis, Ding Zhao 
+Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Senthilkumaran, **Hao Zhang**, Bingqing Chen, Chen Qiu, Eric H. Tseng, Jonathan Francis, Ding Zhao 
 <br>*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026*
 
 [**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
