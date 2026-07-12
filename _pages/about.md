@@ -94,8 +94,8 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   align-items: stretch;
   gap: 27px;
   box-sizing: border-box;
-  width: 85%;
-  margin: 17px auto 24px;
+  width: 92%;
+  margin: 17px auto 24px 0;
   padding: 0;
   overflow: hidden;
   border: 1px solid rgba(127, 127, 127, 0.20);
@@ -220,6 +220,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   </div>
 </div>
 
+# Recent Talks
 - *2026.07*, Oral Presentation, International Conference on Machine Learning (ICML) 2026, "HALO: Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization", Seoul, South Korea
 - *2024.08*, Plenary Talk, APC 2024: Joint Annual Conference on Advanced Powertrains - China SAE, "Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control", China SAE, Zhenjiang, China
 
