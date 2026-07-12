@@ -9,15 +9,14 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Talks"
+    url: "/#-invited-talks"
+    
   - title: "Publications"
     url: "/#-featured-publications"
 
-  - title: "Honors and Awards"
+  - title: "Honors"
     url: "/#-honors-and-awards"
-
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
 
   - title: "Services"
     url: "/#-service"
