@@ -92,14 +92,15 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 .media-talk-card {
   display: flex;
   align-items: stretch;
-  gap: 32px;
-  width: 100%;
-  margin: 20px 0 28px;
+  gap: 27px;
+  box-sizing: border-box;
+  width: 85%;
+  margin: 17px auto 24px;
   padding: 0;
   overflow: hidden;
   border: 1px solid rgba(127, 127, 127, 0.20);
-  border-radius: 10px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border-radius: 9px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
 }
 
 .media-talk-visual {
@@ -112,8 +113,9 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 .media-talk-visual img {
   display: block;
   width: 100%;
-  height: auto;
+  height: 100%;
   margin: 0;
+  object-fit: cover;
 }
 
 .media-talk-content {
@@ -121,18 +123,30 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 28px 30px 28px 0;
+  min-width: 0;
+  padding: 23px 25px 23px 0;
+}
+
+.media-talk-label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.58;
 }
 
 .media-talk-content h3 {
-  margin: 0 0 14px;
-  font-size: 1.45em;
-  line-height: 1.2;
+  margin: 0 0 12px;
+  font-size: 1.25em;
+  line-height: 1.28;
 }
 
 .media-talk-content p {
-  margin: 0 0 22px;
-  line-height: 1.55;
+  margin: 0 0 18px;
+  font-size: 0.92em;
+  line-height: 1.52;
 }
 
 .media-talk-link {
@@ -142,8 +156,14 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   text-decoration: none;
 }
 
+.media-talk-link:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 700px) {
   .media-talk-card {
+    width: 100%;
+    margin: 18px 0 24px;
     flex-direction: column;
     gap: 0;
   }
@@ -153,31 +173,49 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
     width: 100%;
   }
 
+  .media-talk-visual img {
+    height: auto;
+  }
+
   .media-talk-content {
-    padding: 22px 24px 26px;
+    padding: 22px 24px 25px;
+  }
+
+  .media-talk-content h3 {
+    font-size: 1.25em;
+  }
+
+  .media-talk-content p {
+    font-size: 0.96em;
   }
 }
 </style>
 
 <div class="media-talk-card">
   <div class="media-talk-visual">
-    <img src="images/HALYPO.gif"
-         alt="Hao Zhang giving an academic talk at ICML 2026">
+    <img
+      src="images/ICMLtalk.gif"
+      alt="Hao Zhang delivering an academic talk"
+    >
   </div>
 
   <div class="media-talk-content">
-    <h3>Academic Talk</h3>
+    <span class="media-talk-label">Academic Talk</span>
+
+    <h3>Trustworthy Embodied Intelligence</h3>
 
     <p>
-      Trustworthy AI: develop reliable, explainable, verifiable,
-      and good-for-all artificial intelligence methods.
+      Research at the intersection of learning, control, and robotics
+      for safe and capable intelligent systems in the physical world.
     </p>
 
-    <a class="media-talk-link"
-       href="https://icml.cc/virtual/2026/session/68647"
-       target="_blank"
-       rel="noopener noreferrer">
-      Watch Video
+    <a
+      class="media-talk-link"
+      href="https://icml.cc/virtual/2026/session/68647"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Watch Video&nbsp;→
     </a>
   </div>
 </div>
@@ -188,10 +226,8 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 
 
-# 📝 Publications 
+# 📝 Featured Publications
 
-
-# Featured Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML (Oral)</div><img src='images/HALYPO.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
