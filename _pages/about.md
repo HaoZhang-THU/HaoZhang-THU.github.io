@@ -85,8 +85,113 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 - *2024.06*: Our paper [Integrated Thermal and Energy Management of Connected Hybrid Electric Vehicles Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10233107) was published in IEEE Transactions on Transportation Electrification.
 
 
-# 📝 Featured Publications 
 
+# 💬 Media
+
+<style>
+.media-talk-card {
+  display: flex;
+  align-items: stretch;
+  gap: 32px;
+  width: 100%;
+  margin: 20px 0 28px;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid rgba(127, 127, 127, 0.20);
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.media-talk-visual {
+  flex: 0 0 66%;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.media-talk-visual img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.media-talk-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 28px 30px 28px 0;
+}
+
+.media-talk-content h3 {
+  margin: 0 0 14px;
+  font-size: 1.45em;
+  line-height: 1.2;
+}
+
+.media-talk-content p {
+  margin: 0 0 22px;
+  line-height: 1.55;
+}
+
+.media-talk-link {
+  display: inline-block;
+  align-self: flex-start;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+@media (max-width: 700px) {
+  .media-talk-card {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .media-talk-visual {
+    flex-basis: auto;
+    width: 100%;
+  }
+
+  .media-talk-content {
+    padding: 22px 24px 26px;
+  }
+}
+</style>
+
+<div class="media-talk-card">
+  <div class="media-talk-visual">
+    <img src="images/HALYPO.gif"
+         alt="Hao Zhang giving an academic talk at ICML 2026">
+  </div>
+
+  <div class="media-talk-content">
+    <h3>Academic Talk</h3>
+
+    <p>
+      Trustworthy AI: develop reliable, explainable, verifiable,
+      and good-for-all artificial intelligence methods.
+    </p>
+
+    <a class="media-talk-link"
+       href="https://icml.cc/virtual/2026/session/68647"
+       target="_blank"
+       rel="noopener noreferrer">
+      Watch Video
+    </a>
+  </div>
+</div>
+
+- *2026.07*, Oral Presentation, International Conference on Machine Learning (ICML) 2026, "HALO: Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization", Seoul, South Korea
+- *2024.08*, Plenary Talk, APC 2024: Joint Annual Conference on Advanced Powertrains - China SAE, "Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control", China SAE, Zhenjiang, China
+
+
+
+
+# 📝 Publications 
+
+
+# Featured Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML (Oral)</div><img src='images/HALYPO.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -255,10 +360,6 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 - *2016* National Scholarship, Ministry of Education of China
 
 
-
-# 💬 Invited Talks
-- *2026.07*, Oral Presentation, International Conference on Machine Learning (ICML) 2026, "HALO: Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization", Seoul, South Korea
-- *2024.08*, Plenary Talk, APC 2024: Joint Annual Conference on Advanced Powertrains - China SAE, "Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control", China SAE, Zhenjiang, China
 
 
 # 📚 Service
