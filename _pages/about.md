@@ -92,7 +92,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   align-items: stretch;
   gap: 27px;
   box-sizing: border-box;
-  width: 100%;
+  width: 98%;
   margin: 17px 0 24px;
   padding: 0;
   overflow: hidden;
@@ -102,7 +102,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 }
 
 .media-talk-visual {
-  flex: 0 0 60.72%;
+  flex: 0 0 62%;
   display: flex;
   align-items: center;
   overflow: hidden;
