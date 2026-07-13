@@ -84,8 +84,6 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 - *2024.06*:&nbsp;🎉 I received the Outstanding Ph.D. Graduate and the Excellent Doctoral Dissertation Award from Tsinghua University.
 - *2024.06*: Our paper [Integrated Thermal and Energy Management of Connected Hybrid Electric Vehicles Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10233107) was published in IEEE Transactions on Transportation Electrification.
 
-
-
 # 💬 Media
 
 <style>
@@ -94,8 +92,8 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   align-items: stretch;
   gap: 27px;
   box-sizing: border-box;
-  width: 92%;
-  margin: 17px auto 24px 0;
+  width: 100%;
+  margin: 17px 0 24px;
   padding: 0;
   overflow: hidden;
   border: 1px solid rgba(127, 127, 127, 0.20);
@@ -104,7 +102,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 }
 
 .media-talk-visual {
-  flex: 0 0 66%;
+  flex: 0 0 60.72%;
   display: flex;
   align-items: center;
   overflow: hidden;
@@ -124,7 +122,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   flex-direction: column;
   justify-content: center;
   min-width: 0;
-  padding: 23px 25px 23px 0;
+  padding: 23px 30px 23px 0;
 }
 
 .media-talk-label {
@@ -200,9 +198,9 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   </div>
 
   <div class="media-talk-content">
-    <span class="media-talk-label">Academic Talk</span>
+    <span class="media-talk-label">Trustworthy Embodied Intelligence</span>
 
-    <h3>Trustworthy Embodied Intelligence</h3>
+    <h3>Academic Talk</h3>
 
     <p>
       Research at the intersection of learning, control, and robotics
@@ -221,9 +219,9 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 </div>
 
 # Recent Talks
+
 - *2026.07*, Oral Presentation, International Conference on Machine Learning (ICML) 2026, "HALO: Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization", Seoul, South Korea
 - *2024.08*, Plenary Talk, APC 2024: Joint Annual Conference on Advanced Powertrains - China SAE, "Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control", China SAE, Zhenjiang, China
-
 
 
 
