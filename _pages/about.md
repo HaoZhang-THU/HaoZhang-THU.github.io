@@ -192,7 +192,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 <div class="media-talk-card">
   <div class="media-talk-visual">
     <img
-      src="images/ICMLtalk.gif"
+      src="images/ICML_talk.gif"
       alt="Hao Zhang delivering an academic talk"
     >
   </div>
