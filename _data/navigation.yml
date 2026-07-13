@@ -10,7 +10,7 @@ main:
     url: "/#-news"
 
   - title: "Media"
-    url: "/#-invited-talks"
+    url: "/#-media"
     
   - title: "Publications"
     url: "/#-featured-publications"
