@@ -351,26 +351,26 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 # Selected Papers
 - **Zhang H**, Yves Tseng, Ding Zhao, H. Eric Tseng. IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
 - **Zhang H**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. International Conference on Machine Learning (ICML) 2026. (**Oral**, top 0.7%)
-- **Zhang H**, Lei N, Li E S, et al. Multi-scale reinforcement learning of dynamic energy controller for connected electrified vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025,26:22607-22619.
+- **Zhang H**, Lei N, Li E S, et al. Multi-scale reinforcement learning of dynamic energy controller for connected electrified vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025,26:22607-22619. (IF: 9.1)
 - Niu Y, Fang Z, Chen B, Zhou S, Senthilkumaran R, **Zhang H**, Chen B, Qiu C, Tseng E H, Francis J, Zhao D. Learning Versatile Humanoid Manipulation with Touch Dreaming. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
-- **Zhang H**, Lei N, Chen B, et al. Bi-level transfer learning for lifelong intelligent energy management of electric vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025,26:16174-16187.
-- Yang G, **Zhang H**, Qiu L. Graph-based multi-agent reinforcement learning with an enriched environment for joint ride-sharing and charging optimization. Applied Energy, 2025,405:127220.
-- Mubai Ding, Yisen Li, et al., **Zhang H*** (Corresponding Author). Learning-augmented optimization and control of long-haul mobility propulsion systems. iScience, 2026,29(5):115579.
-- **Zhang H**, Dong J, Lei N, et al. Optimal vehicle dynamics and powertrain control of carbon-free autonomous vehicles: Large Language Model Assisted Heterogeneous-Agent Learning. Energy, 2025,338:138786
-- **Zhang H**, Yang G, Lei N, et al. Scenario-aware electric vehicle energy control with enhanced vehicle-to-grid capability: A multi-task reinforcement learning approach. Energy, 2025,138189.
-- **Zhang H**, Xu J, Lei N, et al. Surrogate-enhanced multi-objective optimization of on-board hydrogen production device for carbon-free heavy-duty vehicles. Energy, 2025,333:137369.
-- Lei N, **Zhang H**, Hu J, et al. Sim-to-real design and development of reinforcement learning-based energy management strategies for fuel cell electric vehicles. Applied Energy, 2025,393:126030. (**ESI highly cited paper**)
-- Lei N, **Zhang H*** (Corresponding Author), Wang H, et al. Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling. IEEE Trans. on Vehicular Technology, 2025, Early Access.
-- **Zhang H**, Lei N, Chen B, et al. Modeling and control system optimization for electrified vehicles: A data-driven approach. Energy, 2024,311:133196.
-- **Zhang H**, Chen B, Lei N, et al. Coupled velocity and energy management optimization of connected hybrid electric vehicles for maximum collective efficiency. Applied Energy, 2024,360:122792.
-- Li B, Zhuang W, **Zhang H**, et al. Traffic-aware ecological cruising control for connected electric vehicle. IEEE Trans. on Transportation Electrification. 2024,10:5225-5240.
-- **Zhang H**, Chen B, Lei N, et al. Integrated thermal and energy management of connected hybrid electric vehicles using deep reinforcement learning. IEEE Trans. on Transportation Electrification, 2024,10:4594-4603.
-- Lei N, **Zhang H**, and Wang Z. A comprehensive study of various carbon-free vehicle propulsion systems utilizing ammonia-hydrogen synergy fuel. eTransportation, 2024,20:100332.
-- **Zhang H**, Lei N, Wang Z. Ammonia-hydrogen propulsion system for carbon-free heavy-duty vehicles. Applied Energy, 2024,369:123505.
-- Sun H, Li B, **Zhang H**, et al. Ecological electric vehicle platooning: an adaptive tube-based distributed model predictive control approach. IEEE Trans. on Transportation Electrification, 2024,11:1048-1060.
-- Lei N, **Zhang H**, Li R, et al. Physics-informed data-driven modeling approach for commuting-oriented hybrid powertrain optimization. Energy Conversion and Management, 2024;299:117814.
-- **Zhang H**, Lei N, Chen B, et al. Data-driven predictive energy consumption minimization strategy for connected plug-in hybrid electric vehicles. Energy, 2023,283:128514.
-- Lei N, **Zhang H**, Wang H, et al. An improved co-optimization of component sizing and energy management for hybrid powertrains with high-fidelity model. IEEE Trans. on Vehicular Technology, 2023,72:15585-15596.
+- **Zhang H**, Lei N, Chen B, et al. Bi-level transfer learning for lifelong intelligent energy management of electric vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025,26:16174-16187. (IF: 9.1)
+- Yang G, **Zhang H**, Qiu L. Graph-based multi-agent reinforcement learning with an enriched environment for joint ride-sharing and charging optimization. Applied Energy, 2025,405:127220. (IF: 12.2)
+- Mubai Ding, Yisen Li, et al., **Zhang H*** (Corresponding Author). Learning-augmented optimization and control of long-haul mobility propulsion systems. iScience, 2026,29(5):115579. (IF: 4.5)
+- **Zhang H**, Dong J, Lei N, et al. Optimal vehicle dynamics and powertrain control of carbon-free autonomous vehicles: Large Language Model Assisted Heterogeneous-Agent Learning. Energy, 2025,338:138786. (IF: 10.1)
+- **Zhang H**, Yang G, Lei N, et al. Scenario-aware electric vehicle energy control with enhanced vehicle-to-grid capability: A multi-task reinforcement learning approach. Energy, 2025,138189. (IF: 10.1)
+- **Zhang H**, Xu J, Lei N, et al. Surrogate-enhanced multi-objective optimization of on-board hydrogen production device for carbon-free heavy-duty vehicles. Energy, 2025,333:137369. (IF: 10.1)
+- Lei N, **Zhang H**, Hu J, et al. Sim-to-real design and development of reinforcement learning-based energy management strategies for fuel cell electric vehicles. Applied Energy, 2025,393:126030. (**ESI highly cited paper**) (IF: 12.2)
+- Lei N, **Zhang H*** (Corresponding Author), Wang H, et al. Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling. IEEE Trans. on Vehicular Technology, 2025, Early Access. (IF: 7.5)
+- **Zhang H**, Lei N, Chen B, et al. Modeling and control system optimization for electrified vehicles: A data-driven approach. Energy, 2024,311:133196. (IF: 10.1)
+- **Zhang H**, Chen B, Lei N, et al. Coupled velocity and energy management optimization of connected hybrid electric vehicles for maximum collective efficiency. Applied Energy, 2024,360:122792. (IF: 12.2)
+- Li B, Zhuang W, **Zhang H**, et al. Traffic-aware ecological cruising control for connected electric vehicle. IEEE Trans. on Transportation Electrification. 2024,10:5225-5240. (IF: 8.5)
+- **Zhang H**, Chen B, Lei N, et al. Integrated thermal and energy management of connected hybrid electric vehicles using deep reinforcement learning. IEEE Trans. on Transportation Electrification, 2024,10:4594-4603. (IF: 8.5)
+- Lei N, **Zhang H**, and Wang Z. A comprehensive study of various carbon-free vehicle propulsion systems utilizing ammonia-hydrogen synergy fuel. eTransportation, 2024,20:100332. (IF: 18.7)
+- **Zhang H**, Lei N, Wang Z. Ammonia-hydrogen propulsion system for carbon-free heavy-duty vehicles. Applied Energy, 2024,369:123505. (IF: 12.2)
+- Sun H, Li B, **Zhang H**, et al. Ecological electric vehicle platooning: an adaptive tube-based distributed model predictive control approach. IEEE Trans. on Transportation Electrification, 2024,11:1048-1060. (IF: 8.5)
+- Lei N, **Zhang H**, Li R, et al. Physics-informed data-driven modeling approach for commuting-oriented hybrid powertrain optimization. Energy Conversion and Management, 2024;299:117814. (IF: 11.8)
+- **Zhang H**, Lei N, Chen B, et al. Data-driven predictive energy consumption minimization strategy for connected plug-in hybrid electric vehicles. Energy, 2023,283:128514. (IF: 10.1)
+- Lei N, **Zhang H**, Wang H, et al. An improved co-optimization of component sizing and energy management for hybrid powertrains with high-fidelity model. IEEE Trans. on Vehicular Technology, 2023,72:15585-15596. (IF: 7.5)
 - More publications can be found on my [Google Scholar homepage](https://scholar.google.com/citations?user=SCHOLAR_ID&user=qC9ScSkAAAAJ).
 
 # Book Chapters
@@ -402,7 +402,7 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 - **Associate Editor**: IEEE Intelligent Vehicles Symposium (IEEE IV), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Ann Arbor, USA
 - **Associate Editor**: The IEEE International Conference on Intelligent Transportation Systems (ITSC), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Naples, Italy
 - **Guest Editor**: Electronics, Special Issue: Eco-Safe Intelligent Mobility Development and Application
-- **Journal Reviewer**: 1. IEEE Transactions on Intelligent Transportation Systems; 2. IEEE Transactions on Intelligent Vehicles; 3. IEEE Transactions on Transportation Electrification; 4. IEEE Transactions on Visualization and Computer Graphics; 5. IEEE Open Journal of Vehicular Technology; 6. Renewable and Sustainable Energy Reviews; 7. Applied Energy; 8. Energy; 9. Energy Conversion and Management; 10. Sustainable Energy, Grids and Networks; 11. Journal of Cleaner Production; 12. Journal of Energy Storage; 13. Engineering Applications of Artificial Intelligence
+- **Journal Reviewer**: 1. IEEE Transactions on Intelligent Transportation Systems (IF: 9.1); 2. IEEE Transactions on Intelligent Vehicles (IF: 14.3); 3. IEEE Transactions on Transportation Electrification (IF: 8.5); 4. IEEE Transactions on Visualization and Computer Graphics (IF: 6.8); 5. IEEE Open Journal of Vehicular Technology (IF: 6.6); 6. Renewable and Sustainable Energy Reviews (IF: 18.0); 7. Applied Energy (IF: 12.2); 8. Energy (IF: 10.1); 9. Energy Conversion and Management (IF: 11.8); 10. Sustainable Energy, Grids and Networks (IF: 5.7); 11. Journal of Cleaner Production (IF: 10.7); 12. Journal of Energy Storage (IF: 10.7); 13. Engineering Applications of Artificial Intelligence (IF: 9.0); 14. Green Energy and Intelligent Transportation (IF: 21.5)
 - **Conference Reviewer**: 1. International Conference on Machine Learning (ICML); 2. Annual Conference on Neural Information Processing Systems (NeurIPS); 3. AAAI Conference on Artificial Intelligence (AAAI); 4. IEEE Intelligent Vehicles Symposium (IV); 5. IEEE Intelligent Transportation Systems Conference (ITSC)
 
 
