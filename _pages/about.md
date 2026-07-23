@@ -20,11 +20,11 @@ redirect_from:
 
 I am a Research Associate in the [Safe AI Lab](https://safeai-lab.github.io/#team) at Carnegie Mellon University, working with [Prof. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). I serve as the Associate Director of the [ETAIC (Embodied Technology for Autonomy, Intelligence, and Control)](https://etaic.github.io/) Lab at the University of Texas at Arlington, working with [Prof. Eric Tseng](https://www.nae.edu/248787/Dr-Hongtei-E-Tseng), a member of the [National Academy of Engineering](https://www.nae.edu/). Prior to this, I worked as a Research Fellow at Tsinghua University and a Visiting Researcher at University College of London. I received my Ph.D. from School of Vehicle and Mobility at Tsinghua University, co-advised by [Prof. Zhi Wang](https://www.svm.tsinghua.edu.cn/essay/74/1854.html) and [Prof. Shengbo Eben Li](https://www.svm.tsinghua.edu.cn/essay/80/2123.html).
 
-I was the recipient of the Outstanding Doctoral Dissertation Award, the Outstanding Ph.D. Graduate, and the “Shuimu Scholar” talent program at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2024. My doctoral research directly contributed to the industry deployment of reinforcement learning in developing advanced driver-assistance systems and energy management systems, significantly improving safety, energy efficiency, and driving comfort, thereby enhancing the overall driving experience of connected and automated vehicles. Notably, the control systems I developed have been implemented in leading automotive companies such as [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), [SAIC Motor](https://www.saicmotor.com/english/index.shtml), and start-up automotive companies such as [Hybot](http://www.hybot.com.cn/). 
+I was the recipient of the Outstanding Doctoral Dissertation Award, the Outstanding Ph.D. Graduate, and the “Shuimu Scholar” talent program at [Tsinghua University](https://www.tsinghua.edu.cn/en/). My doctoral research on ADAS and EMS contributed to the industry deployment of reinforcement learning since 2019, significantly improving safety, energy efficiency, and driving comfort of connected and automated vehicles. Notably, the control systems I developed have been implemented in leading automotive companies such as [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), [SAIC Motor](https://www.saicmotor.com/english/index.shtml), and start-up automotive companies such as [Hybot](http://www.hybot.com.cn/). 
 
 I have authored over 50 peer-reviewed SCI journal and conference papers. I serve as Guest Editor for several journals and as Associate Editor on the International Program Committee of several conferences including IEEE ITSC, IEEE IV, etc. My current research focuses on multi-agent reinforcement learning theory, the integration of vison-language-models with closed-loop control, and human–robot collaboration using game theory. I aim to advance human-centric trustworthy AI agents for real-world deployment in autonomous systems.
 
-Open to casual collaborations if interests align, and open to bringing in RA/Volunteers to work with me at ETAIC and Safe AI Lab.
+Open to casual collaborations if interests align, and open to bringing in RA/Volunteers to work with me at Safe AI Lab and ETAIC Lab.
 
 
 # 💻 Research Interests
@@ -399,27 +399,11 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 # 📚 Service
 # Reviewer
-- Associate Editor, IEEE Intelligent Vehicles Symposium (IEEE IV), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Ann Arbor, USA
-- Associate Editor, The IEEE International Conference on Intelligent Transportation Systems (ITSC), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Naples, Italy
-- Guest Editor, Electronics, Special Issue: Eco-Safe Intelligent Mobility Development and Application
-- Reviewer, Journal, IEEE Transactions on Intelligent Transportation Systems
-- Reviewer, Journal, IEEE Transactions on Intelligent Vehicles
-- Reviewer, Journal, IEEE Transactions on Transportation Electrification
-- Reviewer, Journal, IEEE Transactions on Vehicular Technology
-- Reviewer, Journal, IEEE Transactions on Visualization and Computer Graphics
-- Reviewer, Journal, IEEE Open Journal of Vehicular Technology
-- Reviewer, Journal, Renewable and Sustainable Energy Reviews
-- Reviewer, Journal, Applied Energy
-- Reviewer, Journal, Energy
-- Reviewer, Journal, Sustainable Energy, Grids and Networks
-- Reviewer, Journal, Energy Conversion and Management
-- Reviewer, Journal, Journal of Cleaner Production
-- Reviewer, Journal, Journal of Energy Storage
-- Reviewer, Journal, Engineering Applications of Artificial Intelligence
-- Reviewer, Conference, International Conference on Machine Learning (ICML)
-- Reviewer, Conference, Annual Conference on Neural Information Processing Systems (NeurIPS)
-- Reviewer, Conference, IEEE Intelligent Vehicles Symposium (IV)
-- Reviewer, Conference, IEEE Intelligent Transportation Systems Conference (ITSC)
+- **Associate Editor**: IEEE Intelligent Vehicles Symposium (IEEE IV), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Ann Arbor, USA
+- **Associate Editor**: The IEEE International Conference on Intelligent Transportation Systems (ITSC), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Naples, Italy
+- **Guest Editor**: Electronics, Special Issue: Eco-Safe Intelligent Mobility Development and Application
+- **Journal Reviewer**: 1. IEEE Transactions on Intelligent Transportation Systems; 2. IEEE Transactions on Intelligent Vehicles; 3. IEEE Transactions on Transportation Electrification; 4. IEEE Transactions on Visualization and Computer Graphics; 5. IEEE Open Journal of Vehicular Technology; 6. Renewable and Sustainable Energy Reviews; 7. Applied Energy; 8. Energy; 9. Energy Conversion and Management; 10. Sustainable Energy, Grids and Networks; 11. Journal of Cleaner Production; 12. Journal of Energy Storage; 13. Engineering Applications of Artificial Intelligence
+- **Conference Reviewer**: 1. International Conference on Machine Learning (ICML); 2. Annual Conference on Neural Information Processing Systems (NeurIPS); 3. AAAI Conference on Artificial Intelligence (AAAI); 4. IEEE Intelligent Vehicles Symposium (IV); 5. IEEE Intelligent Transportation Systems Conference (ITSC)
 
 
 # Teaching
