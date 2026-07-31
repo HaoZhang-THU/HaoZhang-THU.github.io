@@ -33,7 +33,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 - Robotics: Safety-critical decision-making and control of assistive and mobile robots
 - Intelligent vehicles: Human-centric AI for ADAS and EMS to improve safety, efficiency, and comfort
 
-<div style="width: 100%; margin-bottom: 30px; margin-top: 20px;">
+<!-- <div style="width: 100%; margin-bottom: 30px; margin-top: 20px;">
   <div style="display: flex; justify-content: space-between; gap: 2%;">
     
     <div style="width: 23.5%; display: flex; flex-direction: column; align-items: center;">
@@ -65,8 +65,74 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
     </div>
 
   </div>
-</div>
+</div> -->
 
+
+<div style="width: 100%; margin: 20px 0 30px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; row-gap: 24px;">
+
+    <!-- Demo 1 -->
+    <div style="width: 32%; display: flex; flex-direction: column; align-items: center;">
+      <img src="images/demo1.GIF" alt="Demo 1"
+           style="width: 100%; object-fit: cover; border-radius: 8px;
+                  box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:8px;">
+        Multi-Agent Safe Decision Making
+      </div>
+    </div>
+
+    <!-- Demo 2 -->
+    <div style="width: 32%; display: flex; flex-direction: column; align-items: center;">
+      <img src="images/demo2.GIF" alt="Demo 2"
+           style="width: 100%; object-fit: cover; border-radius: 8px;
+                  box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:8px;">
+        Trustworthy AI Partner
+      </div>
+    </div>
+
+    <!-- Demo 3 -->
+    <div style="width: 32%; display: flex; flex-direction: column; align-items: center;">
+      <img src="images/demo3.GIF" alt="Demo 3"
+           style="width: 100%; object-fit: cover; border-radius: 8px;
+                  box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:8px;">
+        Contact-Rich Loco-Manipulation
+      </div>
+    </div>
+
+    <!-- Demo 4 -->
+    <div style="width: 32%; display: flex; flex-direction: column; align-items: center;">
+      <img src="images/demo4.GIF" alt="Demo 4"
+           style="width: 100%; object-fit: cover; border-radius: 8px;
+                  box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:8px;">
+        Intelligent Vehicles and Digital Twins
+      </div>
+    </div>
+
+    <!-- Demo 5 -->
+    <div style="width: 32%; display: flex; flex-direction: column; align-items: center;">
+      <img src="images/demo5.GIF" alt="Demo 5"
+           style="width: 100%; object-fit: cover; border-radius: 8px;
+                  box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:8px;">
+        Game-Theoretic Decision Making
+      </div>
+    </div>
+
+    <!-- Demo 6 -->
+    <div style="width: 32%; display: flex; flex-direction: column; align-items: center;">
+      <img src="images/demo6.GIF" alt="Demo 6"
+           style="width: 100%; object-fit: cover; border-radius: 8px;
+                  box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:8px;">
+        Agile Sports Robotics
+      </div>
+    </div>
+
+  </div>
+</div>
 
 # 🔥 News
 - *2026.06*: Our paper [IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751) was accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026.
