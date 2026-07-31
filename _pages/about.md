@@ -69,64 +69,70 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 
 <div style="width: 100%; margin: 20px 0 30px;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; row-gap: 24px;">
+  <div style="
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      column-gap: 32px;
+      row-gap: 30px;
+  ">
 
     <!-- Demo 1 -->
-    <div style="width: 32%; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 30.5%; display: flex; flex-direction: column; align-items: center;">
       <img src="images/demo1.GIF" alt="Demo 1"
-           style="width: 100%; object-fit: cover; border-radius: 8px;
-                  box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:8px;">
+           style="width:95%; object-fit:cover; border-radius:8px;
+                  box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:10px; line-height:1.3;">
         Multi-Agent Safe Decision Making
       </div>
     </div>
 
     <!-- Demo 3 -->
-    <div style="width: 32%; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 30.5%; display: flex; flex-direction: column; align-items: center;">
       <img src="images/demo3.GIF" alt="Demo 3"
-           style="width: 100%; object-fit: cover; border-radius: 8px;
-                  box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:8px;">
+           style="width:95%; object-fit:cover; border-radius:8px;
+                  box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:10px; line-height:1.3;">
         Contact-Rich Loco-Manipulation
       </div>
     </div>
-    
+
     <!-- Demo 2 -->
-    <div style="width: 32%; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 30.5%; display: flex; flex-direction: column; align-items: center;">
       <img src="images/demo2.GIF" alt="Demo 2"
-           style="width: 100%; object-fit: cover; border-radius: 8px;
-                  box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:8px;">
+           style="width:95%; object-fit:cover; border-radius:8px;
+                  box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:10px; line-height:1.3;">
         Trustworthy AI Partner
       </div>
     </div>
 
     <!-- Demo 4 -->
-    <div style="width: 32%; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 30.5%; display: flex; flex-direction: column; align-items: center;">
       <img src="images/demo4.GIF" alt="Demo 4"
-           style="width: 100%; object-fit: cover; border-radius: 8px;
-                  box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:8px;">
+           style="width:95%; object-fit:cover; border-radius:8px;
+                  box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:10px; line-height:1.3;">
         Intelligent Vehicles and Digital Twins
       </div>
     </div>
 
     <!-- Demo 6 -->
-    <div style="width: 32%; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 30.5%; display: flex; flex-direction: column; align-items: center;">
       <img src="images/demo6.GIF" alt="Demo 6"
-           style="width: 100%; object-fit: cover; border-radius: 8px;
-                  box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:8px;">
+           style="width:95%; object-fit:cover; border-radius:8px;
+                  box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:10px; line-height:1.3;">
         Agile Sports Robotics
       </div>
     </div>
-    
+
     <!-- Demo 5 -->
-    <div style="width: 32%; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 30.5%; display: flex; flex-direction: column; align-items: center;">
       <img src="images/demo5.GIF" alt="Demo 5"
-           style="width: 100%; object-fit: cover; border-radius: 8px;
-                  box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:8px;">
+           style="width:95%; object-fit:cover; border-radius:8px;
+                  box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+      <div style="text-align:center; color:#666; font-size:0.85em; margin-top:10px; line-height:1.3;">
         Game-Theoretic Decision Making
       </div>
     </div>
