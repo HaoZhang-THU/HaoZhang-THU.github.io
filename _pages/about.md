@@ -20,7 +20,7 @@ redirect_from:
 
 I am a Research Associate in the [Safe AI Lab](https://safeai-lab.github.io/#team) at Carnegie Mellon University, working with [Prof. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). I serve as the Associate Director of the [ETAIC (Embodied Technology for Autonomy, Intelligence, and Control)](https://etaic.github.io/) Lab at the University of Texas at Arlington, working with [Prof. Eric Tseng](https://www.nae.edu/248787/Dr-Hongtei-E-Tseng), a member of the [National Academy of Engineering](https://www.nae.edu/). Prior to this, I worked as a Research Fellow at Tsinghua University and a Visiting Researcher at University College London. I graduated from the School of Vehicle and Mobility at Tsinghua University, under the supervision of [Prof. Zhi Wang](https://www.svm.tsinghua.edu.cn/essay/74/1854.html) and [Prof. Shengbo Eben Li](https://www.svm.tsinghua.edu.cn/essay/80/2123.html).
 
-I was the recipient of the Outstanding Doctoral Dissertation Award and the Outstanding Ph.D. Graduate Award at Tsinghua University, and was selected as a Shuimu Scholar. Since 2019, my research on human-robot interaction (HRI), advanced driver-assistance systems (ADAS), and energy management systems (EMS) has contributed to the real-world deployment of reinforcement learning in robotic and intelligent vehicle systems, with a focus on improving safety, energy efficiency, and user comfort. The control and learning systems I developed have been implemented in collaboration with leading automotive companies, including [General Motors (GM)](https://www.gm.com/), [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), [SAIC Motor](https://www.saicmotor.com/english/index.shtml), and start-up automotive companies such as [Hybot](http://www.hybot.com.cn/). 
+I was the recipient of the Outstanding Doctoral Dissertation Award and the Outstanding Ph.D. Graduate Award at Tsinghua University, and was selected as a Shuimu Scholar. Since 2019, my research on human-robot interaction (HRI), advanced driver-assistance systems (ADAS), and energy management systems (EMS) has contributed to the real-world deployment of reinforcement learning in robotic and intelligent vehicle systems, with a focus on improving safety, energy efficiency, and user comfort. The control and learning systems I developed have been implemented in collaboration with leading companies, including [General Motors (GM)](https://www.gm.com/), [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), [SAIC Motor](https://www.saicmotor.com/english/index.shtml), and start-up companies such as [Hybot](http://www.hybot.com.cn/). 
 
 I have authored over 50 peer-reviewed SCI journal and conference papers. I serve as Guest Editor for several journals and as Associate Editor on the International Program Committee of several conferences including IEEE ITSC, IEEE IV, etc. My current research focuses on multi-agent reinforcement learning theory, the integration of vison-language-models with closed-loop control, and human–robot collaboration using game theory. I aim to advance human-centric trustworthy AI agents for real-world deployment in autonomous systems.
 
@@ -29,9 +29,9 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 # 💻 Research Interests
 
-- Physical AI: learning stability and safety, reinforcement learning, and game theory.
-- Robotics: whole-body control, loco-manipulation, human-robot interaction, and VLM/WAM.
-- Mobility: learning-based control of autonomous/electric vehicles, digital twins, and sim-to-real transfer.
+- Physical AI Theory: reinforcement learning and control, learning stability and safety, and game theory.
+- Robotics Applications: whole-body control, loco-manipulation, human-robot interaction, and sim-to-real transfer.
+- Mobility Applications: reinforcement learning for autonomous/electric vehicles, safety evaluation, and digital twins.
 
 
 <div style="width: 100%; margin-bottom: 30px; margin-top: 20px;">
