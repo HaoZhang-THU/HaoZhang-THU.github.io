@@ -18,9 +18,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Associate in the [Safe AI Lab](https://safeai-lab.github.io/#team) at Carnegie Mellon University, working with [Prof. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). I serve as the Associate Director of the [ETAIC (Embodied Technology for Autonomy, Intelligence, and Control)](https://etaic.github.io/) Lab at the University of Texas at Arlington, working with [Prof. Eric Tseng](https://www.nae.edu/248787/Dr-Hongtei-E-Tseng), a member of the [National Academy of Engineering](https://www.nae.edu/). Prior to this, I worked as a Research Fellow at Tsinghua University and a Visiting Researcher at University College of London. I received my Ph.D. from School of Vehicle and Mobility at Tsinghua University, co-advised by [Prof. Zhi Wang](https://www.svm.tsinghua.edu.cn/essay/74/1854.html) and [Prof. Shengbo Eben Li](https://www.svm.tsinghua.edu.cn/essay/80/2123.html).
+I am a Research Associate in the [Safe AI Lab](https://safeai-lab.github.io/#team) at Carnegie Mellon University, working with [Prof. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). I serve as the Associate Director of the [ETAIC (Embodied Technology for Autonomy, Intelligence, and Control)](https://etaic.github.io/) Lab at the University of Texas at Arlington, working with [Prof. Eric Tseng](https://www.nae.edu/248787/Dr-Hongtei-E-Tseng), a member of the [National Academy of Engineering](https://www.nae.edu/). Prior to this, I worked as a Research Fellow at Tsinghua University and a Visiting Researcher at University College London. I graduated from the School of Vehicle and Mobility at Tsinghua University, under the supervision of [Prof. Zhi Wang](https://www.svm.tsinghua.edu.cn/essay/74/1854.html) and [Prof. Shengbo Eben Li](https://www.svm.tsinghua.edu.cn/essay/80/2123.html).
 
-I was the recipient of the Outstanding Doctoral Dissertation Award, the Outstanding Ph.D. Graduate, and the “Shuimu Scholar” Fellowship at [Tsinghua University](https://www.tsinghua.edu.cn/en/). My doctoral research on ADAS and EMS contributed to the industry deployment of reinforcement learning since 2019, significantly improving safety, energy efficiency, and driving comfort of connected and automated vehicles. Notably, the control systems I developed have been implemented in leading automotive companies such as [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), [SAIC Motor](https://www.saicmotor.com/english/index.shtml), and start-up automotive companies such as [Hybot](http://www.hybot.com.cn/). 
+I was the recipient of the Outstanding Doctoral Dissertation Award and the Outstanding Ph.D. Graduate Award at Tsinghua University, and was selected as a Shuimu Scholar. Since 2019, my research on human-robot interaction (HRI), advanced driver-assistance systems (ADAS), and energy management systems (EMS) has contributed to the real-world deployment of reinforcement learning in robotic and intelligent vehicle systems, with a focus on improving safety, energy efficiency, and user comfort. The control and learning systems I developed have been implemented in collaboration with leading automotive companies, including [General Motors (GM)](https://www.gm.com/), [BYD Auto](https://www.byd.com/us), [Dongfeng Motor](https://www.dongfeng-global.com/), [SAIC Motor](https://www.saicmotor.com/english/index.shtml), and start-up automotive companies such as [Hybot](http://www.hybot.com.cn/). 
 
 I have authored over 50 peer-reviewed SCI journal and conference papers. I serve as Guest Editor for several journals and as Associate Editor on the International Program Committee of several conferences including IEEE ITSC, IEEE IV, etc. My current research focuses on multi-agent reinforcement learning theory, the integration of vison-language-models with closed-loop control, and human–robot collaboration using game theory. I aim to advance human-centric trustworthy AI agents for real-world deployment in autonomous systems.
 
@@ -29,9 +29,10 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 # 💻 Research Interests
 
-- Embodied AI theory: Reinforcement learning, Optimal control, VLM with closed-loop control, and game theory
-- Robotics: Safety-critical decision-making and control of assistive and mobile robots
-- Intelligent vehicles: Human-centric AI for ADAS and EMS to improve safety, efficiency, and comfort
+- Physical AI: learning stability and safety, reinforcement learning, and game theory.
+- Robotics: whole-body control, loco-manipulation, human-robot interaction, and VLM/WAM.
+- Mobility: learning-based control of autonomous/electric vehicles, digital twins, and sim-to-real transfer.
+
 
 <div style="width: 100%; margin-bottom: 30px; margin-top: 20px;">
   <div style="display: flex; justify-content: space-between; gap: 2%;">
@@ -221,6 +222,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 - *2026.07*, Oral Presentation, International Conference on Machine Learning (ICML) 2026, "HALO: Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization", Seoul, South Korea
 - *2024.08*, Plenary Talk, APC 2024: Joint Annual Conference on Advanced Powertrains - China SAE, "Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control", China SAE, Zhenjiang, China
+- *2024.05*, Seminar Talk, "Reinforcement Learning-based Control and Policy Transfer for Connected Electric Vehicles", Tsinghua University, Beijing, China
 
 
 
@@ -340,39 +342,37 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 
 
+# Book Chapters
+- **Hao Zhang**, H. Eric Tseng. Foundations of Human-Aware, Intention-Informed Stress Testing for Autonomous Vehicles. To be published.
+- Bin Shuai, **Hao Zhang*** (Co-first Author), Min Hua, et al. Physics-Aware Machine Learning for Integrated Energy Systems Management. ELSEVIER.
 
-
-# Preprints
-- **Zhang H**, Ding Zhao, H. Eric Tseng. C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning. arXiv, 2026, under review.
-- **Zhang H**, H. Eric Tseng. Intention-Aware Adversarial MARL for AV Stress Testing. arXiv, 2025, under review.
-- Xinyi Zhao, Nuo Lei, et al., **Zhang H*** (Corresponding Author). Adversarial experience replay in embodied multi-agent learning for efficient coordination of wheel-legged mobile robots. Engineering Applications of Artificial Intelligence, 2025, under review.
 
 # Selected Papers
-- **Zhang H**, Yves Tseng, Ding Zhao, H. Eric Tseng. IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
-- **Zhang H**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. International Conference on Machine Learning (ICML) 2026. (**Oral**, top 0.7%)
-- **Zhang H**, Lei N, Li E S, et al. Multi-scale reinforcement learning of dynamic energy controller for connected electrified vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025,26:22607-22619. (IF: 9.1)
-- Niu Y, Fang Z, Chen B, Zhou S, Senthilkumaran R, **Zhang H**, Chen B, Qiu C, Tseng E H, Francis J, Zhao D. Learning Versatile Humanoid Manipulation with Touch Dreaming. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
-- **Zhang H**, Lei N, Chen B, et al. Bi-level transfer learning for lifelong intelligent energy management of electric vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025,26:16174-16187. (IF: 9.1)
-- Yang G, **Zhang H**, Qiu L. Graph-based multi-agent reinforcement learning with an enriched environment for joint ride-sharing and charging optimization. Applied Energy, 2025,405:127220. (IF: 12.2)
-- **Zhang H**, Dong J, Lei N, et al. Optimal vehicle dynamics and powertrain control of carbon-free autonomous vehicles: Large Language Model Assisted Heterogeneous-Agent Learning. Energy, 2025,338:138786. (IF: 10.1)
-- **Zhang H**, Yang G, Lei N, et al. Scenario-aware electric vehicle energy control with enhanced vehicle-to-grid capability: A multi-task reinforcement learning approach. Energy, 2025,138189. (IF: 10.1)
-- **Zhang H**, Xu J, Lei N, et al. Surrogate-enhanced multi-objective optimization of on-board hydrogen production device for carbon-free heavy-duty vehicles. Energy, 2025,333:137369. (IF: 10.1)
-- Lei N, **Zhang H**, Hu J, et al. Sim-to-real design and development of reinforcement learning-based energy management strategies for fuel cell electric vehicles. Applied Energy, 2025,393:126030. (**ESI highly cited paper**) (IF: 12.2)
-- Lei N, **Zhang H*** (Corresponding Author), Wang H, et al. Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling. IEEE Trans. on Vehicular Technology, 2025, Early Access. (IF: 7.5)
-- **Zhang H**, Lei N, Chen B, et al. Modeling and control system optimization for electrified vehicles: A data-driven approach. Energy, 2024,311:133196. (IF: 10.1)
-- **Zhang H**, Chen B, Lei N, et al. Coupled velocity and energy management optimization of connected hybrid electric vehicles for maximum collective efficiency. Applied Energy, 2024,360:122792. (IF: 12.2)
-- Li B, Zhuang W, **Zhang H**, et al. Traffic-aware ecological cruising control for connected electric vehicle. IEEE Trans. on Transportation Electrification. 2024,10:5225-5240. (IF: 8.5)
-- **Zhang H**, Chen B, Lei N, et al. Integrated thermal and energy management of connected hybrid electric vehicles using deep reinforcement learning. IEEE Trans. on Transportation Electrification, 2024,10:4594-4603. (IF: 8.5)
-- Lei N, **Zhang H**, and Wang Z. A comprehensive study of various carbon-free vehicle propulsion systems utilizing ammonia-hydrogen synergy fuel. eTransportation, 2024,20:100332. (IF: 18.7)
-- **Zhang H**, Lei N, Wang Z. Ammonia-hydrogen propulsion system for carbon-free heavy-duty vehicles. Applied Energy, 2024,369:123505. (IF: 12.2)
-- Sun H, Li B, **Zhang H**, et al. Ecological electric vehicle platooning: an adaptive tube-based distributed model predictive control approach. IEEE Trans. on Transportation Electrification, 2024,11:1048-1060. (IF: 8.5)
-- Lei N, **Zhang H**, Li R, et al. Physics-informed data-driven modeling approach for commuting-oriented hybrid powertrain optimization. Energy Conversion and Management, 2024;299:117814. (IF: 11.8)
-- **Zhang H**, Lei N, Chen B, et al. Data-driven predictive energy consumption minimization strategy for connected plug-in hybrid electric vehicles. Energy, 2023,283:128514. (IF: 10.1)
-- Lei N, **Zhang H**, Wang H, et al. An improved co-optimization of component sizing and energy management for hybrid powertrains with high-fidelity model. IEEE Trans. on Vehicular Technology, 2023,72:15585-15596. (IF: 7.5)
+- **Hao Zhang**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. HALO: Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. International Conference on Machine Learning (ICML), 2026. Oral Presentation, top 0.7%.
+- **Hao Zhang**, Yves Tseng, Ding Zhao, H. Eric Tseng. IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
+- **Hao Zhang**, Ding Zhao, H. Eric Tseng. Cognition-to-Control: Multi-Agent Learning for Human-Humanoid Collaborative Transport. arXiv preprint arXiv:2603.03768, 2026. Preprint.
+- **Hao Zhang**, H. Eric Tseng. Intention-Aware Adversarial Multi-Agent Reinforcement Learning for Autonomous Vehicle Stress Testing. International Symposium on Advanced Vehicle Control (AVEC), 2026.
+- **Hao Zhang**, Nuo Lei, Shengbo Eben Li, Junzhi Zhang, Zhi Wang. Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, 26(12): 22607-22619. (IF: 9.1)
+- **Hao Zhang**, Guixiang Yang, Nuo Lei, Chaoyi Chen, Boli Chen, Lin Qiu. Scenario-Aware Electric Vehicle Energy Control with Enhanced Vehicle-to-Grid Capability: A Multi-Task Reinforcement Learning Approach. Energy, 2025, 335: 138189. (IF: 10.1)
+- **Hao Zhang**, Nuo Lei, Wang Peng, Bingbing Li, Shujun Lv, Boli Chen, Zhi Wang. Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, 26(10): 16174-16187. (IF: 9.1)
+- **Hao Zhang**, Jiawen Dong, Nuo Lei, Yikun Qin, Bingbing Li, Chaoyi Chen, Boli Chen. Optimal Vehicle Dynamics and Powertrain Control of Carbon-Free Autonomous Vehicles: Large Language Model Assisted Heterogeneous-Agent Learning. Energy, 2025, 338: 138786. (IF: 10.1)
+- **Hao Zhang**, Boli Chen, Nuo Lei, Bingbing Li, Rulong Li, Zhi Wang. Integrated Thermal and Energy Management of Connected Hybrid Electric Vehicles Using Deep Reinforcement Learning. IEEE Transactions on Transportation Electrification, 2024, 10(2): 4594-4603. (IF: 8.5)
+- **Hao Zhang**, Nuo Lei, Boli Chen, Bingbing Li, Rulong Li, Zhi Wang. Modeling and Control System Optimization for Electrified Vehicles: A Data-Driven Approach. Energy, 2024, 310: 133196. (IF: 10.1)
+- **Hao Zhang**, Boli Chen, Nuo Lei, Bingbing Li, Chaoyi Chen, Zhi Wang. Coupled Velocity and Energy Management Optimization of Connected Hybrid Electric Vehicles for Maximum Collective Efficiency. Applied Energy, 2024, 360: 122792. (IF: 12.2)
+- Yuhan Chen, Yuhao Liu, Nuo Lei, Chaoyi Chen, **Hao Zhang**† (Project lead & Corresponding author). Knowledge-Interposed Curriculum Reinforcement Learning for Efficient Supervisory Control Synthesis in Electric Flying Vehicles. Green Energy and Intelligent Transportation, 2026, Early Access. (IF: 21.5)
+- Guoke Luo, **Hao Zhang**† (Corresponding author). Adaptive Bipedal Locomotion on Time-Varying Footholds. IEEE‑RAS International Conference on Humanoid Robots (Humanoids), 2026, under review.
+- Nuo Lei, **Hao Zhang**† (Project lead & Corresponding author), Hong Wang, Zunyan Hu, Hu Chen, Jingjing Hu, Zhi Wang. Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modeling. IEEE Transactions on Vehicular Technology, 2025, 74(6): 8907-8920. (IF: 7.5)
+- Yuanhanxu Song, Xiang Gao, **Hao Zhang**† (Corresponding author). Coordination Residual Learning for Multi-Humanoid Loco-Manipulation. IEEE‑RAS International Conference on Humanoid Robots (Humanoids), 2026, under review.
+- Guixiang Yang, **Hao Zhang**, Lin Qiu. Graph-Based Multi-Agent Reinforcement Learning with an Enriched Environment for Joint Ride-Sharing and Charging Optimization. Applied Energy, 2026, 405: 127220. (IF: 12.2)
+- Nuo Lei, **Hao Zhang**, Jingjing Hu, Zunyan Hu, Zhi Wang. Sim-to-Real Design and Development of Reinforcement Learning-Based Energy Management Strategies for Fuel Cell Electric Vehicles. Applied Energy, 2025, 393: 126030. ESI Highly Cited Paper. (IF: 12.2)
+- Guixiang Yang, **Hao Zhang**, Lin Qiu. Joint Taxi Dispatch and Station Pricing Optimization: A Game-Theoretic Multi-Agent Reinforcement Learning Approach via Alternating Training. Energy, 2026, Article 140715. (IF: 10.1)
+- Nuo Lei, **Hao Zhang**, Hong Wang, Zhi Wang. An Improved Co-Optimization of Component Sizing and Energy Management for Hybrid Powertrains Interacting with High-Fidelity Model. IEEE Transactions on Vehicular Technology, 2023, 72(12): 15585-15596. (IF: 7.5)
+- Bingbing Li, Weichao Zhuang, **Hao Zhang**, Hao Sun, Haoji Liu, Jianrun Zhang, Guodong Yin, Boli Chen. Traffic-Aware Ecological Cruising Control for Connected Electric Vehicle. IEEE Transactions on Transportation Electrification, 2024, 10(3): 5225-5240. (IF: 8.5)
+- Hao Sun, Bingbing Li, **Hao Zhang**, Li Dai, Giuseppe Fedele, Weichao Zhuang, Boli Chen. Ecological Electric Vehicle Platooning: An Adaptive Tube-Based Distributed Model Predictive Control Approach. IEEE Transactions on Transportation Electrification, 2024, 11(1): 1048-1060. (IF: 8.5)
+- Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Senthilkumaran, **Hao Zhang**, Bingqing Chen, Chen Qiu, H. Eric Tseng, Jonathan Francis, Ding Zhao. Learning Versatile Humanoid Manipulation with Touch Dreaming. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
 - More publications can be found on my [Google Scholar homepage](https://scholar.google.com/citations?user=SCHOLAR_ID&user=qC9ScSkAAAAJ).
 
-# Book Chapters
-- Bin Shuai, **Hao Zhang** (Co-first Author), Min Hua, et al. Physics-Aware Machine Learning for Integrated Energy Systems Management. ELSEVIER.
+
 
 
 # 🎖 Honors and Awards
@@ -412,5 +412,7 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 
 # Mentorship
-- Since 2024 (during Postdoc), have **independently provided mentorship** to postgraduate and undergraduate students (research assistants) from Tsinghua University, UC Berkeley, UPenn, UCL, NYU, Brown, HKU, Fudan University, and Zhejiang University. More than half of the mentees have published papers in top-tier conferences and journals, with me serving as the corresponding/last author on multiple projects. I am actively recruiting research assistants and students interested in embodied AI.
+- Since 2024 (during Postdoc), have **independently provided mentorship** to postgraduate and undergraduate students (research assistants):
+  Mr. Ruize Geng (JHU), Mr. Yisen Li (UPenn), Mr. Changwei Yao (CMU), MS. Jiayi Liu (Tsinghua University), Mr. Yuhan Chen (UC Berkeley), Mr. Kaifeng Jia (Cornell University), Ms. Xinyi Zhao (NYU), Ms. Siting Xu (Duke), Mr. Jiarui Zhang (HKU), Ms. Guixiang Yang (Zhejiang University), etc. 
+  More than half of the mentees have published papers in top-tier conferences and journals, with me serving as the corresponding/last author on multiple projects. I am actively recruiting research assistants and students interested in embodied AI.
 - Since 2020, assisted in the supervision of 5 Ph.D. students, 13 master's students; mentored over a dozen undergraduate students, their work received multiple honors including Tsinghua University and Beijing Outstanding Undergraduate Thesis Awards.
