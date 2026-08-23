@@ -344,7 +344,7 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 # Book Chapters
 - **Hao Zhang**, H. Eric Tseng. "Foundations of Human-Aware, Intention-Informed Stress Testing for Autonomous Vehicles." Advances in Intelligent Vehicles in the Era of AI. Institution of Engineering and Technology (IET), To be published.
-- Bin Shuai*, **Hao Zhang*** (Co-first Author), Min Hua, Beiyan Jiang, Zhi Wang, Shengbo Eben Li. "Model-free reinforcement learning for integrated energy control of hybrid road vehicles." Physics-Aware Machine Learning for Integrated Energy Systems Management. Elsevier, 2025. 299-331.
+- Bin Shuai\*, **Hao Zhang**\* (Co-first Author), Min Hua, Beiyan Jiang, Zhi Wang, Shengbo Eben Li. "Model-free reinforcement learning for integrated energy control of hybrid road vehicles." Physics-Aware Machine Learning for Integrated Energy Systems Management. Elsevier, 2025. 299-331.
 
 
 
