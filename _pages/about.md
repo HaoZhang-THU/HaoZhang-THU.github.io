@@ -96,10 +96,19 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   margin: 17px 0 24px;
   padding: 0;
   overflow: hidden;
+
   border: 1px solid rgba(127, 127, 127, 0.20);
   border-radius: 9px;
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
 }
+
+/* Alternating layout */
+.media-talk-card.reverse {
+  flex-direction: row-reverse;
+}
+
+
+/* ---------- Visual ---------- */
 
 .media-talk-visual {
   flex: 0 0 62%;
@@ -116,18 +125,28 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   object-fit: cover;
 }
 
+
+/* ---------- Content ---------- */
+
 .media-talk-content {
   flex: 1;
   display: flex;
   flex-direction: column;
   justify-content: center;
   min-width: 0;
+
   padding: 23px 30px 23px 0;
+}
+
+/* Mirror the inner spacing as well */
+.media-talk-card.reverse .media-talk-content {
+  padding: 23px 0 23px 30px;
 }
 
 .media-talk-label {
   display: block;
   margin-bottom: 8px;
+
   font-size: 0.72em;
   font-weight: 700;
   letter-spacing: 0.08em;
@@ -137,12 +156,14 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 .media-talk-content h3 {
   margin: 0 0 12px;
+
   font-size: 1.25em;
   line-height: 1.28;
 }
 
 .media-talk-content p {
   margin: 0 0 18px;
+
   font-size: 0.92em;
   line-height: 1.52;
 }
@@ -150,6 +171,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 .media-talk-link {
   display: inline-block;
   align-self: flex-start;
+
   font-weight: 700;
   text-decoration: none;
 }
@@ -158,10 +180,15 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   text-decoration: underline;
 }
 
+
+/* ---------- Mobile ---------- */
+
 @media (max-width: 700px) {
-  .media-talk-card {
+  .media-talk-card,
+  .media-talk-card.reverse {
     width: 100%;
     margin: 18px 0 24px;
+
     flex-direction: column;
     gap: 0;
   }
@@ -175,7 +202,8 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
     height: auto;
   }
 
-  .media-talk-content {
+  .media-talk-content,
+  .media-talk-card.reverse .media-talk-content {
     padding: 22px 24px 25px;
   }
 
@@ -189,6 +217,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 }
 </style>
 
+
 <div class="media-talk-card">
   <div class="media-talk-visual">
     <img
@@ -198,7 +227,9 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   </div>
 
   <div class="media-talk-content">
-    <span class="media-talk-label">Trustworthy Embodied Intelligence</span>
+    <span class="media-talk-label">
+      Trustworthy Embodied Intelligence
+    </span>
 
     <h3>Academic Talk</h3>
 
@@ -218,22 +249,25 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   </div>
 </div>
 
+
 <div class="media-talk-card reverse">
   <div class="media-talk-visual">
     <img
       src="images/CMU_PR.gif"
-      alt="Research featured in institutional media"
+      alt="Research featured by Carnegie Mellon University"
     >
   </div>
 
   <div class="media-talk-content">
-    <span class="media-talk-label">Research & Impact</span>
+    <span class="media-talk-label">
+      Research &amp; Impact
+    </span>
 
-    <h3>Research Spotlight</h3>
+    <h3>Institutional Feature</h3>
 
     <p>
-      Selected research stories and institutional features highlighting
-      advances in learning, robotics, and embodied intelligence.
+      Selected research featured by academic institutions,
+      highlighting advances in learning, robotics, and embodied intelligence.
     </p>
 
     <a
