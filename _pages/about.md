@@ -218,11 +218,11 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   </div>
 </div>
 
-<div class="media-talk-card">
+<div class="media-talk-card reverse">
   <div class="media-talk-visual">
     <img
       src="images/CMU_PR.gif"
-      alt="Research Featured in Institutional Media"
+      alt="Research featured in institutional media"
     >
   </div>
 
