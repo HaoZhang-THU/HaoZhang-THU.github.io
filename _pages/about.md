@@ -218,6 +218,35 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   </div>
 </div>
 
+<div class="media-talk-card">
+  <div class="media-talk-visual">
+    <img
+      src="images/CMU_PR.gif"
+      alt="Research Featured in Institutional Media"
+    >
+  </div>
+
+  <div class="media-talk-content">
+    <span class="media-talk-label">Research & Impact</span>
+
+    <h3>Research Spotlight</h3>
+
+    <p>
+      Selected research stories and institutional features highlighting
+      advances in learning, robotics, and embodied intelligence.
+    </p>
+
+    <a
+      class="media-talk-link"
+      href="https://engineering.cmu.edu/news-events/news/2026/09/02-robot-human-collaboration.html"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Read Feature&nbsp;→
+    </a>
+  </div>
+</div>
+
 # Recent Talks
 
 - *2026.07*, Oral Presentation, International Conference on Machine Learning (ICML) 2026, "HALO: Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization", Seoul, South Korea
