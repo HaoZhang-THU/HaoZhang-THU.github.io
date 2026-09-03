@@ -283,8 +283,9 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 # Recent Talks
 
+- *2026.09*, Oral Presentation, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026, "Interaction-Orientated Whole-Body Control for Compliant Object Transport", Pittsburgh, USA
 - *2026.07*, Oral Presentation, International Conference on Machine Learning (ICML) 2026, "HALO: Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization", Seoul, South Korea
-- *2024.08*, Plenary Talk, APC 2024: Joint Annual Conference on Advanced Powertrains - China SAE, "Data-Driven Modeling of Electric Powertrains and Reinforcement Learning-Based Optimal Control", China SAE, Zhenjiang, China
+- *2024.08*, Plenary Talk, APC 2024: Joint Annual Conference on Advanced Powertrains - China SAE, "Data-Driven Modeling of Electric Vehicles and Reinforcement Learning-Based Optimal Control", China SAE, Zhenjiang, China
 - *2024.05*, Seminar Talk, "Reinforcement Learning-based Control and Policy Transfer for Connected Electric Vehicles", Tsinghua University, Beijing, China
 
 
