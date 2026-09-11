@@ -70,7 +70,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 
 # 🔥 News
-- *2026.09*:&nbsp;🎉 Our paper <span style="color:#0366d6; text-decoration: underline;">Intention-Aware Adversarial Multi-Agent Reinforcement Learning for Autonomous Vehicle Stress Testing</span> received the **Best Paper Award** at International Symposium on Advanced Vehicle Control (AVEC) 2026.
+- *2026.09*:&nbsp;🎉 Our paper [Intention-Aware Adversarial Multi-Agent Reinforcement Learning for Autonomous Vehicle Stress Testing](http://) received the **Best Paper Award** at International Symposium on Advanced Vehicle Control (AVEC) 2026.
 - *2026.06*: Our paper [IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751) was accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026.
 - *2026.06*: Our paper [Learning Versatile Humanoid Manipulation with Touch Dreaming](https://arxiv.org/abs/2604.13015) was accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026.
 - *2026.04*:&nbsp;🎉 Our paper [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](http://arxiv.org/abs/2603.03741) was accepted and selected for an **Oral Presentation (top 0.7%)** at International Conference on Machine Learning (ICML) 2026.
