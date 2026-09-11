@@ -70,6 +70,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 
 # 🔥 News
+- *2026.09*:&nbsp;🎉 Our paper [Intention-Aware Adversarial Multi-Agent Reinforcement Learning for Autonomous Vehicle Stress Testing](http://arxiv.org/abs/2603.03741) received the **Best Paper Award** at International Symposium on Advanced Vehicle Control (AVEC) 2026.
 - *2026.06*: Our paper [IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751) was accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026.
 - *2026.06*: Our paper [Learning Versatile Humanoid Manipulation with Touch Dreaming](https://arxiv.org/abs/2604.13015) was accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026.
 - *2026.04*:&nbsp;🎉 Our paper [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](http://arxiv.org/abs/2603.03741) was accepted and selected for an **Oral Presentation (top 0.7%)** at International Conference on Machine Learning (ICML) 2026.
@@ -284,7 +285,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 # Recent Talks
 
 - *2026.09*, Oral Presentation, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026, "Interaction-Orientated Whole-Body Control for Compliant Object Transport", Pittsburgh, USA
-- *2026.09*, Oral Presentation, International Symposium on Advanced Vehicle Control (AVEC) 2026, "Intention-Aware Adversarial Multi-Agent Reinforcement Learning for Autonomous Vehicle Stress Testing", Tsukuba, Japan (Best Paper Award)
+- *2026.09*, Oral Presentation (**Best Paper Award**), International Symposium on Advanced Vehicle Control (AVEC) 2026, "Intention-Aware Adversarial Multi-Agent Reinforcement Learning for Autonomous Vehicle Stress Testing", Tsukuba, Japan 
 - *2026.07*, Oral Presentation, International Conference on Machine Learning (ICML) 2026, "HALO: Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization", Seoul, South Korea
 - *2024.08*, Plenary Talk, APC 2024: Joint Annual Conference on Advanced Powertrains - China SAE, "Data-Driven Modeling of Electric Vehicles and Reinforcement Learning-Based Optimal Control", China SAE, Zhenjiang, China
 - *2024.05*, Seminar Talk, "Reinforcement Learning-based Control and Policy Transfer for Connected Electric Vehicles", Tsinghua University, Beijing, China
@@ -417,7 +418,7 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 - **Hao Zhang**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. HALO: Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. International Conference on Machine Learning (ICML), 2026. **Oral Presentation, top 0.7%**.
 - **Hao Zhang**, Yves Tseng, Ding Zhao, H. Eric Tseng. IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026, Oral Presentation.
-- **Hao Zhang**, H. Eric Tseng. Intention-Aware Adversarial Multi-Agent Reinforcement Learning for Autonomous Vehicle Stress Testing. International Symposium on Advanced Vehicle Control (AVEC), 2026, Oral Presentation.
+- **Hao Zhang**, H. Eric Tseng. Intention-Aware Adversarial Multi-Agent Reinforcement Learning for Autonomous Vehicle Stress Testing. International Symposium on Advanced Vehicle Control (AVEC), 2026, Oral Presentation, **Best Paper Award**.
 - Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Senthilkumaran, **Hao Zhang**, Bingqing Chen, Chen Qiu, H. Eric Tseng, Jonathan Francis, Ding Zhao. Learning Versatile Humanoid Manipulation with Touch Dreaming. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026, Oral Presentation.
 - **Hao Zhang**, Nuo Lei, Shengbo Eben Li, Junzhi Zhang, Zhi Wang. Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, 26(12): 22607–22619. (IF: 9.1)
 - **Hao Zhang**, Ding Zhao, H. Eric Tseng. Cognition-to-Control: Multi-Agent Learning for Human-Humanoid Collaborative Transport. arXiv:2603.03768, 2026. Preprint.
@@ -442,7 +443,7 @@ The above are selected recent publications from the past 3 years. A complete pub
 
 
 # 🎖 Honors and Awards
-- *2026* Best Paper Award of International Symposium on Advanced Vehicle Control (AVEC)
+- *2026* Best Paper Award at International Symposium on Advanced Vehicle Control
 - *2026* Oral Presentation at International Conference on Machine Learning
 - *2026* Gold Reviewer for International Conference on Machine Learning
 - *2024* Plenary Talk at 2024 China SAE Annual Conference on Advanced Powertrains
