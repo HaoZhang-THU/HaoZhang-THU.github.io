@@ -309,6 +309,63 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/RSJ IROS</div><img src='images/IROSWBC.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751)
+
+**Hao Zhang**, Yves Tseng, Ding Zhao, H. Eric Tseng
+<br>*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026*
+
+[**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We proposed a bio-inspired, interaction-oriented whole-body control (IO-WBC) that functions as an artificial cerebellum - an adaptive motor agent that translates upstream (skill-level) commands into stable, physically consistent whole-body behavior under contact.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2027</div><img src='images/ICRA_DIC.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamics-Induced Commitment in Learning-Based Robotic Penalty Kicks](https://arxiv.org/abs/2609.21100)
+
+Ruize Geng, **Hao E. Zhang**, Yisen Li, Yikai Wang, H. Eric Tseng, Ding Zhao
+<br>*Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2027*
+
+[**arXiv**](https://arxiv.org/abs/2609.21100)
+- We introduce dynamics-induced commitment mapping (DIC-Map), a body-grounded framework that identifies when physical dynamics eliminate strategic alternatives in robotic games, revealing how embodiment fundamentally shapes learning and decision making in humanoid-quadruped penalty kicks.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2027</div><img src='images/ICRA_SAGE.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SAGE: Safety-Aligned Gradient Enforcement for Human-Robot Collaboration](https://arxiv.org/abs/2609.21130)
+
+Yisen Li, **Hao Zhang**, Ruize Geng, Yves Tseng, Ding Zhao, H. Eric Tseng
+<br>*Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2027*
+
+[**arXiv**](https://arxiv.org/abs/2609.21130)
+- We propose safety-aligned gradient enforcement (SAGE), which aligns interpretable multi-agent policy learning with safety-constrained execution through differentiable safety internalization and Lyapunov-regulated team-aware policy updates, enabling safe physical collaboration between multiple humanoid robots and humans.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2027</div><img src='images/ICRA_MOS.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Anticipatory Robot Goalkeeping via Monotone Optimal Stopping](https://arxiv.org/abs/2609.23976)
+
+**Hao E. Zhang**, Ruize Geng, Yisen Li, Yaru Niu, Yikai Wang, Raihan Haque, Khalil Zbiss, Guanyang Luo, Hui-ping Wang, H. Eric Tseng, Ding Zhao
+<br>*Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2027*
+
+[**arXiv**](https://arxiv.org/abs/2609.23976)
+- We formulate anticipatory robotic interception as a finite-horizon optimal stopping problem and propose monotone optimal stopping (MOS), allowing a quadruped goalkeeper to decide when to act before shot intent is fully resolved while retaining closed-loop adaptation to deceptive direction changes.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSHARL.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -336,18 +393,6 @@ Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Senthilkumaran, **Ha
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/RSJ IROS</div><img src='images/IROSWBC.gif' alt="sym" width="92%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751)
-
-**Hao Zhang**, Yves Tseng, Ding Zhao, H. Eric Tseng
-<br>*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026*
-
-[**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We proposed a bio-inspired, interaction-oriented whole-body control (IO-WBC) that functions as an artificial cerebellum - an adaptive motor agent that translates upstream (skill-level) commands into stable, physically consistent whole-body behavior under contact.
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/IEEE_TITS_2025_multi.gif' alt="sym" width="92%"></div></div>
