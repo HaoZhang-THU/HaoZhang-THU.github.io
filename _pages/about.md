@@ -223,7 +223,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
   <div class="media-talk-visual">
     <img
       src="images/ICML_talk.gif"
-      alt="Hao Zhang delivering an academic talk"
+      alt="Hao E. Zhang delivering an academic talk"
     >
   </div>
 
@@ -300,7 +300,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](http://arxiv.org/abs/2603.03741)
 
 
-**Hao Zhang**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng
+**Hao E. Zhang**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng
 <br>*ICML 2026 <span style="color:red;"><strong>Oral Presentation (top 0.7%)</strong></span>*
 
 [**Project Webpage**](https://haozhang-thu.github.io/HALO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -315,7 +315,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 [IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751)
 
-**Hao Zhang**, Yves Tseng, Ding Zhao, H. Eric Tseng
+**Hao E. Zhang**, Yves Tseng, Ding Zhao, H. Eric Tseng
 <br>*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026*
 
 [**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -341,7 +341,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 [SAGE: Safety-Aligned Gradient Enforcement for Human-Robot Collaboration](https://arxiv.org/abs/2609.21130)
 
-**Hao Zhang**, Yisen Li, Ruize Geng, Yves Tseng, Ding Zhao, H. Eric Tseng
+**Hao E. Zhang**, Yisen Li, Ruize Geng, Yves Tseng, Ding Zhao, H. Eric Tseng
 <br>*Submitted to IEEE Trans. (Journal) / ICRA (Conference)*
 
 - We propose safety-aligned gradient enforcement (SAGE), which aligns interpretable multi-agent policy learning with safety-constrained execution through differentiable safety internalization and Lyapunov-regulated team-aware policy updates, enabling safe physical collaboration between multiple humanoid robots and humans.
@@ -368,7 +368,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 [C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning](http://arxiv.org/abs/2603.03768)
 
-**Hao Zhang**, Ding Zhao, H. Eric Tseng
+**Hao E. Zhang**, Ding Zhao, H. Eric Tseng
 <br>*Submitted to ICRA*
 
 [**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -382,7 +382,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 [Learning Versatile Humanoid Manipulation with Touch Dreaming](https://arxiv.org/abs/2604.13015)
 
-Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Senthilkumaran, **Hao Zhang**, Bingqing Chen, Chen Qiu, Eric H. Tseng, Jonathan Francis, Ding Zhao 
+Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Senthilkumaran, **Hao E. Zhang**, Bingqing Chen, Chen Qiu, Eric H. Tseng, Jonathan Francis, Ding Zhao 
 <br>*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026*
 
 [**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -397,7 +397,7 @@ Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Senthilkumaran, **Ha
 
 [Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles](https://www.techrxiv.org/users/692350/articles/1184096-multi-scale-reinforcement-learning-of-dynamic-energy-controller-for-connected-electrified-vehicles?commit=cd309bc80017f735b83292e39179ef3815d2cbe2)
 
-**Hao Zhang**, Nuo Lei, Shengbo Eben Li, Junzhi Zhang, Zhi Wang
+**Hao E. Zhang**, Nuo Lei, Shengbo Eben Li, Junzhi Zhang, Zhi Wang
 <br>*In IEEE Transactions on Intelligent Transportation Systems*
 
 - We proposed a multi-horizon reinforcement learning (MHRL) featuring a novel state representation and coordinated training of sub-networks across multiple time scales, which greatly improves fuel economy in real-world driving.
@@ -410,7 +410,7 @@ Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Senthilkumaran, **Ha
 
 [Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles](https://ieeexplore.ieee.org/document/11034670)
 
-**Hao Zhang**, Nuo Lei, Wang Peng, Bingbing Li, Shujun Lv, Boli Chen, Zhi Wang
+**Hao E. Zhang**, Nuo Lei, Wang Peng, Bingbing Li, Shujun Lv, Boli Chen, Zhi Wang
 <br>*In IEEE Transactions on Intelligent Transportation Systems*
 
 [**Industrial Collaborator: BYD Auto**](https://www.byd.com/us) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -425,7 +425,7 @@ Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Senthilkumaran, **Ha
 
 [Modeling and control system optimization for electrified vehicles: A data-driven approach](https://www.sciencedirect.com/science/article/pii/S0360544224029712?via%3Dihub)
 
-**Hao Zhang**, Nuo Lei, Boli Chen, Bingbing Li, Rulong Li, Zhi Wang
+**Hao E. Zhang**, Nuo Lei, Boli Chen, Bingbing Li, Rulong Li, Zhi Wang
 <br>*In Energy*
 
 [**Industrial Collaborator: Dongfeng Motor**](https://www.dongfeng-global.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -440,7 +440,7 @@ Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Senthilkumaran, **Ha
 
 [Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling](https://ieeexplore.ieee.org/document/10852019)
 
-Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, Jingjing Hu, Zhi Wang
+Nuo Lei, **Hao E. Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, Jingjing Hu, Zhi Wang
 <br>*In IEEE Transactions on Vehicular Technology*
 
 [**Industrial Collaborator: Hybot**](http://www.hybot.com.cn/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -451,42 +451,42 @@ Nuo Lei, **Hao Zhang*** (Corresponding Author), Hong Wang, Zunyan Hu, Hu Chen, J
 
 
 # Book Chapters
-- **Hao Zhang**, H. Eric Tseng. "Foundations of Human-Aware, Intention-Informed Stress Testing for Autonomous Vehicles." Advances in Intelligent Vehicles in the Era of AI. Institution of Engineering and Technology (IET), To be published.
-- Bin Shuai\*, **Hao Zhang**\* (Co-first Author), Min Hua, Beiyan Jiang, Zhi Wang, Shengbo Eben Li. "Model-free reinforcement learning for integrated energy control of hybrid road vehicles." Physics-Aware Machine Learning for Integrated Energy Systems Management. Elsevier, 2025. 299-331.
+- **Hao E. Zhang**, H. Eric Tseng. "Foundations of Human-Aware, Intention-Informed Stress Testing for Autonomous Vehicles." Advances in Intelligent Vehicles in the Era of AI. Institution of Engineering and Technology (IET), To be published.
+- Bin Shuai\*, **Hao E. Zhang**\* (Co-first Author), Min Hua, Beiyan Jiang, Zhi Wang, Shengbo Eben Li. "Model-free reinforcement learning for integrated energy control of hybrid road vehicles." Physics-Aware Machine Learning for Integrated Energy Systems Management. Elsevier, 2025. 299-331.
 
 
 
 # Selected Papers
 
-- **Hao Zhang**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. HALO: Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. International Conference on Machine Learning (ICML), 2026. **Oral Presentation, top 0.7%**.
-- **Hao Zhang**, Yves Tseng, Ding Zhao, H. Eric Tseng. IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026, Oral Presentation.
-- **Hao Zhang**, Ruize Geng, Raihan Haque, Khalil Zbiss, Guanyang Luo, Hui-ping Wang, H. Eric Tseng, Ding Zhao. Banana Kick: Response-Informed Skill Evolution for Humanoid Soccer. IEEE International Conference on Robotics and Automation (ICRA), 2027, Submitted.
-- **Hao Zhang**, H. Eric Tseng. Intention-Aware Adversarial Multi-Agent Reinforcement Learning for Autonomous Vehicle Stress Testing. International Symposium on Advanced Vehicle Control (AVEC), 2026, Oral Presentation, **Best Paper Award**.
-- Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Senthilkumaran, **Hao Zhang**, Bingqing Chen, Chen Qiu, H. Eric Tseng, Jonathan Francis, Ding Zhao. Learning Versatile Humanoid Manipulation with Touch Dreaming. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026, Oral Presentation.
-- **Hao Zhang**, Yisen Li, Ruize Geng, Yves Tseng, Yaru Niu, Ding Zhao, H. Eric Tseng. Physical Contracts for Plug-Compatible Human--Humanoid Collaboration. IEEE International Conference on Robotics and Automation (ICRA), 2027, Submitted.
-- **Hao Zhang**, Nuo Lei, Shengbo Eben Li, Junzhi Zhang, Zhi Wang. Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, 26(12): 22607–22619. (IF: 9.1)
-- Ruize Geng, **Hao Zhang**\* (Co-first Author), Yisen Li, Yikai Wang, H. Eric Tseng, Ding Zhao. Dynamics-Induced Commitment in Learning-Based Robotic Penalty Kicks. IEEE International Conference on Robotics and Automation (ICRA), 2027, Submitted.
-- Yisen Li, **Hao Zhang**\* (Co-first Author), Ruize Geng, Yves Tseng, Ding Zhao, H. Eric Tseng. SAGE: Safety-Aligned Gradient Enforcement for Human-Robot Collaboration. IEEE International Conference on Robotics and Automation (ICRA), 2027, Submitted.
-- Yikai Wang, Honghao Zhu, Xiao Hu, **Hao Zhang**, Zelin Wang, Yip Fun Yeung, Ding Zhao, Lingfeng Sun. KPI: A Promptable Kernel for Physical Interaction on Humanoids. IEEE International Conference on Robotics and Automation (ICRA), 2027, Submitted.
-- **Hao Zhang**, Nuo Lei, Wang Peng, Bingbing Li, Shujun Lv, Boli Chen, Zhi Wang. Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, 26(10): 16174–16187. (IF: 9.1)
-- **Hao Zhang**, Ruize Geng, Yisen Li, Yaru Niu, Yikai Wang, Raihan Haque, Khalil Zbiss, Guanyang Luo, Hui-ping Wang, H. Eric Tseng, Ding Zhao. Anticipatory Robot Goalkeeping via Monotone Optimal Stopping. IEEE International Conference on Robotics and Automation (ICRA), 2027, Submitted.
+- **Hao E. Zhang**, Yaru Niu, Yikai Wang, Ding Zhao, H. Eric Tseng. HALO: Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization. International Conference on Machine Learning (ICML), 2026. **Oral Presentation, top 0.7%**.
+- **Hao E. Zhang**, Yves Tseng, Ding Zhao, H. Eric Tseng. IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026, Oral Presentation.
+- **Hao E. Zhang**, Ruize Geng, Raihan Haque, Khalil Zbiss, Guanyang Luo, Hui-ping Wang, H. Eric Tseng, Ding Zhao. Banana Kick: Response-Informed Skill Evolution for Humanoid Soccer. IEEE International Conference on Robotics and Automation (ICRA), 2027, Submitted.
+- **Hao E. Zhang**, H. Eric Tseng. Intention-Aware Adversarial Multi-Agent Reinforcement Learning for Autonomous Vehicle Stress Testing. International Symposium on Advanced Vehicle Control (AVEC), 2026, Oral Presentation, **Best Paper Award**.
+- Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Senthilkumaran, **Hao E. Zhang**, Bingqing Chen, Chen Qiu, H. Eric Tseng, Jonathan Francis, Ding Zhao. Learning Versatile Humanoid Manipulation with Touch Dreaming. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026, Oral Presentation.
+- **Hao E. Zhang**, Yisen Li, Ruize Geng, Yves Tseng, Yaru Niu, Ding Zhao, H. Eric Tseng. Physical Contracts for Plug-Compatible Human--Humanoid Collaboration. IEEE International Conference on Robotics and Automation (ICRA), 2027, Submitted.
+- **Hao E. Zhang**, Nuo Lei, Shengbo Eben Li, Junzhi Zhang, Zhi Wang. Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, 26(12): 22607–22619. (IF: 9.1)
+- Ruize Geng, **Hao E. Zhang**\* (Co-first Author), Yisen Li, Yikai Wang, H. Eric Tseng, Ding Zhao. Dynamics-Induced Commitment in Learning-Based Robotic Penalty Kicks. IEEE International Conference on Robotics and Automation (ICRA), 2027, Submitted.
+- Yisen Li, **Hao E. Zhang**\* (Co-first Author), Ruize Geng, Yves Tseng, Ding Zhao, H. Eric Tseng. SAGE: Safety-Aligned Gradient Enforcement for Human-Robot Collaboration. IEEE International Conference on Robotics and Automation (ICRA), 2027, Submitted.
+- Yikai Wang, Honghao Zhu, Xiao Hu, **Hao E. Zhang**, Zelin Wang, Yip Fun Yeung, Ding Zhao, Lingfeng Sun. KPI: A Promptable Kernel for Physical Interaction on Humanoids. IEEE International Conference on Robotics and Automation (ICRA), 2027, Submitted.
+- **Hao E. Zhang**, Nuo Lei, Wang Peng, Bingbing Li, Shujun Lv, Boli Chen, Zhi Wang. Bi-Level Transfer Learning for Lifelong-Intelligent Energy Management of Electric Vehicles. IEEE Transactions on Intelligent Transportation Systems, 2025, 26(10): 16174–16187. (IF: 9.1)
+- **Hao E. Zhang**, Ruize Geng, Yisen Li, Yaru Niu, Yikai Wang, Raihan Haque, Khalil Zbiss, Guanyang Luo, Hui-ping Wang, H. Eric Tseng, Ding Zhao. Anticipatory Robot Goalkeeping via Monotone Optimal Stopping. IEEE International Conference on Robotics and Automation (ICRA), 2027, Submitted.
 
-- **Hao Zhang**, Ding Zhao, H. Eric Tseng. Cognition-to-Control: Multi-Agent Learning for Human-Humanoid Collaborative Transport. arXiv:2603.03768, 2026. Preprint.
-- Guoke Luo, **Hao Zhang**<sup>†</sup> (Corresponding author). Adaptive Bipedal Locomotion on Time-Varying Footholds. IEEE-RAS International Conference on Humanoid Robots, 2026, Preprint.
-- Guixiang Yang, **Hao Zhang**, Lin Qiu. Graph-Based Multi-Agent Reinforcement Learning with an Enriched Environment for Joint Ride-Sharing and Charging Optimization. Applied Energy, 2026, 405: 127220. (IF: 12.2)
-- **Hao Zhang**, Guixiang Yang, Nuo Lei, Chaoyi Chen, Boli Chen, Lin Qiu. Scenario-Aware Electric Vehicle Energy Control with Enhanced Vehicle-to-Grid Capability: A Multi-Task Reinforcement Learning Approach. Energy, 2025, 335: 138189. (IF: 10.1)
-- Yuhan Chen, Yuhao Liu, Nuo Lei, Chaoyi Chen, **Hao Zhang**<sup>†</sup> (Project lead & Corresponding author). Knowledge-Interposed Curriculum Reinforcement Learning for Efficient Supervisory Control Synthesis in Electric Flying Vehicles. Green Energy and Intelligent Transportation, 2026, Early Access. (IF: 21.5)
-- Nuo Lei, **Hao Zhang**<sup>†</sup> (Project lead & Corresponding author), Hong Wang, Zunyan Hu, Hu Chen, Jingjing Hu, Zhi Wang. Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modeling. IEEE Transactions on Vehicular Technology, 2025, 74(6): 8907–8920. (IF: 7.5)
-- **Hao Zhang**, Boli Chen, Nuo Lei, Bingbing Li, Rulong Li, Zhi Wang. Integrated Thermal and Energy Management of Connected Hybrid Electric Vehicles Using Deep Reinforcement Learning. IEEE Transactions on Transportation Electrification, 2024, 10(2): 4594–4603. (IF: 8.5)
-- Guixiang Yang, **Hao Zhang**, Lin Qiu. Joint Taxi Dispatch and Station Pricing Optimization: A Game-Theoretic Multi-Agent Reinforcement Learning Approach via Alternating Training. Energy, 2026, Article 140715. (IF: 10.1)
-- Yuanhanxu Song, Xiang Gao, **Hao Zhang**<sup>†</sup> (Corresponding author). Coordination Residual Learning for Multi-Humanoid Loco-Manipulation. IEEE-RAS International Conference on Humanoid Robots, 2026, Preprint.
-- **Hao Zhang**, Jiawen Dong, Nuo Lei, Yikun Qin, Bingbing Li, Chaoyi Chen, Boli Chen. Optimal Vehicle Dynamics and Powertrain Control of Carbon-Free Autonomous Vehicles: Large Language Model Assisted Heterogeneous-Agent Learning. Energy, 2025, 338: 138786. (IF: 10.1)
-- Nuo Lei, **Hao Zhang**, Jingjing Hu, Zunyan Hu, Zhi Wang. Sim-to-Real Design and Development of Reinforcement Learning-Based Energy Management Strategies for Fuel Cell Electric Vehicles. Applied Energy, 2025, 393: 126030. **ESI Highly Cited Paper**. (IF: 12.2)
-- **Hao Zhang**, Boli Chen, Nuo Lei, Bingbing Li, Chaoyi Chen, Zhi Wang. Coupled Velocity and Energy Management Optimization of Connected Hybrid Electric Vehicles for Maximum Collective Efficiency. Applied Energy, 2024, 360: 122792. (IF: 12.2)
-- Nuo Lei, **Hao Zhang**, Hong Wang, Zhi Wang. An Improved Co-Optimization of Component Sizing and Energy Management for Hybrid Powertrains Interacting with High-Fidelity Model. IEEE Transactions on Vehicular Technology, 2023, 72(12): 15585–15596. (IF: 7.5)
-- Bingbing Li, Weichao Zhuang, **Hao Zhang**, Hao Sun, Haoji Liu, Jianrun Zhang, Guodong Yin, Boli Chen. Traffic-Aware Ecological Cruising Control for Connected Electric Vehicle. IEEE Transactions on Transportation Electrification, 2024, 10(3): 5225–5240. (IF: 8.5)
-- **Hao Zhang**, Nuo Lei, Boli Chen, Bingbing Li, Rulong Li, Zhi Wang. Modeling and Control System Optimization for Electrified Vehicles: A Data-Driven Approach. Energy, 2024, 310: 133196. (IF: 10.1)
-- Hao Sun, Bingbing Li, **Hao Zhang**, Li Dai, Giuseppe Fedele, Weichao Zhuang, Boli Chen. Ecological Electric Vehicle Platooning: An Adaptive Tube-Based Distributed Model Predictive Control Approach. IEEE Transactions on Transportation Electrification, 2024, 11(1): 1048–1060. (IF: 8.5)
+- **Hao E. Zhang**, Ding Zhao, H. Eric Tseng. Cognition-to-Control: Multi-Agent Learning for Human-Humanoid Collaborative Transport. arXiv:2603.03768, 2026. Preprint.
+- Guoke Luo, **Hao E. Zhang**<sup>†</sup> (Corresponding author). Adaptive Bipedal Locomotion on Time-Varying Footholds. IEEE-RAS International Conference on Humanoid Robots, 2026, Preprint.
+- Guixiang Yang, **Hao E. Zhang**, Lin Qiu. Graph-Based Multi-Agent Reinforcement Learning with an Enriched Environment for Joint Ride-Sharing and Charging Optimization. Applied Energy, 2026, 405: 127220. (IF: 12.2)
+- **Hao E. Zhang**, Guixiang Yang, Nuo Lei, Chaoyi Chen, Boli Chen, Lin Qiu. Scenario-Aware Electric Vehicle Energy Control with Enhanced Vehicle-to-Grid Capability: A Multi-Task Reinforcement Learning Approach. Energy, 2025, 335: 138189. (IF: 10.1)
+- Yuhan Chen, Yuhao Liu, Nuo Lei, Chaoyi Chen, **Hao E. Zhang**<sup>†</sup> (Project lead & Corresponding author). Knowledge-Interposed Curriculum Reinforcement Learning for Efficient Supervisory Control Synthesis in Electric Flying Vehicles. Green Energy and Intelligent Transportation, 2026, Early Access. (IF: 21.5)
+- Nuo Lei, **Hao E. Zhang**<sup>†</sup> (Project lead & Corresponding author), Hong Wang, Zunyan Hu, Hu Chen, Jingjing Hu, Zhi Wang. Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modeling. IEEE Transactions on Vehicular Technology, 2025, 74(6): 8907–8920. (IF: 7.5)
+- **Hao E. Zhang**, Boli Chen, Nuo Lei, Bingbing Li, Rulong Li, Zhi Wang. Integrated Thermal and Energy Management of Connected Hybrid Electric Vehicles Using Deep Reinforcement Learning. IEEE Transactions on Transportation Electrification, 2024, 10(2): 4594–4603. (IF: 8.5)
+- Guixiang Yang, **Hao E. Zhang**, Lin Qiu. Joint Taxi Dispatch and Station Pricing Optimization: A Game-Theoretic Multi-Agent Reinforcement Learning Approach via Alternating Training. Energy, 2026, Article 140715. (IF: 10.1)
+- Yuanhanxu Song, Xiang Gao, **Hao E. Zhang**<sup>†</sup> (Corresponding author). Coordination Residual Learning for Multi-Humanoid Loco-Manipulation. IEEE-RAS International Conference on Humanoid Robots, 2026, Preprint.
+- **Hao E. Zhang**, Jiawen Dong, Nuo Lei, Yikun Qin, Bingbing Li, Chaoyi Chen, Boli Chen. Optimal Vehicle Dynamics and Powertrain Control of Carbon-Free Autonomous Vehicles: Large Language Model Assisted Heterogeneous-Agent Learning. Energy, 2025, 338: 138786. (IF: 10.1)
+- Nuo Lei, **Hao E. Zhang**, Jingjing Hu, Zunyan Hu, Zhi Wang. Sim-to-Real Design and Development of Reinforcement Learning-Based Energy Management Strategies for Fuel Cell Electric Vehicles. Applied Energy, 2025, 393: 126030. **ESI Highly Cited Paper**. (IF: 12.2)
+- **Hao E. Zhang**, Boli Chen, Nuo Lei, Bingbing Li, Chaoyi Chen, Zhi Wang. Coupled Velocity and Energy Management Optimization of Connected Hybrid Electric Vehicles for Maximum Collective Efficiency. Applied Energy, 2024, 360: 122792. (IF: 12.2)
+- Nuo Lei, **Hao E. Zhang**, Hong Wang, Zhi Wang. An Improved Co-Optimization of Component Sizing and Energy Management for Hybrid Powertrains Interacting with High-Fidelity Model. IEEE Transactions on Vehicular Technology, 2023, 72(12): 15585–15596. (IF: 7.5)
+- Bingbing Li, Weichao Zhuang, **Hao E. Zhang**, Hao Sun, Haoji Liu, Jianrun Zhang, Guodong Yin, Boli Chen. Traffic-Aware Ecological Cruising Control for Connected Electric Vehicle. IEEE Transactions on Transportation Electrification, 2024, 10(3): 5225–5240. (IF: 8.5)
+- **Hao E. Zhang**, Nuo Lei, Boli Chen, Bingbing Li, Rulong Li, Zhi Wang. Modeling and Control System Optimization for Electrified Vehicles: A Data-Driven Approach. Energy, 2024, 310: 133196. (IF: 10.1)
+- Hao Sun, Bingbing Li, **Hao E. Zhang**, Li Dai, Giuseppe Fedele, Weichao Zhuang, Boli Chen. Ecological Electric Vehicle Platooning: An Adaptive Tube-Based Distributed Model Predictive Control Approach. IEEE Transactions on Transportation Electrification, 2024, 11(1): 1048–1060. (IF: 8.5)
 
 The above are selected recent publications from the past 3 years. A complete publication list is available on my [Google Scholar homepage](https://scholar.google.com/citations?user=SCHOLAR_ID&user=qC9ScSkAAAAJ).
 
