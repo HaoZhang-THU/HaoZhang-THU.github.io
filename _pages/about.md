@@ -329,7 +329,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 [Dynamics-Induced Commitment in Learning-Based Robotic Penalty Kicks](https://arxiv.org/abs/2609.21100)
 
 **Hao E. Zhang**, Ruize Geng, Yisen Li, Yikai Wang, H. Eric Tseng, Ding Zhao
-<br>*Submitted to IEEE Trans. (Journal) / ICRA (Conference)*
+<br>*Submitted to IEEE Trans. (Full version) and ICRA (Conf version)*
 
 - We introduce dynamics-induced commitment mapping (DIC-Map), a body-grounded framework that identifies when physical dynamics eliminate strategic alternatives in robotic games, revealing how embodiment fundamentally shapes learning and decision making in humanoid-quadruped penalty kicks.
 </div>
@@ -342,7 +342,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 [SAGE: Safety-Aligned Gradient Enforcement for Human-Robot Collaboration](https://arxiv.org/abs/2609.21130)
 
 **Hao E. Zhang**, Yisen Li, Ruize Geng, Yves Tseng, Ding Zhao, H. Eric Tseng
-<br>*Submitted to IEEE Trans. (Journal) / ICRA (Conference)*
+<br>*Submitted to IEEE Trans. (Full version) and ICRA (Conf version)*
 
 - We propose safety-aligned gradient enforcement (SAGE), which aligns interpretable multi-agent policy learning with safety-constrained execution through differentiable safety internalization and Lyapunov-regulated team-aware policy updates, enabling safe physical collaboration between multiple humanoid robots and humans.
 </div>
@@ -355,7 +355,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 [Anticipatory Robot Goalkeeping via Monotone Optimal Stopping](https://arxiv.org/abs/2609.23976)
 
 **Hao E. Zhang**, Ruize Geng, Yisen Li, Yaru Niu, Yikai Wang, Raihan Haque, Khalil Zbiss, Guanyang Luo, Hui-ping Wang, H. Eric Tseng, Ding Zhao
-<br>*Submitted to IEEE Trans. (Journal) / ICRA (Conference)*
+<br>*Submitted to IEEE Trans. (Full version) and ICRA (Conf version)*
 
 - We formulate anticipatory robotic interception as a finite-horizon optimal stopping problem and propose monotone optimal stopping (MOS), allowing a quadruped goalkeeper to decide when to act before shot intent is fully resolved while retaining closed-loop adaptation to deceptive direction changes.
 </div>
