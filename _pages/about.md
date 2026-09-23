@@ -323,13 +323,13 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2027</div><img src='images/ICRA_DIC.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_DIC.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamics-Induced Commitment in Learning-Based Robotic Penalty Kicks](https://arxiv.org/abs/2609.21100)
 
-Ruize Geng, **Hao E. Zhang**, Yisen Li, Yikai Wang, H. Eric Tseng, Ding Zhao
-<br>*Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2027*
+**Hao E. Zhang**, Ruize Geng, Yisen Li, Yikai Wang, H. Eric Tseng, Ding Zhao
+<br>*Under review*
 
 [**arXiv**](https://arxiv.org/abs/2609.21100)
 - We introduce dynamics-induced commitment mapping (DIC-Map), a body-grounded framework that identifies when physical dynamics eliminate strategic alternatives in robotic games, revealing how embodiment fundamentally shapes learning and decision making in humanoid-quadruped penalty kicks.
@@ -337,13 +337,13 @@ Ruize Geng, **Hao E. Zhang**, Yisen Li, Yikai Wang, H. Eric Tseng, Ding Zhao
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2027</div><img src='images/ICRA_SAGE.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_SAGE.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SAGE: Safety-Aligned Gradient Enforcement for Human-Robot Collaboration](https://arxiv.org/abs/2609.21130)
 
 Yisen Li, **Hao Zhang**, Ruize Geng, Yves Tseng, Ding Zhao, H. Eric Tseng
-<br>*Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2027*
+<br>*Under review*
 
 [**arXiv**](https://arxiv.org/abs/2609.21130)
 - We propose safety-aligned gradient enforcement (SAGE), which aligns interpretable multi-agent policy learning with safety-constrained execution through differentiable safety internalization and Lyapunov-regulated team-aware policy updates, enabling safe physical collaboration between multiple humanoid robots and humans.
@@ -351,13 +351,13 @@ Yisen Li, **Hao Zhang**, Ruize Geng, Yves Tseng, Ding Zhao, H. Eric Tseng
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2027</div><img src='images/ICRA_MOS.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_MOS.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Anticipatory Robot Goalkeeping via Monotone Optimal Stopping](https://arxiv.org/abs/2609.23976)
 
 **Hao E. Zhang**, Ruize Geng, Yisen Li, Yaru Niu, Yikai Wang, Raihan Haque, Khalil Zbiss, Guanyang Luo, Hui-ping Wang, H. Eric Tseng, Ding Zhao
-<br>*Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2027*
+<br>*Under review*
 
 [**arXiv**](https://arxiv.org/abs/2609.23976)
 - We formulate anticipatory robotic interception as a finite-horizon optimal stopping problem and propose monotone optimal stopping (MOS), allowing a quadruped goalkeeper to decide when to act before shot intent is fully resolved while retaining closed-loop adaptation to deceptive direction changes.
