@@ -383,7 +383,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 [C2C: A Cognition-to-Control Hierarchy for Human-Robot Collaboration via Multi-Agent Learning](http://arxiv.org/abs/2603.03768)
 
-**Hao E. Zhang**, Ding Zhao, H. Eric Tseng
+**Hao E. Zhang**, Yisen Li, Ruize Geng, Yves Tseng, Yaru Niu, Ding Zhao, H. Eric Tseng
 <br>*Submitted to ICRA*
 
 [**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
