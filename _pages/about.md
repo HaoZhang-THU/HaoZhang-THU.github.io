@@ -285,6 +285,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 # Recent Talks
 
 - *2026.09*, Oral Presentation, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026, "Interaction-Orientated Whole-Body Control for Compliant Object Transport", Pittsburgh, USA
+- *2026.09*, Invited Talk, China SAE - Young Scholars Frontier Forum, "Learning, Control, and Games for Trustworthy Embodied Intelligence", China Society of Automotive Engineers (CSAE), Online
 - *2026.09*, Oral Presentation (**Best Paper Award**), International Symposium on Advanced Vehicle Control (AVEC) 2026, "Intention-Aware Adversarial Multi-Agent Reinforcement Learning for Autonomous Vehicle Stress Testing", Tsukuba, Japan 
 - *2026.07*, Oral Presentation, International Conference on Machine Learning (ICML) 2026, "HALO: Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization", Seoul, South Korea
 - *2024.08*, Plenary Talk, APC 2024: Joint Annual Conference on Advanced Powertrains - China SAE, "Data-Driven Modeling of Electric Vehicles and Reinforcement Learning-Based Optimal Control", China SAE, Zhenjiang, China
@@ -293,6 +294,20 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 
 # 📝 Featured Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML (Oral)</div><img src='images/ICRA_Banana.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Banana Kick: Response-Informed Skill Evolution for Humanoid Soccer](https://arxiv.org/abs/2609.27269)
+
+
+**Hao E. Zhang**, Ruize Geng, Raihan Haque, Khalil Zbiss, Guanyang Luo, Hui-ping Wang, H. Eric Tseng, Ding Zhao
+<br>*Submitted to IEEE Trans. (Full version) and ICRA (Conf version)*
+
+- We propose response-informed skill evolution (RISE), a closed-loop objective-continuation method for policy adaptation. RISE evolves the ordinary kick into a high-spin curved kick with 11.55 rad/s mean ball spin.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML (Oral)</div><img src='images/HALYPO.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
