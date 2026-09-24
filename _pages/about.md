@@ -325,7 +325,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/RSJ IROS</div><img src='images/IROSWBC.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS</div><img src='images/IROSWBC.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IO-WBC: Interaction-Orientated Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751)
@@ -392,7 +392,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/RSJ IROS</div><img src='images/IROSHTD.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS</div><img src='images/IROSHTD.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Versatile Humanoid Manipulation with Touch Dreaming](https://arxiv.org/abs/2604.13015)
