@@ -351,7 +351,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_SAGE_ICRA.gif' alt="sym" width="115%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_SAGE_ICRA.gif' alt="sym" width="113%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SAGE: Safety-Aligned Gradient Enforcement for Human-Robot Collaboration](https://arxiv.org/abs/2609.21130)
