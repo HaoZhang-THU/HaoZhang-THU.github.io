@@ -295,7 +295,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 
 # 📝 Featured Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML (Oral)</div><img src='images/ICRA_Banana.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_Banana.gif' alt="sym" width="92%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Banana Kick: Response-Informed Skill Evolution for Humanoid Soccer](https://arxiv.org/abs/2609.27269)
