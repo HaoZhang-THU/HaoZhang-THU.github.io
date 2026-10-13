@@ -362,7 +362,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_KPI.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_KPI.gif' alt="sym" width="113%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [KPI: A Promptable Kernel for Physical Interaction on Humanoids](https://arxiv.org/abs/2609.36151)
@@ -370,7 +370,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 Yikai Wang, Honghao Zhu, Xiao Hu, **Hao E. Zhang**, Zelin Wang, Yip Fun Yeung, Ding Zhao, Lingfeng Sun
 <br>*Submitted to ICRA*
 
-- We present KPI, a promptable kernel for physical interaction on humanoid robots that adapts arm impedance and feedforward control to task-specific interaction requirements. By translating natural-language instructions into reference trajectories and interaction contracts, KPI enables versatile physical tasks such as winch operation, door opening, and box transport without task-specific control code.
+- We present KPI, a promptable kernel for physical interaction on humanoid robots that adapts arm impedance and feedforward control to task-specific interaction requirements. KPI enables versatile physical tasks such as winch operation, door opening, and box transport without task-specific control code.
 </div>
 </div>
 
