@@ -540,12 +540,13 @@ The above are selected recent publications from the past 3 years. A complete pub
 
 
 # 📚 Service
-# Reviewer
+# Editor
 - **Associate Editor**: IEEE Intelligent Vehicles Symposium (IEEE IV), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Ann Arbor, USA
 - **Associate Editor**: The IEEE International Conference on Intelligent Transportation Systems (ITSC), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Naples, Italy
 - **Guest Editor**: Biomimetics, Special Issue: Visual Perception and Motor Control for Intelligent Human–Robot Interaction
 - **Guest Editor**: Frontiers in Robotics and AI, Special Issue: Cooperative Autonomous Transportation Systems: Embodied Multi-Agent Intelligence from Simulation to Real-World Deployment
 - **Guest Editor**: Electronics, Special Issue: Eco-Safe Intelligent Mobility Development and Application
+# Reviewer
 - **Journal Reviewer**: 1. IEEE Transactions on Intelligent Transportation Systems (IF: 9.1); 2. IEEE Transactions on Intelligent Vehicles (IF: 14.3); 3. IEEE Transactions on Transportation Electrification (IF: 8.5); 4. IEEE Transactions on Visualization and Computer Graphics (IF: 6.8); 5. IEEE Open Journal of Vehicular Technology (IF: 6.6); 6. Renewable and Sustainable Energy Reviews (IF: 18.0); 7. Applied Energy (IF: 12.2); 8. Energy (IF: 10.1); 9. Energy Conversion and Management (IF: 11.8); 10. Sustainable Energy, Grids and Networks (IF: 5.7); 11. Journal of Cleaner Production (IF: 10.7); 12. Journal of Energy Storage (IF: 10.7); 13. Journal of Power Sources (IF: 8.4); 14. Green Energy and Intelligent Transportation (IF: 21.5); 15. Robotics and Autonomous Systems (IF: 6.0); 16. Engineering Applications of Artificial Intelligence (IF: 9.0); 17. eTransportation (IF: 18.7)
 - **Conference Reviewer**: 1. International Conference on Machine Learning (ICML); 2. Annual Conference on Neural Information Processing Systems (NeurIPS); 3. International Conference on Learning Representations (ICLR); 4. AAAI Conference on Artificial Intelligence (AAAI); 5. IEEE Intelligent Vehicles Symposium (IV); 6. IEEE Intelligent Transportation Systems Conference (ITSC)
 
