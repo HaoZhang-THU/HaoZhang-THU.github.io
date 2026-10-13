@@ -362,7 +362,7 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_KPI.gif' alt="sym" width="113%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_KPI.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [KPI: A Promptable Kernel for Physical Interaction on Humanoids](https://arxiv.org/abs/2609.36151)
