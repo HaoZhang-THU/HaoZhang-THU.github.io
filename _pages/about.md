@@ -332,7 +332,6 @@ Open to casual collaborations if interests align, and open to bringing in RA/Vol
 **Hao E. Zhang**, Yves Tseng, Ding Zhao, H. Eric Tseng
 <br>*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026*
 
-[**Project Webpage**](https://haozhang-thu.github.io/HALyPO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We proposed a bio-inspired, interaction-oriented whole-body control (IO-WBC) that functions as an artificial cerebellum - an adaptive motor agent that translates upstream (skill-level) commands into stable, physically consistent whole-body behavior under contact.
 </div>
 </div>
