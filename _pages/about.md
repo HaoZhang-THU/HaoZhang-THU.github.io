@@ -537,8 +537,9 @@ The above are selected recent publications from the past 3 years. A complete pub
 
 # 📚 Service
 # Editor
-- **Associate Editor**: IEEE Intelligent Vehicles Symposium (IEEE IV), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Ann Arbor, USA
-- **Associate Editor**: The IEEE International Conference on Intelligent Transportation Systems (ITSC), sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Naples, Italy
+- **Associate Editor**: IEEE Intelligent Vehicles Symposium (IEEE IV) 2026, sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Ann Arbor, USA
+- **Associate Editor**: The IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026, sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Naples, Italy
+- **Associate Editor**: IEEE Intelligent Vehicles Symposium (IEEE IV) 2027, sponsored by The IEEE Intelligent Transportation Systems Society (ITSS), Perth, Western Australia
 - **Guest Editor**: Biomimetics, Special Issue: Visual Perception and Motor Control for Intelligent Human–Robot Interaction
 - **Guest Editor**: Frontiers in Robotics and AI, Special Issue: Cooperative Autonomous Transportation Systems: Embodied Multi-Agent Intelligence from Simulation to Real-World Deployment
 - **Guest Editor**: Electronics, Special Issue: Eco-Safe Intelligent Mobility Development and Application
