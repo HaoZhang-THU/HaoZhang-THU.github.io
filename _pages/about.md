@@ -559,6 +559,6 @@ The above are selected recent publications from the past 3 years. A complete pub
 
 # Mentorship
 - Since 2024 (during Postdoc), have **independently provided mentorship** to postgraduate and undergraduate students (research assistants):
-  [Mr. Ruize Geng (JHU)](https://chris-ruizegeng.github.io/), [Mr. Yisen Li (UPenn)](https://yisen03-explosion.github.io/), [Mr. Changwei Yao (CMU)](https://www.chad-yao.com/), MS. Jiayi Liu (Tsinghua), Ms. Guixiang Yang (Zhejiang University), Mr. Yuhan Chen (UC Berkeley), [Mr. Kaifeng Jia (Cornell)](https://kaifeng-jia.github.io/), Ms. Xinyi Zhao (NYU), etc. 
+  [Mr. Ruize Geng (JHU)](https://chris-ruizegeng.github.io/), [Mr. Yisen Li (UPenn)](https://yisen03-explosion.github.io/), [Mr. Changwei Yao (CMU)](https://www.chad-yao.com/), MS. Jiayi Liu (Tsinghua), Ms. Guixiang Yang (Zhejiang University), Mr. Yuhan Chen (UC Berkeley), [Mr. Kaifeng Jia (Cornell)](https://kaifeng-jia.github.io/), Ms. Xinyi Zhao (NYU), etc.  
   More than half of the mentees have published papers in top-tier conferences and journals, with me serving as the corresponding/last author on multiple projects. I am actively recruiting research assistants and students interested in embodied AI.
 - Since 2020, assisted in the supervision of 5 Ph.D. students, 13 master's students; mentored over a dozen undergraduate students, their work received multiple honors including Tsinghua University and Beijing Outstanding Undergraduate Thesis Awards.
